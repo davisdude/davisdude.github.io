@@ -69792,5 +69792,113 @@
     "tags": [
       "OCC 26"
     ]
+  },
+  {
+    "id": 7328,
+    "youtubeId": "KoFr4Et859Q",
+    "originalTitle": "Sponge vs Tato - DMGC 174 - WR1",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "Sponge",
+    "player1Characters": ["Peach"],
+    "player2": "Tato",
+    "player2Characters": ["Peach"],
+    "tags": []
+  },
+  {
+    "id": 7329,
+    "youtubeId": "iKSdxl9HgGE",
+    "originalTitle": "kZ vs Rat Funk - DMGC 174 - WR1",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "kZ",
+    "player1Characters": ["Sheik"],
+    "player2": "Rat Funk",
+    "player2Characters": ["Fox"],
+    "tags": []
+  },
+  {
+    "id": 7330,
+    "youtubeId": "vf8OCzDZahw",
+    "originalTitle": "soup vs GDubs - DMGC 174 - WR1",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "soup",
+    "player1Characters": ["Marth"],
+    "player2": "GDubs",
+    "player2Characters": ["Fox"],
+    "tags": []
+  },
+  {
+    "id": 7331,
+    "youtubeId": "vVjAe9cSxmc",
+    "originalTitle": "Tuffy vs cbb - DMGC 174 - WQF",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "Tuffy",
+    "player1Characters": ["Peach"],
+    "player2": "cbb",
+    "player2Characters": ["Fox"],
+    "tags": []
+  },
+  {
+    "id": 7332,
+    "youtubeId": "PpfmUA2E50M",
+    "originalTitle": "GDubs vs Tato - DMGC 174 - WQF",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "GDubs",
+    "player1Characters": ["Fox"],
+    "player2": "Tato",
+    "player2Characters": ["Peach"],
+    "tags": []
+  },
+  {
+    "id": 7333,
+    "youtubeId": "JaaugcVgOjk",
+    "originalTitle": "Sponge vs soup - DMGC 174 - LR1",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "Sponge",
+    "player1Characters": ["Peach"],
+    "player2": "soup",
+    "player2Characters": ["Marth"],
+    "tags": []
+  },
+  {
+    "id": 7334,
+    "youtubeId": "fg6PinArJKU",
+    "originalTitle": "Tato vs robbie - DMGC 174 - LR3",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "Tato",
+    "player1Characters": ["Peach"],
+    "player2": "robbie",
+    "player2Characters": ["Fox"],
+    "tags": []
+  },
+  {
+    "id": 7335,
+    "youtubeId": "Gqs5aP8bc2I",
+    "originalTitle": "robbie vs diggles137 - DMGC 174 - WQF",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "robbie",
+    "player1Characters": ["Fox"],
+    "player2": "diggles137",
+    "player2Characters": ["Fox"],
+    "tags": []
+  },
+  {
+    "id": 7336,
+    "youtubeId": "o_d3AaGlftg",
+    "originalTitle": "Rat Funk vs Tuffy - DMGC 174 - LR3",
+    "date": "2025-06-05",
+    "tournament": "DMGC 174",
+    "player1": "Rat Funk",
+    "player1Characters": ["Fox"],
+    "player2": "Tuffy",
+    "player2Characters": ["Peach"],
+    "tags": []
   }
 ]
