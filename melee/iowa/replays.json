@@ -2430,9 +2430,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "Slowking",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2442,9 +2442,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "Ohnowen",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2454,9 +2454,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": ["Falcon"],
     "player2": "shrimps is bugs",
-    "player2Characters": [],
+    "player2Characters": ["Falcon"],
     "tags": []
   },
   {
@@ -2466,9 +2466,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -2478,9 +2478,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "shrimps is bugs",
-    "player1Characters": [],
+    "player1Characters": ["Falcon"],
     "player2": "Slowking",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2490,9 +2490,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -2502,9 +2502,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "GDubs",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": ["Jigglypuff"],
     "tags": []
   },
   {
@@ -2514,9 +2514,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "Slowking",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2526,9 +2526,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "shrimps is bugs",
-    "player2Characters": [],
+    "player2Characters": ["Falcon"],
     "tags": []
   },
   {
@@ -2538,9 +2538,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["ICs"],
     "tags": []
   },
   {
@@ -2550,9 +2550,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Saber",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["ICs"],
     "tags": []
   },
   {
@@ -2562,9 +2562,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Ashes",
-    "player1Characters": [],
-    "player2": "Submediant",
-    "player2Characters": [],
+    "player1Characters": ["Peach"],
+    "player2": "submediant",
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2574,9 +2574,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -2586,9 +2586,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2598,9 +2598,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Ashes",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -2610,9 +2610,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Saber",
-    "player1Characters": [],
-    "player2": "Submediant",
-    "player2Characters": [],
+    "player1Characters": ["Marth"],
+    "player2": "submediant",
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2622,9 +2622,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Ashes",
-    "player1Characters": [],
+    "player1Characters": ["Peach", "ICs"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2634,9 +2634,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Ashes",
-    "player1Characters": [],
-    "player2": "Submediant",
-    "player2Characters": [],
+    "player1Characters": ["Peach"],
+    "player2": "submediant",
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2646,9 +2646,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Saber",
-    "player1Characters": [],
-    "player2": "Submediant",
-    "player2Characters": [],
+    "player1Characters": ["Marth"],
+    "player2": "submediant",
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2658,9 +2658,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -2670,9 +2670,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "AbsoluteBott",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2682,9 +2682,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Saber",
-    "player1Characters": [],
-    "player2": "Submediant",
-    "player2Characters": [],
+    "player1Characters": ["Marth"],
+    "player2": "submediant",
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2694,9 +2694,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "sam",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2706,9 +2706,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": ["Marth"],
     "tags": []
   },
   {
@@ -2718,9 +2718,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tuffy",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Niffin",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2730,9 +2730,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "PsyRex",
-    "player1Characters": [],
+    "player1Characters": ["Yoshi"],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2742,9 +2742,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Ashes",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2754,9 +2754,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Marsh",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2766,9 +2766,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Marsh",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -2778,9 +2778,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2790,9 +2790,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -2802,9 +2802,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2814,9 +2814,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "sam",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2826,9 +2826,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Tato",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2838,9 +2838,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "AbsoluteBott",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Tato",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2850,9 +2850,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "hina :)",
-    "player2Characters": [],
+    "player2Characters": ["Falco", "Marth"],
     "tags": []
   },
   {
@@ -2862,9 +2862,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "AbsoluteBott",
-    "player2Characters": [],
+    "player2Characters": ["Luigi", "Falco"],
     "tags": []
   },
   {
@@ -2874,9 +2874,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "PsyRex",
-    "player1Characters": [],
+    "player1Characters": ["Yoshi"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2886,9 +2886,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Tuffy",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2898,9 +2898,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2910,9 +2910,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "sam",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Phoenix",
-    "player2Characters": [],
+    "player2Characters": ["Captain Falcon"],
     "tags": []
   },
   {
@@ -2922,9 +2922,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "kZ",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -2934,9 +2934,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tuffy",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2946,9 +2946,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Tuffy",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2958,9 +2958,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Marsh",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -2970,9 +2970,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "sam",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": ["Jigglypuff"],
     "tags": []
   },
   {
@@ -2982,9 +2982,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": ["Yoshi"],
     "player2": "hina :)",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -2994,9 +2994,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Tato",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3006,9 +3006,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "hina :)",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3018,9 +3018,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "sam",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3030,9 +3030,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Esej",
-    "player1Characters": [],
+    "player1Characters": ["Peach", "Fox"],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3042,9 +3042,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": ["ICs"],
     "player2": "hina :)",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3054,9 +3054,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "kZ",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Marsh",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3066,9 +3066,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "sam",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Niah",
-    "player2Characters": [],
+    "player2Characters": ["Pikachu"],
     "tags": []
   },
   {
@@ -3078,9 +3078,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Judah",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "sam",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3090,9 +3090,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Marsh",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3102,9 +3102,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3114,9 +3114,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "kZ",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3126,9 +3126,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": ["ICs"],
     "player2": "Marsh",
-    "player2Characters": [],
+    "player2Characters": ["Sheik", "Fox"],
     "tags": []
   },
   {
@@ -3138,9 +3138,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "hina :)",
-    "player1Characters": [],
+    "player1Characters": ["Falco", "Marth"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3150,9 +3150,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Niah",
-    "player1Characters": [],
+    "player1Characters": ["Pikachu"],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3162,9 +3162,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3174,9 +3174,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3186,9 +3186,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Niah",
-    "player1Characters": [],
+    "player1Characters": ["Pikachu"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3198,9 +3198,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "sam",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3210,9 +3210,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Judah",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3222,9 +3222,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "gabo.",
-    "player1Characters": [],
+    "player1Characters": ["Luigi"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3234,9 +3234,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3246,9 +3246,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": ["ICs"],
     "player2": "kZ",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3258,9 +3258,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "AbsoluteBott",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "gabo.",
-    "player2Characters": [],
+    "player2Characters": ["Luigi"],
     "tags": []
   },
   {
@@ -3270,9 +3270,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Saber",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3282,9 +3282,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "gabo.",
-    "player2Characters": [],
+    "player2Characters": ["Luigi"],
     "tags": []
   },
   {
@@ -3294,9 +3294,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": ["Yoshi"],
     "player2": "Phoenix",
-    "player2Characters": [],
+    "player2Characters": ["Falcon"],
     "tags": []
   },
   {
@@ -3306,9 +3306,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Vito",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "gabo.",
-    "player2Characters": [],
+    "player2Characters": ["Luigi"],
     "tags": []
   },
   {
@@ -3318,9 +3318,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "gabo.",
-    "player2Characters": [],
+    "player2Characters": ["Falcon", "Fox"],
     "tags": []
   },
   {
@@ -3330,9 +3330,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Vito",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3342,9 +3342,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "Vito",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3354,9 +3354,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Niffin",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3366,9 +3366,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tuffy",
-    "player1Characters": [],
+    "player1Characters": ["Peach", "Fox"],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3378,9 +3378,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Vito",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3390,9 +3390,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "AbsoluteBott",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3402,9 +3402,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "Tuffy",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3414,9 +3414,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "AbsoluteBott",
-    "player1Characters": [],
+    "player1Characters": ["Luigi"],
     "player2": "Vito",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3426,9 +3426,9 @@
     "date": "2025-03-29",
     "tournament": "For Now, Please Walk 2025",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3438,9 +3438,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Ohnowen",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3450,9 +3450,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3462,9 +3462,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "GDubs",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "Zyko",
-    "player2Characters": [],
+    "player2Characters": ["Marth"],
     "tags": []
   },
   {
@@ -3474,9 +3474,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": ["Yoshi"],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3486,9 +3486,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "bald fraud",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Zyko",
-    "player2Characters": [],
+    "player2Characters": ["Marth"],
     "tags": []
   },
   {
@@ -3498,9 +3498,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": ["Jigglypuff"],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3510,9 +3510,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3522,9 +3522,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Zyko",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3534,9 +3534,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "kZ",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": ["Yoshi"],
     "tags": []
   },
   {
@@ -3546,9 +3546,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Sponge",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Zyko",
-    "player2Characters": [],
+    "player2Characters": ["Marth"],
     "tags": []
   },
   {
@@ -3558,23 +3558,21 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Cream",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "bald fraud",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
     "id": 359,
     "youtubeId": "_BkZhuja3f0",
-    "originalTitle": "shrimps is bugs Falcon vs Ohnowen - DMGC 164 - WQF",
+    "originalTitle": "shrimps is bugs vs Ohnowen - DMGC 164 - WQF",
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "shrimps is bugs Falcon",
-    "player1Characters": [
-      "Falco"
-    ],
+    "player1Characters": ["Falcon"],
     "player2": "Ohnowen",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3584,9 +3582,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "Ohnowen",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "bald fraud",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3596,9 +3594,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "Phoenix",
-    "player2Characters": [],
+    "player2Characters": ["Falcon"],
     "tags": []
   },
   {
@@ -3608,9 +3606,9 @@
     "date": "2025-03-27",
     "tournament": "DMGC 164",
     "player1": "shrimps is bugs",
-    "player1Characters": [],
+    "player1Characters": ["Falcon"],
     "player2": "Cream",
-    "player2Characters": [],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -3620,9 +3618,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": ["Mario"],
     "tags": []
   },
   {
@@ -3632,9 +3630,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Dysfunktional",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "Doof",
-    "player2Characters": [],
+    "player2Characters": ["Marth"],
     "tags": []
   },
   {
@@ -3644,9 +3642,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": ["Mario"],
     "tags": []
   },
   {
@@ -3656,9 +3654,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Peach", "Fox"],
     "tags": []
   },
   {
@@ -3668,9 +3666,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Spants",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3680,9 +3678,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "Spants",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3692,9 +3690,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3704,9 +3702,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3716,9 +3714,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": ["Mario"],
     "player2": "Spants",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3728,9 +3726,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3740,9 +3738,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Esej",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3752,9 +3750,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": ["Marth"],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3764,9 +3762,9 @@
     "date": "2025-03-24",
     "tournament": "Battle for the Beehive 109",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": ["Peach"],
     "player2": "Spants",
-    "player2Characters": [],
+    "player2Characters": ["Sheik"],
     "tags": []
   },
   {
@@ -3776,9 +3774,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "DJ Jablonski",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3788,9 +3786,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "DJ Jablonski",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3800,9 +3798,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -3812,9 +3810,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["ICs"],
     "tags": []
   },
   {
@@ -3824,9 +3822,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "DJ Jablonski",
-    "player1Characters": [],
+    "player1Characters": ["Sheik", "Marth"],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": ["ICs"],
     "tags": []
   },
   {
@@ -3836,9 +3834,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Dysfunktional",
-    "player2Characters": [],
+    "player2Characters": ["ICs"],
     "tags": []
   },
   {
@@ -3848,9 +3846,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "Spants",
-    "player1Characters": [],
+    "player1Characters": ["Sheik"],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": ["Falco"],
     "tags": []
   },
   {
@@ -3860,9 +3858,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": ["Falco"],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": ["Fox", "Peach"],
     "tags": []
   },
   {
@@ -3872,9 +3870,9 @@
     "date": "2025-03-10",
     "tournament": "Battle for the Beehive 108",
     "player1": "Dysfunktional",
-    "player1Characters": [],
+    "player1Characters": ["Fox"],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -10323,7 +10321,7 @@
     "tournament": "Whos On Ledge? 8",
     "player1": "PsyRex",
     "player1Characters": [],
-    "player2": "Submediant",
+    "player2": "submediant",
     "player2Characters": [],
     "tags": []
   },
@@ -10417,7 +10415,7 @@
     "originalTitle": "Submediant vs Landon - Whos On Ledge? 8 - RR Pools",
     "date": "2024-10-25",
     "tournament": "Whos On Ledge? 8",
-    "player1": "Submediant",
+    "player1": "submediant",
     "player1Characters": [],
     "player2": "Landon",
     "player2Characters": [],
@@ -10429,7 +10427,7 @@
     "originalTitle": "Submediant vs Rat Funk - Whos On Ledge? 8 - RR Pools",
     "date": "2024-10-25",
     "tournament": "Whos On Ledge? 8",
-    "player1": "Submediant",
+    "player1": "submediant",
     "player1Characters": [],
     "player2": "Rat Funk",
     "player2Characters": [],
@@ -35801,7 +35799,7 @@
     "tournament": "Who's On Ledge? 3",
     "player1": "Tato",
     "player1Characters": [],
-    "player2": "Submediant",
+    "player2": "submediant",
     "player2Characters": [],
     "tags": []
   },
@@ -35823,7 +35821,7 @@
     "originalTitle": "Submediant vs Der_Hund - Who's On Ledge? 3 - Pool 5 RR",
     "date": "2023-08-17",
     "tournament": "Who's On Ledge? 3",
-    "player1": "Submediant",
+    "player1": "submediant",
     "player1Characters": [],
     "player2": "Der_Hund",
     "player2Characters": [],
