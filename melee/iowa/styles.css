@@ -1,0 +1,14 @@
+@import "replay-viewer/styles.css";
+
+/* Gruvbox */
+:root {
+    --primary-color: #d65d0e;
+    --secondary-color: #fe8019;
+    --accent-color: #cc241d;
+    --background-color: #282828;
+    --surface-color: #3c3836;
+    --text-primary: #ebdbb2;
+    --text-secondary: #a89984;
+    --border-color: #665c54;
+    --hover-color: #504945;
+}
