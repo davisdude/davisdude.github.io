@@ -1604,7 +1604,7 @@
     "player1": "Doof",
     "player1Characters": ["Marth"],
     "player2": "submediant",
-    "player2Characters": ["submediant"],
+    "player2Characters": ["Peach"],
     "tags": []
   },
   {
@@ -2912,7 +2912,7 @@
     "player1": "sam",
     "player1Characters": ["Sheik"],
     "player2": "Phoenix",
-    "player2Characters": ["Captain Falcon"],
+    "player2Characters": ["Falcon"],
     "tags": []
   },
   {
@@ -5816,7 +5816,7 @@
     "player1": "GrayCode",
     "player1Characters": ["Falco"],
     "player2": "Cream",
-    "player2Characters": ["Cream"],
+    "player2Characters": ["Fox"],
     "tags": []
   },
   {
@@ -7040,7 +7040,7 @@
     "player1": "W_NDI",
     "player1Characters": ["Jigglypuff"],
     "player2": "Zyko",
-    "player2Characters": ["Zyko"],
+    "player2Characters": ["Marth"],
     "tags": []
   },
   {
