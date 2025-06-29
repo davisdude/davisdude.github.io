@@ -72110,11 +72110,234 @@
     "youtubeId": "hf-VpbS6lA4",
     "originalTitle": "DumpsterMuffin17 vs Skyzim - DMGC #27",
     "date": "2022-06-16",
-    "tournament": "DMGC #27",
-    "player1": "",
-    "player1Characters": [""],
-    "player2": "",
-    "player2Characters": [""],
+    "tournament": "DMGC 27",
+    "player1": "DumpsterMuffin17",
+    "player1Characters": [],
+    "player2": "Skyzim",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7427,
+    "youtubeId": "IzmkGbJdJss",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7428,
+    "youtubeId": "S_rjiwpGGVg",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Beastlytrey",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Mari Stars",
+    "player2Characters": [
+      "Jigglypuff"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7429,
+    "youtubeId": "197pwVZxbWA",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7430,
+    "youtubeId": "KUumuM3fhbg",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7431,
+    "youtubeId": "VUpUZiiJr-U",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "GDubs",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7432,
+    "youtubeId": "hJjW3Kqp6BM",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7433,
+    "youtubeId": "CBkPfMPA3vU",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Tato",
+    "player1Characters": [],
+    "player2": "Rat Funk",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7434,
+    "youtubeId": "A5V-a5CSwuM",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Rat Funk",
+    "player1Characters": [],
+    "player2": "Mari Stars",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7435,
+    "youtubeId": "H8o_oP-M1xQ",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7436,
+    "youtubeId": "kfjyFhKRddA",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "GDubs",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7437,
+    "youtubeId": "kRIz_qCLsNE",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Tato",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": []
+  },
+  {
+    "id": 7438,
+    "youtubeId": "cqB5nvvvg4A",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "diggles137",
+    "player1Characters": [],
+    "player2": "GDubs",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7439,
+    "youtubeId": "8AwAA7HB17w",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Slowking",
+    "player1Characters": [],
+    "player2": "Tato",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7440,
+    "youtubeId": "8bk3r2d00-c",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Tato",
+    "player1Characters": [],
+    "player2": "Rat Funk",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7441,
+    "youtubeId": "iC5J16QLkCg",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Slowking",
+    "player1Characters": [],
+    "player2": "Rat Funk",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7442,
+    "youtubeId": "L1QBBLubxV0",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "Slowking",
+    "player1Characters": [],
+    "player2": "diggles137",
+    "player2Characters": [],
+    "tags": []
+  },
+  {
+    "id": 7443,
+    "youtubeId": "GnHpuXrEG-E",
+    "date": "2025-06-27",
+    "tournament": "DMGC 177",
+    "player1": "diggles137",
+    "player1Characters": [],
+    "player2": "Slowking",
+    "player2Characters": [],
     "tags": []
   }
 ]
