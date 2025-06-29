@@ -75735,9 +75735,13 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+        "Peach"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+        "Fox"
+    ],
     "tags": []
   },
   {
@@ -75746,9 +75750,13 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": [
+        "Fox"
+    ],
     "player2": "Mari Stars",
-    "player2Characters": [],
+    "player2Characters": [
+        "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -75802,9 +75810,13 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+        "Fox"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+        "Fox"
+    ],
     "tags": []
   },
   {
@@ -75813,9 +75825,18 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+        "Roy",
+        "Peach",
+        "Kirby",
+        "Young Link",
+        "Samus",
+        "Mr. Game & Watch"
+    ],
     "player2": "Tato",
-    "player2Characters": [],
+    "player2Characters": [
+        "Peach"
+    ],
     "tags": []
   },
   {
@@ -75824,9 +75845,13 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+        "Peach"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+        "Fox"
+    ],
     "tags": []
   },
   {
@@ -75835,9 +75860,17 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+        "Marth",
+        "Ice Climbers",
+        "Ganondorf",
+        "Mewtwo",
+        "Link"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+        "Fox"
+    ],
     "tags": []
   },
   {
@@ -75846,9 +75879,15 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+        "Mewtwo",
+        "Luigi",
+        "Ness"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+        "Fox"
+    ],
     "tags": []
   },
   {
@@ -75857,9 +75896,16 @@
     "date": "2025-06-27",
     "tournament": "DMGC 177",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+        "Fox"
+    ],
     "player2": "Slowking",
-    "player2Characters": [],
+    "player2Characters": [
+        "Captain Falcon",
+        "Donkey Kong",
+        "Kirby",
+        "Pichu"
+    ],
     "tags": []
   }
 ]
