@@ -75931,7 +75931,9 @@
     ],
     "player2Characters": [
       "Peach"
-    ]
+    ],
+    "player1": "Disabled",
+    "player2": "JuiceOfCactus"
   },
   {
     "id": 7444,
@@ -75943,7 +75945,9 @@
     ],
     "player2Characters": [
       "Yoshi"
-    ]
+    ],
+    "player1": "GrayCode",
+    "player2": "Beastlytrey"
   },
   {
     "id": 7445,
@@ -75955,7 +75959,9 @@
     ],
     "player2Characters": [
       "Peach"
-    ]
+    ],
+    "player1": "Rat Funk",
+    "player2": "JuiceOfCactus"
   },
   {
     "id": 7446,
@@ -75967,7 +75973,9 @@
     ],
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "player1": "Tienda",
+    "player2": "Soup"
   },
   {
     "id": 7447,
@@ -75980,7 +75988,9 @@
     ],
     "player2Characters": [
       "Yoshi"
-    ]
+    ],
+    "player1": "Spicy",
+    "player2": "Beastlytrey"
   },
   {
     "id": 7448,
@@ -75992,7 +76002,9 @@
     ],
     "player2Characters": [
       "Ice Climbers"
-    ]
+    ],
+    "player1": "cbb",
+    "player2": "Disabled"
   },
   {
     "id": 7449,
@@ -76004,7 +76016,9 @@
     ],
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "player1": "Zyko",
+    "player2": "MrWeed420"
   },
   {
     "id": 7450,
@@ -76016,7 +76030,9 @@
     ],
     "player2Characters": [
       "Yoshi"
-    ]
+    ],
+    "player1": "diggles137",
+    "player2": "PsyRex"
   },
   {
     "id": 7451,
@@ -76028,7 +76044,9 @@
     ],
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "player1": "Slowking",
+    "player2": "GrayCode"
   },
   {
     "id": 7452,
@@ -76040,7 +76058,9 @@
     ],
     "player2Characters": [
       "Yoshi"
-    ]
+    ],
+    "player1": "MrWeed420",
+    "player2": "PsyRex"
   },
   {
     "id": 7453,
@@ -76053,7 +76073,9 @@
     ],
     "player2Characters": [
       "Ice Climbers"
-    ]
+    ],
+    "player1": "Spicy",
+    "player2": "Disabled"
   },
   {
     "id": 7454,
@@ -76065,7 +76087,9 @@
     ],
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "player1": "Rat Funk",
+    "player2": "GrayCode"
   },
   {
     "id": 7455,
@@ -76077,7 +76101,9 @@
     ],
     "player2Characters": [
       "Fox"
-    ]
+    ],
+    "player1": "Zyko",
+    "player2": "Rat Funk"
   },
   {
     "id": 7456,
@@ -76089,7 +76115,9 @@
     ],
     "player2Characters": [
       "Sheik"
-    ]
+    ],
+    "player1": "CRACKDOG",
+    "player2": "Tienda"
   },
   {
     "id": 7457,
@@ -76102,7 +76130,9 @@
     "player2Characters": [
       "Fox",
       "Marth"
-    ]
+    ],
+    "player1": "GDubs",
+    "player2": "Spicy"
   },
   {
     "id": 7458,
@@ -76114,7 +76144,9 @@
     ],
     "player2Characters": [
       "Peach"
-    ]
+    ],
+    "player1": "cbb",
+    "player2": "CRACKDOG"
   },
   {
     "id": 7459,
@@ -76126,7 +76158,9 @@
     ],
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "player1": "diggles137",
+    "player2": "Zyko"
   },
   {
     "id": 7460,
@@ -76138,6 +76172,8 @@
     ],
     "player2Characters": [
       "Jigglypuff"
-    ]
+    ],
+    "player1": "Slowking",
+    "player2": "W_NDI"
   }
 ]
