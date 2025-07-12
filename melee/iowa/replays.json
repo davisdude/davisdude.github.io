@@ -81221,5 +81221,197 @@
     ],
     "player1": "Slowking",
     "player2": "W_NDI"
+  },
+  {
+    "id": 7460,
+    "youtubeId": "oeOK024RGLA",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 7461,
+    "youtubeId": "IC8fDAmWcvU",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7462,
+    "youtubeId": "Ftm3a8W7TVc",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7463,
+    "youtubeId": "W8ScuUO1usw",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "Beastlytrey",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Sponge",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 7464,
+    "youtubeId": "iDwoHkdrq9s",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "Soup",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7465,
+    "youtubeId": "gnEHs1ksQcc",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Sponge",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 7466,
+    "youtubeId": "g0WChrUVfrc",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Yoshi",
+      "Samus",
+      "Bowser",
+      "Captain Falcon",
+      "Luigi"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7467,
+    "youtubeId": "Gk4j2RgEiSk",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7468,
+    "youtubeId": "RM4CKHd2Puk",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Jigglypuff",
+      "Peach",
+      "Mr. Game & Watch",
+      "Marth",
+      "Dr. Mario"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7469,
+    "youtubeId": "JpYW2fdD4lo",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Slowking",
+    "player2Characters": [
+      "Kirby",
+      "Link",
+      "Captain Falcon",
+      "Pichu",
+      "Mr. Game & Watch"
+    ]
+  },
+  {
+    "id": 7470,
+    "youtubeId": "HRfcqbY3b-4",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 7471,
+    "youtubeId": "nrvvP-8Lk8Y",
+    "date": "2025-07-10",
+    "tournament": "DMGC Smash Bros Local #179",
+    "tournamentShort": "DMGC 179",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Sheik"
+    ]
   }
 ]
