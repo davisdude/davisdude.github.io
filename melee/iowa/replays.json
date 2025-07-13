@@ -30586,12 +30586,12 @@
     "id": 2429,
     "youtubeId": "KZMJizuR2_M",
     "originalTitle": "Overdrive vs RatFunk - LHCH 140 - LR2",
-    "date": "2024-02-07",
-    "tournament": "LHCH 140",
+    "date": "2024-02-06",
+    "tournament": "Last Hit at Critical Hit #140",
     "tournamentShort": "LHCH 140",
     "player1": "Overdrive",
     "player1Characters": [],
-    "player2": "RatFunk",
+    "player2": "Rat Funk",
     "player2Characters": [],
     "tags": []
   },
@@ -30599,12 +30599,12 @@
     "id": 2430,
     "youtubeId": "kZDrQ96C8wY",
     "originalTitle": "Overdrive vs Saber - LHCH 140 - LQF",
-    "date": "2024-02-07",
-    "tournament": "LHCH 140",
+    "date": "2024-02-06",
+    "tournament": "Last Hit at Critical Hit #140",
     "tournamentShort": "LHCH 140",
-    "player1": "Overdrive",
+    "player1": "Saber",
     "player1Characters": [],
-    "player2": "Saber",
+    "player2": "Overdrive",
     "player2Characters": [],
     "tags": []
   },
@@ -30612,12 +30612,12 @@
     "id": 2431,
     "youtubeId": "omWqx9BIXSU",
     "originalTitle": "Psyrex vs Saber - LHCH 140 - WQF",
-    "date": "2024-02-07",
-    "tournament": "LHCH 140",
+    "date": "2024-02-06",
+    "tournament": "Last Hit at Critical Hit #140",
     "tournamentShort": "LHCH 140",
-    "player1": "Psyrex",
+    "player1": "Saber",
     "player1Characters": [],
-    "player2": "Saber",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": []
   },
@@ -30625,8 +30625,8 @@
     "id": 2432,
     "youtubeId": "mmFzPufSjYI",
     "originalTitle": "Overdrive vs BeastlyTrey - LHCH 140 - LR1",
-    "date": "2024-02-07",
-    "tournament": "LHCH 140",
+    "date": "2024-02-06",
+    "tournament": "Last Hit at Critical Hit #140",
     "tournamentShort": "LHCH 140",
     "player1": "Overdrive",
     "player1Characters": [],
@@ -39697,409 +39697,564 @@
     "id": 3210,
     "youtubeId": "NFhW8vkzYlA",
     "originalTitle": "Enpherest vs Mick - CttWoaS [LR2]",
-    "date": "2023-09-17",
-    "tournament": "CttWoaS [LR2]",
-    "player1": "Enpherest",
-    "player1Characters": [],
-    "player2": "Mick",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Mick",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Enpherest",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3211,
     "youtubeId": "Sp1cCUop_JQ",
     "originalTitle": "Enpherest vs GockInMy2021ToyotaCamry - CttWoaS [LR3]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LR3]",
-    "player1": "Enpherest",
-    "player1Characters": [],
-    "player2": "GockInMy2021ToyotaCamry",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "GockInMy2021ToyotaCamry",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Enpherest",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3212,
     "youtubeId": "s8_OZC5PFD8",
     "originalTitle": "David vs Katbug96 - CttWoaS [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WR2]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "David",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Katbug96",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Peach"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3213,
     "youtubeId": "crtO_kujlyM",
     "originalTitle": "cbb vs tim - CttWoaS [WQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WQF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "cbb",
-    "player1Characters": [],
-    "player2": "tim",
-    "player2Characters": [],
-    "tags": []
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tim",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3214,
     "youtubeId": "7sUvMFg7fUE",
     "originalTitle": "Mick vs Goob - CttWoaS  [LR1]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [LR1]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Mick",
-    "player1Characters": [],
+    "player1Characters": [
+      "Donkey Kong"
+    ],
     "player2": "Goob",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Donkey Kong"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3215,
     "youtubeId": "73acU0hQrPk",
     "originalTitle": "M30W vs Koala - CttWoaS [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WR2]",
-    "player1": "M30W",
-    "player1Characters": [],
-    "player2": "Koala",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Koala",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "M30W",
+    "player2Characters": [
+      "Samus"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3216,
     "youtubeId": "UmHJymIu4bw",
     "originalTitle": "Koala vs Bobbles  - CttWoaS  [WQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [WQF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Koala",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Bobbles",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3217,
     "youtubeId": "B9IWSVPv7tI",
     "originalTitle": "Keff vs diggles137 - CttWoaS [WQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WQF]",
-    "player1": "Keff",
-    "player1Characters": [],
-    "player2": "diggles137",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Keff",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3218,
     "youtubeId": "SFTyh8tAvIA",
     "originalTitle": "Cam vs Koala - CttWoaS [LQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LQF]",
-    "player1": "Cam",
-    "player1Characters": [],
-    "player2": "Koala",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Koala",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Cam",
+    "player2Characters": [
+      "Luigi"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3219,
     "youtubeId": "7Y48o_MS-C8",
     "originalTitle": "cbb vs Koala - CttWoaS [LF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Koala",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3220,
     "youtubeId": "vQ1sFKSu1_k",
     "originalTitle": "cbb vs Koala - CttWoaS [WSF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WSF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Koala",
-    "player2Characters": [],
-    "tags": []
-  },
-  {
-    "id": 3221,
-    "youtubeId": "bE7axFO4it4",
-    "originalTitle": "cbb vs Tim - CttWoaS [WQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WQF]",
-    "player1": "cbb",
-    "player1Characters": [],
-    "player2": "Tim",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3222,
     "youtubeId": "Hnk2ogGTHhs",
     "originalTitle": "Coin vs diggles137 - CttWoaS [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WR2]",
-    "player1": "Coin",
-    "player1Characters": [],
-    "player2": "diggles137",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Donkey Kong"
+    ],
+    "player2": "Coin",
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3223,
     "youtubeId": "QvZ5Rgnm0uE",
     "originalTitle": "David vs cbb - CttWoaS  [WF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [WF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "David",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3224,
     "youtubeId": "GVB_BlF3V5I",
     "originalTitle": "David vs diggles137 - CttWoaS [WSF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WSF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "David",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3225,
     "youtubeId": "S0Uthj2R2tU",
     "originalTitle": "Keff vs Cam - CttWoaS [LR3]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LR3]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Keff",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Cam",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Luigi"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3226,
     "youtubeId": "E23CpdddleQ",
     "originalTitle": "Keff vs Aidz - CttWoaS [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WR2]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Keff",
-    "player1Characters": [],
-    "player2": "Aidz",
-    "player2Characters": [],
-    "tags": []
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "AIDz",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3227,
     "youtubeId": "jd4cQkaR5pY",
     "originalTitle": "Katbug96 vs BenjaminX - CttWoaS  [WR1]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [WR1]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Katbug96",
-    "player1Characters": [],
-    "player2": "BenjaminX",
-    "player2Characters": [],
-    "tags": []
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "Benjamin X",
+    "player2Characters": [
+      "Peach"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3228,
     "youtubeId": "CWj9fauR4Ps",
     "originalTitle": "GockInMy2021ToyotaCamry vs Cam - CttWoaS [LQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LQF]",
-    "player1": "GockInMy2021ToyotaCamry",
-    "player1Characters": [],
-    "player2": "Cam",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Cam",
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "GockInMy2021ToyotaCamry",
+    "player2Characters": [
+      "Fox",
+      "Mr. Game & Watch"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3229,
     "youtubeId": "9a3vNhsRO5c",
     "originalTitle": "Mooj vs  GockInMy2021ToyotaCamry - CttWoaS [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WR2]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Mooj",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "GockInMy2021ToyotaCamry",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3230,
     "youtubeId": "IkjmGI6ldKI",
     "originalTitle": "Mooj vs Katbug96 - CttWoaS [LR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LR2]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Mooj",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "Katbug96",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Peach"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3231,
     "youtubeId": "DkLuN2HvhyM",
     "originalTitle": "FAMunchies vs Aidz - CttWoaS [LR1]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LR1]",
-    "player1": "FAMunchies",
-    "player1Characters": [],
-    "player2": "Aidz",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "AIDz",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "FAMunchies",
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3232,
     "youtubeId": "vpWNloeBbB4",
     "originalTitle": "David vs GockInMy2021ToyotaCamry - CttWoaS [WQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WQF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "David",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "GockInMy2021ToyotaCamry",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3233,
     "youtubeId": "yb7VS5_Lh7E",
     "originalTitle": "David vs Koala - CttWoaS  [GF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [GF]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "David",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Koala",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3234,
     "youtubeId": "T__dTb22EAM",
     "originalTitle": "diggles137 vs Koala - CttWoaS [LSF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LSF]",
-    "player1": "diggles137",
-    "player1Characters": [],
-    "player2": "Koala",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Koala",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3235,
     "youtubeId": "1rSKsJsz3JE",
     "originalTitle": "Mooj vs Tim - CttWoaS [LR3]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LR3]",
-    "player1": "Mooj",
-    "player1Characters": [],
-    "player2": "Tim",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Tim",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Mooj",
+    "player2Characters": [
+      "Yoshi"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3236,
     "youtubeId": "CAJneaUTqx8",
     "originalTitle": "Tim vs Bobbles - CttWoaS  [LQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [LQF]",
-    "player1": "Tim",
-    "player1Characters": [],
-    "player2": "Bobbles",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Bobbles",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tim",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3237,
     "youtubeId": "E44QCW22ZlM",
     "originalTitle": "Tim vs Mick - CttWoaS [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [WR2]",
-    "player1": "Tim",
-    "player1Characters": [],
-    "player2": "Mick",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Mick",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tim",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3238,
     "youtubeId": "_h77LT8IE5Y",
     "originalTitle": "Enpherest vs FAMunchies - CttWoaS  [WR1]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [WR1]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Enpherest",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "FAMunchies",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3239,
     "youtubeId": "cA4AVKQRyck",
     "originalTitle": "Cam vs Bobbles - CttWoaS  [WR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [WR2]",
-    "player1": "Cam",
-    "player1Characters": [],
-    "player2": "Bobbles",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Bobbles",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Cam",
+    "player2Characters": [
+      "Luigi"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3240,
     "youtubeId": "2vaLISyt6UE",
     "originalTitle": "Cam vs BenjaminX - CttWoaS  [LR1]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [LR1]",
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
     "player1": "Cam",
-    "player1Characters": [],
-    "player2": "BenjaminX",
-    "player2Characters": [],
-    "tags": []
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "Benjamin X",
+    "player2Characters": [
+      "Peach",
+      "Marth"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3241,
     "youtubeId": "icgBM98EIHM",
     "originalTitle": "Bobbles vs diggles137 - CttWoaS  [LQF]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [LQF]",
-    "player1": "Bobbles",
-    "player1Characters": [],
-    "player2": "diggles137",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Bobbles",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3242,
     "youtubeId": "NNP1aEvIry4",
     "originalTitle": "Aidz vs Coin - CttWoaS  [LR2]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS  [LR2]",
-    "player1": "Aidz",
-    "player1Characters": [],
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "AIDz",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
     "player2": "Coin",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3243,
     "youtubeId": "DbhJphTLZ_I",
     "originalTitle": "Aidz vs Bobbles - CttWoaS [LR3]",
-    "date": "2023-09-16",
-    "tournament": "CttWoaS [LR3]",
-    "player1": "Aidz",
-    "player1Characters": [],
-    "player2": "Bobbles",
-    "player2Characters": [],
-    "tags": []
+    "date": "2023-09-09",
+    "tournament": "Come to the Weekly... on Saturday?!??!",
+    "player1": "Bobbles",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "AIDz",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "CttWoS"
   },
   {
     "id": 3244,
