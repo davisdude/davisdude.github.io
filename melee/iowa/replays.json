@@ -83095,5 +83095,217 @@
     "tournamentShort": "DMGC 29",
     "player1": "PsyRex",
     "player2": "gabo."
+  },
+  {
+    "id": 7614,
+    "youtubeId": "RgHJT7tL3ZE",
+    "date": "2025-07-08",
+    "tournament": "Tienda's Tournament Series #39",
+    "tournamentShort": "TTS 39",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7615,
+    "youtubeId": "7_Y8C85Al48",
+    "date": "2025-07-08",
+    "tournament": "Tienda's Tournament Series #39",
+    "tournamentShort": "TTS 39",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7616,
+    "youtubeId": "wAiLoI13GEg",
+    "date": "2025-07-08",
+    "tournament": "Tienda's Tournament Series #39",
+    "tournamentShort": "TTS 39",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7617,
+    "youtubeId": "TEbwSVJ4dfI",
+    "date": "2025-07-08",
+    "tournament": "Tienda's Tournament Series #39",
+    "tournamentShort": "TTS 39",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7618,
+    "youtubeId": "2Mk6w3MatI0",
+    "date": "2025-07-08",
+    "tournament": "Tienda's Tournament Series #39",
+    "tournamentShort": "TTS 39",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7618,
+    "youtubeId": "2YICj5-8xWE",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7619,
+    "youtubeId": "N-FTeCUYya0",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Geuser",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7620,
+    "youtubeId": "f6g717a3iy4",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7621,
+    "youtubeId": "JngOtIDYpvc",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7622,
+    "youtubeId": "DQ0BYRdw26E",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7623,
+    "youtubeId": "22lp0wTlS7E",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Species",
+    "player2Characters": [
+      "Jigglypuff",
+      "Peach"
+    ]
+  },
+  {
+    "id": 7624,
+    "youtubeId": "rR_SXsXQm90",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7625,
+    "youtubeId": "yPPATcVmSnA",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 7626,
+    "youtubeId": "oZ-8S-yLVkc",
+    "date": "2025-07-15",
+    "tournament": "Tienda's Tournament Series #40",
+    "tournamentShort": "TTS 40",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   }
 ]
