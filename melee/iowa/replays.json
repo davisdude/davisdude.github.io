@@ -13403,9 +13403,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Doof",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -13416,9 +13420,14 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff",
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -13429,9 +13438,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -13442,9 +13455,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Dysfunktional",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -13455,9 +13472,14 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi",
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -13468,9 +13490,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Dysfunktional",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -13481,9 +13507,14 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Esej",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach",
+      "Pikachu"
+    ],
     "player2": "Doof",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -13494,9 +13525,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "PsyRex",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi"
+    ],
     "tags": []
   },
   {
@@ -13507,9 +13542,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -13520,9 +13559,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -13533,9 +13576,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "PsyRex",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "Mouse",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -13546,9 +13593,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Geuser",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Chronas",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -13559,9 +13610,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -13572,9 +13627,13 @@
     "tournament": "Battle for the Beehive #99",
     "tournamentShort": "BftB 99",
     "player1": "Chronas",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -13981,9 +14040,13 @@
     "tournament": "DMGC Smash Bros Local 146 (now with Rivals 2!)",
     "tournamentShort": "DMGC 146",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -13994,9 +14057,13 @@
     "tournament": "DMGC Smash Bros Local 146 (now with Rivals 2!)",
     "tournamentShort": "DMGC 146",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Boigan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -14007,9 +14074,13 @@
     "tournament": "DMGC Smash Bros Local 146 (now with Rivals 2!)",
     "tournamentShort": "DMGC 146",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Boigan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -14020,9 +14091,13 @@
     "tournament": "DMGC Smash Bros Local 146 (now with Rivals 2!)",
     "tournamentShort": "DMGC 146",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14033,9 +14108,13 @@
     "tournament": "DMGC Smash Bros Local 146 (now with Rivals 2!)",
     "tournamentShort": "DMGC 146",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14046,9 +14125,13 @@
     "tournament": "DMGC Smash Bros Local 146 (now with Rivals 2!)",
     "tournamentShort": "DMGC 146",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -14059,9 +14142,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -14072,9 +14159,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14085,9 +14176,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "mr. weedman",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14098,9 +14193,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "i30",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -14111,9 +14210,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14124,9 +14227,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "i30",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -14137,9 +14244,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "GDubs",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14150,9 +14261,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14163,9 +14278,13 @@
     "tournament": "DMGC Smash Bros Local #142",
     "tournamentShort": "DMGC 142",
     "player1": "GDubs",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14176,9 +14295,13 @@
     "tournament": "DMGC Smash Bros Local #142",
     "tournamentShort": "DMGC 142",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14189,9 +14312,13 @@
     "tournament": "DMGC Smash Bros Local #142",
     "tournamentShort": "DMGC 142",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14202,9 +14329,13 @@
     "tournament": "DMGC Smash Bros Local #142",
     "tournamentShort": "DMGC 142",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14215,9 +14346,13 @@
     "tournament": "DMGC Smash Bros Local #142",
     "tournamentShort": "DMGC 142",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14228,9 +14363,13 @@
     "tournament": "DMGC Smash Bros Local #142",
     "tournamentShort": "DMGC 142",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14241,9 +14380,13 @@
     "tournament": "DMGC Smash Bros Local 143",
     "tournamentShort": "DMGC 143",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "mr. weedman",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14305,9 +14448,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Slowking",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14318,9 +14465,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Boigan",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Landon",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14331,9 +14482,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Joey Donuts",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14344,9 +14499,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Joey Donuts",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14357,9 +14516,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Joey Donuts",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Boigan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -14370,9 +14533,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -14383,9 +14550,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Dronu",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -14396,9 +14567,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14409,9 +14584,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Joey Donuts",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14422,9 +14601,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Obamallama",
-    "player1Characters": [],
+    "player1Characters": [
+      "Samus"
+    ],
     "player2": "Tarik",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14435,9 +14618,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Tarik",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -14448,9 +14635,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Joey Donuts",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Cuda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -14461,9 +14652,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Obamallama",
-    "player2Characters": [],
+    "player2Characters": [
+      "Samus"
+    ],
     "tags": []
   },
   {
@@ -14474,9 +14669,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Cuda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -14487,9 +14686,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "PsyRex",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -14500,9 +14703,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Kdog",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "pop",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -14513,9 +14720,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "GreenNite",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14526,9 +14737,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Phoenix",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -14539,9 +14754,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Obamallama",
-    "player2Characters": [],
+    "player2Characters": [
+      "Samus"
+    ],
     "tags": []
   },
   {
@@ -14552,9 +14771,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Obamallama",
-    "player1Characters": [],
+    "player1Characters": [
+      "Samus"
+    ],
     "player2": "righteousrighteous",
-    "player2Characters": [],
+    "player2Characters": [
+      "Young Link"
+    ],
     "tags": []
   },
   {
@@ -14565,9 +14788,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Tarik",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -14578,9 +14805,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Obamallama",
-    "player2Characters": [],
+    "player2Characters": [
+      "Samus"
+    ],
     "tags": []
   },
   {
@@ -14591,9 +14822,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -14604,9 +14839,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -14617,9 +14856,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Tuffy",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14630,9 +14873,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Mouse",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14643,9 +14890,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14656,9 +14907,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Dronu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -14669,9 +14924,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Bigby",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Mouse",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14682,9 +14941,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "GDubs",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Mouse",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -14695,9 +14958,15 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Sothe",
-    "player1Characters": [],
+    "player1Characters": [
+      "Mewtwo",
+      "Fox"
+    ],
     "player2": "Magellan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff",
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -14708,9 +14977,13 @@
     "tournament": "Battle for the Beehive #95",
     "tournamentShort": "BftB 95",
     "player1": "Mouse",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi"
+    ],
     "tags": []
   },
   {
@@ -15069,9 +15342,14 @@
     "tournament": "Tienda's Tournament Series #14",
     "tournamentShort": "TTS 14",
     "player1": "Boigan",
-    "player1Characters": [],
+    "player1Characters": [
+      "Dr. Mario",
+      "Fox"
+    ],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -15082,9 +15360,13 @@
     "tournament": "Tienda's Tournament Series #14",
     "tournamentShort": "TTS 14",
     "player1": "beef jump",
-    "player1Characters": [],
-    "player2": "Tienda",
-    "player2Characters": [],
+    "player1Characters": [
+      "Donkey Kong"
+    ],
+    "player2": "Ashes",
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -15095,9 +15377,13 @@
     "tournament": "Tienda's Tournament Series #14",
     "tournamentShort": "TTS 14",
     "player1": "Ashes",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -15108,9 +15394,13 @@
     "tournament": "Tienda's Tournament Series #14",
     "tournamentShort": "TTS 14",
     "player1": "beef jump",
-    "player1Characters": [],
+    "player1Characters": [
+      "Donkey Kong"
+    ],
     "player2": "Boigan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -15121,9 +15411,13 @@
     "tournament": "Tienda's Tournament Series #14",
     "tournamentShort": "TTS 14",
     "player1": "Boigan",
-    "player1Characters": [],
+    "player1Characters": [
+      "Dr. Mario"
+    ],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -15134,9 +15428,13 @@
     "tournament": "Tienda's Tournament Series #14",
     "tournamentShort": "TTS 14",
     "player1": "Ashes",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
