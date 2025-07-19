@@ -83605,5 +83605,141 @@
     "player2Characters": [
       "Ice Climbers"
     ]
+  },
+  {
+    "id": 7626,
+    "youtubeId": "8Ycvt1X1tWE",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Marth",
+      "Link"
+    ]
+  },
+  {
+    "id": 7627,
+    "youtubeId": "jKIFOeOAeEg",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Kirby"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7628,
+    "youtubeId": "_uOYHSEE7OM",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "GDubs",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7629,
+    "youtubeId": "_8yGzxxsppM",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7630,
+    "youtubeId": "TwwuDj1GeeU",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7631,
+    "youtubeId": "CkrfNlRb3dA",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "Zyko",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Slowking",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7632,
+    "youtubeId": "aTzIcnUheI0",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "oh",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Slowking",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7633,
+    "youtubeId": "ZqME1toWUIs",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "oh",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7634,
+    "youtubeId": "MkyFfQkg4uo",
+    "date": "2025-07-17",
+    "tournament": "DMGC Smash Bros Local #180",
+    "tournamentShort": "DMGC 180",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Slowking",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
