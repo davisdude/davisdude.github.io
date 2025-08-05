@@ -84124,7 +84124,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "MrWeed420",
-    "player2": "Tato"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 7659,
