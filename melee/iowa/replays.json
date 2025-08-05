@@ -84208,7 +84208,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "Slowking",
-    "player2": "oh"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 7664,
@@ -84217,7 +84223,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "oh",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 7665,
@@ -84226,7 +84238,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "oh",
-    "player2": "Ashes"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Ashes",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 7666,
@@ -84235,7 +84253,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "Slowking",
-    "player2": "MrWeed420"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "MrWeed420",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 7667,
@@ -84244,7 +84268,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "MrWeed420",
-    "player2": "robbie"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 7668,
@@ -84253,7 +84283,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 7669,
@@ -84262,7 +84298,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "diggles137",
-    "player2": "cbb"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "cbb",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 7670,
@@ -84271,7 +84313,13 @@
     "tournament": "DMGC Smash Bros Local #181",
     "tournamentShort": "DMGC 181",
     "player1": "diggles137",
-    "player2": "Ashes"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ashes",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 7670,
@@ -84536,7 +84584,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "diggles137",
-    "player2": "Cpt.Blade"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 7688,
@@ -84545,7 +84599,14 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "Cpt.Blade",
-    "player2": "Saber"
+    "player1Characters": [
+      "Marth",
+      "Sheik"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 7689,
@@ -84554,7 +84615,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "cbb",
-    "player2": "Cpt.Blade"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 7690,
@@ -84563,7 +84630,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "Cpt.Blade",
-    "player2": "Maple"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 7691,
@@ -84572,7 +84645,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "diggles137",
-    "player2": "Maple"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 7692,
@@ -84581,7 +84660,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "Saber",
-    "player2": "Tato"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 7693,
@@ -84590,7 +84675,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "Zyko",
-    "player2": "Skizm"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Skizm",
+    "player2Characters": [
+      "Samus"
+    ]
   },
   {
     "id": 7694,
@@ -84599,7 +84690,13 @@
     "tournament": "DMGC Smash Bros Local #182",
     "tournamentShort": "DMGC 182",
     "player1": "Maple",
-    "player2": "Zyko"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 7694,
