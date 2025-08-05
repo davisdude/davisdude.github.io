@@ -84170,5 +84170,107 @@
     "player2Characters": [
       "Marth"
     ]
+  },
+  {
+    "id": 7661,
+    "youtubeId": "7qnX1waIyUo",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Slowking",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7662,
+    "youtubeId": "Z2830H7qylA",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Slowking",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7663,
+    "youtubeId": "_xaQsY3OXZ8",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "Slowking",
+    "player2": "oh"
+  },
+  {
+    "id": 7664,
+    "youtubeId": "wGblo3LfnwM",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "oh",
+    "player2": "diggles137"
+  },
+  {
+    "id": 7665,
+    "youtubeId": "bmHYXazLdc8",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "oh",
+    "player2": "Ashes"
+  },
+  {
+    "id": 7666,
+    "youtubeId": "oKZLuMDmvto",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "Slowking",
+    "player2": "MrWeed420"
+  },
+  {
+    "id": 7667,
+    "youtubeId": "Pg_nul76-wY",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "MrWeed420",
+    "player2": "robbie"
+  },
+  {
+    "id": 7668,
+    "youtubeId": "2f0xKsrtT18",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "Slowking",
+    "player2": "diggles137"
+  },
+  {
+    "id": 7669,
+    "youtubeId": "PcGXbdzZPPU",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "diggles137",
+    "player2": "cbb"
+  },
+  {
+    "id": 7670,
+    "youtubeId": "l6Y-ppWu7dY",
+    "date": "2025-07-24",
+    "tournament": "DMGC Smash Bros Local #181",
+    "tournamentShort": "DMGC 181",
+    "player1": "diggles137",
+    "player2": "Ashes"
   }
 ]
