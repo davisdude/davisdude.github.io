@@ -84690,5 +84690,110 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 7698,
+    "youtubeId": "2yuWfv09kU4",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7699,
+    "youtubeId": "JIHjuZjCQr8",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7700,
+    "youtubeId": "mD5Y6ENUj8g",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7701,
+    "youtubeId": "HUhfHC7OtSE",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7702,
+    "youtubeId": "3jaPHwOEhms",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7703,
+    "youtubeId": "vjX2xknhvtI",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 7704,
+    "youtubeId": "pgqJ9C8NCFk",
+    "date": "2025-07-29",
+    "tournament": "Tienda's Tournament Series #42",
+    "tournamentShort": "TTS 42",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Pikachu"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
