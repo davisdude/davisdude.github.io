@@ -84600,5 +84600,95 @@
     "tournamentShort": "DMGC 182",
     "player1": "Maple",
     "player2": "Zyko"
+  },
+  {
+    "id": 7694,
+    "youtubeId": "ZSQaZ3LCsK8",
+    "date": "2025-07-22",
+    "tournament": "Tienda's Tournament Series #41",
+    "tournamentShort": "TTS 41",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7695,
+    "youtubeId": "z0WwHo-_P2w",
+    "date": "2025-07-22",
+    "tournament": "Tienda's Tournament Series #41",
+    "tournamentShort": "TTS 41",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 7696,
+    "youtubeId": "aa2aY2DBpHI",
+    "date": "2025-07-22",
+    "tournament": "Tienda's Tournament Series #41",
+    "tournamentShort": "TTS 41",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7697,
+    "youtubeId": "svsvGtOo8s8",
+    "date": "2025-07-22",
+    "tournament": "Tienda's Tournament Series #41",
+    "tournamentShort": "TTS 41",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7697,
+    "youtubeId": "qjf0ueRs5j8",
+    "date": "2025-07-22",
+    "tournament": "Tienda's Tournament Series #41",
+    "tournamentShort": "TTS 41",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7698,
+    "youtubeId": "FAo3FX1rhzM",
+    "date": "2025-07-22",
+    "tournament": "Tienda's Tournament Series #41",
+    "tournamentShort": "TTS 41",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
