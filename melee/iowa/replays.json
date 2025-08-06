@@ -18142,12 +18142,17 @@
     "id": 1271,
     "youtubeId": "lvknjJA1Mnc",
     "originalTitle": "pkay vs cbb - D-AIR CAPITAL - Div 1 LR3",
-    "date": "2024-09-05",
-    "tournament": "D-AIR CAPITAL",
+    "date": "2024-08-31",
+    "tournament": "D-AIR CAPITAL (2024)",
+    "tournamentShort": "D-AIR CAPITAL (2024)",
     "player1": "pkay",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
