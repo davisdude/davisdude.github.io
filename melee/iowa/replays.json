@@ -21370,9 +21370,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "RUMPROAST",
-    "player2Characters": [],
+    "player2Characters": [
+      "Mr. Game & Watch"
+    ],
     "tags": []
   },
   {
@@ -21383,9 +21387,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -21396,9 +21404,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -21409,9 +21421,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "K_____",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "YungSpaceJam",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -21422,9 +21438,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "oh",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -21435,9 +21455,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -21448,9 +21472,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -21461,9 +21489,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "THE WHOLE SHEBANG",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -21474,9 +21506,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -21487,9 +21523,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -21500,9 +21540,13 @@
     "tournament": "Tienda's Tournament Series #6 ($100 Pot Bonus!)",
     "tournamentShort": "TTS 6",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Cream",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
