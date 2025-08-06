@@ -16663,9 +16663,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Dronu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Tarik",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -16965,9 +16969,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "righteousrighteous",
-    "player1Characters": [],
+    "player1Characters": [
+      "Young Link"
+    ],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi"
+    ],
     "tags": []
   },
   {
@@ -17148,9 +17156,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "righteousrighteous",
-    "player2Characters": [],
+    "player2Characters": [
+      "Young Link"
+    ],
     "tags": []
   },
   {
@@ -17299,9 +17311,13 @@
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
     "player1": "Jate",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Marsh",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
