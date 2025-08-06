@@ -20859,9 +20859,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -20872,9 +20876,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -20885,9 +20893,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "K_____",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -20898,9 +20910,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -20911,9 +20927,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -20924,9 +20944,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -20937,9 +20961,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -20950,9 +20978,13 @@
     "tournament": "Tienda's Tournament Series #7",
     "tournamentShort": "TTS 7",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Sothe",
-    "player2Characters": [],
+    "player2Characters": [
+      "Mewtwo"
+    ],
     "tags": []
   },
   {
