@@ -19239,10 +19239,15 @@
     "originalTitle": "Slowking vs cbb - Daves Diner - GF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -19251,10 +19256,15 @@
     "originalTitle": "Slowking vs Reesch - Daves Diner - WF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Reesch",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -19263,10 +19273,15 @@
     "originalTitle": "Washed vs elclid - Daves Diner - LR4",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "elclid",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Washed",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -19275,10 +19290,15 @@
     "originalTitle": "cbb vs Maple - Daves Diner - LQF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -19287,10 +19307,15 @@
     "originalTitle": "cbb vs Slowking - Daves Diner - WSF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -19299,10 +19324,15 @@
     "originalTitle": "Cpt Blade vs Slowking - Daves Diner - WQF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Cpt.Blade",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Slowking",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -19311,10 +19341,15 @@
     "originalTitle": "diggles137 vs Reesch - Daves Diner - WQF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Reesch",
-    "player1Characters": [],
+    "player1Characters": [
+      "Captain Falcon"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -19323,10 +19358,15 @@
     "originalTitle": "Dronu vs cbb - Daves Diner - LSF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Dronu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -19335,10 +19375,16 @@
     "originalTitle": "Dronu vs Cpt Blade - Daves Diner - LQF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Dronu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth",
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -19347,10 +19393,15 @@
     "originalTitle": "Dronu vs Reesch - Daves Diner - WSF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Dronu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Reesch",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -19359,10 +19410,15 @@
     "originalTitle": "elclid vs Cpt Blade - Daves Diner - LR5",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "elclid",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -19371,22 +19427,32 @@
     "originalTitle": "elclid vs Zyko - Daves Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "elclid",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Zyko",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
     "id": 1365,
     "youtubeId": "Ibm9JwiKh0o",
     "originalTitle": "Reesch vs cbb - Daves Diner - LF",
-    "date": "2024-08-09",
+    "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Reesch",
-    "player1Characters": [],
+    "player1Characters": [
+      "Captain Falcon"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -19499,6 +19565,7 @@
     "originalTitle": "Maple vs diggles137 - Dave's Diner - LR5",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "diggles137",
     "player1Characters": [
       "Fox"
@@ -19515,6 +19582,7 @@
     "originalTitle": "thequail48 vs diggles137 - Dave's Diner - LR4",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "diggles137",
     "player1Characters": [
       "Fox",
@@ -19532,6 +19600,7 @@
     "originalTitle": "Cpt.Blade vs Ohnowen - Dave's Diner - LR4",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Cpt.Blade",
     "player1Characters": [
       "Marth"
@@ -19548,6 +19617,7 @@
     "originalTitle": "Maple vs GDubs - Dave's Diner - LR4",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Maple",
     "player1Characters": [
       "Ice Climbers"
@@ -19564,6 +19634,7 @@
     "originalTitle": "Ohnowen vs AlexB - Dave's Diner - LR3",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Ohnowen",
     "player1Characters": [
       "Falco"
@@ -19580,6 +19651,7 @@
     "originalTitle": "thequail48 vs PsyRex - Dave's Diner - LR3",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "thequail48",
     "player1Characters": [
       "Samus"
@@ -19596,6 +19668,7 @@
     "originalTitle": "AlexB vs Rat Funk - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "AlexB",
     "player1Characters": [
       "Peach"
@@ -19612,6 +19685,7 @@
     "originalTitle": "Maple vs Dronu - Dave's Diner - WQF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Maple",
     "player1Characters": [
       "Ice Climbers"
@@ -19628,6 +19702,7 @@
     "originalTitle": "Washed vs Hiro - Dave's Diner - LR3",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Washed",
     "player1Characters": [
       "Captain Falcon"
@@ -19644,6 +19719,7 @@
     "originalTitle": "Tienda vs GDubs - Dave's Diner - LR3",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "GDubs",
     "player1Characters": [
       "Fox"
@@ -19660,6 +19736,7 @@
     "originalTitle": "thequail48 vs Zyko - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Zyko",
     "player1Characters": [
       "Marth"
@@ -19676,6 +19753,7 @@
     "originalTitle": "Maple vs AlexB - Dave's Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Maple",
     "player1Characters": [
       "Ice Climbers"
@@ -19692,6 +19770,7 @@
     "originalTitle": "Tienda vs Fauxfire - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Tienda",
     "player1Characters": [
       "Sheik"
@@ -19708,6 +19787,7 @@
     "originalTitle": "Hiro vs Ashes - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Ashes",
     "player1Characters": [
       "Peach"
@@ -19724,6 +19804,7 @@
     "originalTitle": "Washed vs Tato - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Washed",
     "player1Characters": [
       "Captain Falcon"
@@ -19740,6 +19821,7 @@
     "originalTitle": "PsyRex vs Niah - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "PsyRex",
     "player1Characters": [
       "Yoshi"
@@ -19756,6 +19838,7 @@
     "originalTitle": "Mouse vs Ohnowen - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Ohnowen",
     "player1Characters": [
       "Falco"
@@ -19772,6 +19855,7 @@
     "originalTitle": "elclid vs cbb - Dave's Diner - WQF",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "cbb",
     "player1Characters": [
       "Fox"
@@ -19788,6 +19872,7 @@
     "originalTitle": "thequail48 vs AlexB - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "AlexB",
     "player1Characters": [
       "Peach"
@@ -19804,6 +19889,7 @@
     "originalTitle": "Reesch vs Ashes - Dave's Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Reesch",
     "player1Characters": [
       "Captain Falcon"
@@ -19820,6 +19906,7 @@
     "originalTitle": "GDubs vs submediant - Dave's Diner - LR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "GDubs",
     "player1Characters": [
       "Fox"
@@ -19836,6 +19923,7 @@
     "originalTitle": "Niah vs Cream - Dave's Diner - LR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Cream",
     "player1Characters": [
       "Sheik"
@@ -19852,6 +19940,7 @@
     "originalTitle": "submediant vs Ashes - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "submediant",
     "player1Characters": [
       "Fox"
@@ -19868,6 +19957,7 @@
     "originalTitle": "Fauxfire vs Beastlytrey - Dave's Diner - LR1 [Partial]",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Beastlytrey",
     "player1Characters": [],
     "player2": "Fauxfire",
@@ -19880,6 +19970,7 @@
     "originalTitle": "Tienda vs Slowking - Dave's Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Slowking",
     "player1Characters": [
       "Falco"
@@ -19896,6 +19987,7 @@
     "originalTitle": "Hiro vs stinky spaghetti - Dave's Diner - LR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "stinky spaghetti",
     "player1Characters": [
       "Young Link"
@@ -19912,6 +20004,7 @@
     "originalTitle": "Niah vs Ohnowen - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Ohnowen",
     "player1Characters": [
       "Falco"
@@ -19928,6 +20021,7 @@
     "originalTitle": "GDubs vs Cpt.Blade - Dave's Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Cpt.Blade",
     "player1Characters": [
       "Marth"
@@ -19944,6 +20038,7 @@
     "originalTitle": "Washed vs diggles137 - Dave's Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "diggles137",
     "player1Characters": [
       "Fox"
@@ -19960,6 +20055,7 @@
     "originalTitle": "cbb vs PsyRex - Dave's Diner - WR2",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "cbb",
     "player1Characters": [
       "Fox"
@@ -19976,6 +20072,7 @@
     "originalTitle": "Dronu vs Cream - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Dronu",
     "player1Characters": [
       "Jigglypuff"
@@ -19993,6 +20090,7 @@
     "originalTitle": "Hiro vs GDubs - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "GDubs",
     "player1Characters": [
       "Fox"
@@ -20009,6 +20107,7 @@
     "originalTitle": "Tienda vs Tato - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Tienda",
     "player1Characters": [
       "Sheik"
@@ -20025,6 +20124,7 @@
     "originalTitle": "Rat Funk vs Zyko - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Zyko",
     "player1Characters": [
       "Marth"
@@ -20041,6 +20141,7 @@
     "originalTitle": "Washed vs Fauxfire - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Washed",
     "player1Characters": [
       "Captain Falcon"
@@ -20057,6 +20158,7 @@
     "originalTitle": "Cpt.Blade vs stinky spaghetti - Dave's Diner - WR1",
     "date": "2024-08-10",
     "tournament": "Dave's Diner",
+    "tournamentShort": "Dave's Diner",
     "player1": "Cpt.Blade",
     "player1Characters": [
       "Marth"
