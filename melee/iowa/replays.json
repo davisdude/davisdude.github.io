@@ -16388,9 +16388,13 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -16401,9 +16405,14 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth",
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16414,9 +16423,13 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -16444,9 +16457,13 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -16527,9 +16544,13 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -16540,9 +16561,13 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Cream",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16604,9 +16629,13 @@
     "tournament": "DMGC Smash Bros Local 140",
     "tournamentShort": "DMGC 140",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi"
+    ],
     "tags": []
   },
   {
