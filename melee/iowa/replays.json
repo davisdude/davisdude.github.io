@@ -15686,9 +15686,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15699,9 +15703,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15712,9 +15720,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15725,9 +15737,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "W_NDI",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -15738,9 +15754,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15751,9 +15771,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -15764,9 +15788,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15777,9 +15805,13 @@
     "tournament": "DMGC Smash Bros Local 138",
     "tournamentShort": "DMGC 138",
     "player1": "GDubs",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "W_NDI",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
