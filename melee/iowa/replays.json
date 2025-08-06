@@ -16252,9 +16252,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Doof",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -16265,9 +16269,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "Species",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Doof",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -16278,9 +16286,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "Dysfunktional",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Doof",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -16291,9 +16303,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Dysfunktional",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16304,9 +16320,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -16317,9 +16337,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "Doof",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Species",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -16330,9 +16354,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "oh",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -16343,9 +16371,13 @@
     "tournament": "Battle for the Beehive #93",
     "tournamentShort": "BftB 93",
     "player1": "Mouse",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "MegaHertz",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
