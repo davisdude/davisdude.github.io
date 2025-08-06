@@ -15958,9 +15958,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -15971,9 +15975,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15984,9 +15992,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -15997,9 +16009,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Landon",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -16010,9 +16026,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16023,9 +16043,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16036,9 +16060,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16049,9 +16077,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -16062,9 +16094,13 @@
     "tournament": "DMGC Smash Bros Local 134",
     "tournamentShort": "DMGC 134",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "diggles137",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
