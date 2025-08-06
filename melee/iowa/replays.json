@@ -15977,9 +15977,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Boigan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Pikachu"
+    ],
     "tags": []
   },
   {
@@ -15990,9 +15994,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "Boigan",
-    "player1Characters": [],
+    "player1Characters": [
+      "Pikachu"
+    ],
     "player2": "Tato",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -16003,9 +16011,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Boigan",
-    "player2Characters": [],
+    "player2Characters": [
+      "Pikachu"
+    ],
     "tags": []
   },
   {
@@ -16016,9 +16028,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -16046,9 +16062,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Tato",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -16112,9 +16132,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "Rat Funk",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Phoenix",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -16160,9 +16184,13 @@
     "tournament": "DMGC Smash Bros Local 141",
     "tournamentShort": "DMGC 141",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
