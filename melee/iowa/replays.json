@@ -18849,9 +18849,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Anthony",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -18862,9 +18866,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Anthony",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -18875,9 +18883,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Anthony",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -18888,9 +18900,14 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Anthony",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox",
+      "Donkey Kong"
+    ],
     "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -18901,9 +18918,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "cbb",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -18914,9 +18935,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Slowking",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -18927,9 +18952,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Anthony",
-    "player1Characters": [],
+    "player1Characters": [
+      "Donkey Kong"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -18940,9 +18969,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Zyko",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -18953,9 +18986,13 @@
     "tournament": "DMGC Smash Bros Local 133 (feat. MN Invaders)",
     "tournamentShort": "DMGC 133",
     "player1": "Banger",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Zyko",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
