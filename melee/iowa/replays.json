@@ -85522,5 +85522,95 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 7704,
+    "youtubeId": "FtkBp8E9Z88",
+    "date": "2025-08-05",
+    "tournament": "Tienda's Tournament Series #43",
+    "tournamentShort": "TTS 43",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7705,
+    "youtubeId": "8te83hoRJsU",
+    "date": "2025-08-05",
+    "tournament": "Tienda's Tournament Series #43",
+    "tournamentShort": "TTS 43",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7706,
+    "youtubeId": "hFI4jAny6Uk",
+    "date": "2025-08-05",
+    "tournament": "Tienda's Tournament Series #43",
+    "tournamentShort": "TTS 43",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7707,
+    "youtubeId": "uJ-RcjPGp-c",
+    "date": "2025-08-05",
+    "tournament": "Tienda's Tournament Series #43",
+    "tournamentShort": "TTS 43",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7708,
+    "youtubeId": "_zFKhcldXJU",
+    "date": "2025-08-05",
+    "tournament": "Tienda's Tournament Series #43",
+    "tournamentShort": "TTS 43",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 7709,
+    "youtubeId": "qQjw-FZTdsA",
+    "date": "2025-08-05",
+    "tournament": "Tienda's Tournament Series #43",
+    "tournamentShort": "TTS 43",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
   }
 ]
