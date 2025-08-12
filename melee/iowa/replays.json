@@ -85839,5 +85839,127 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 7723,
+    "youtubeId": "yv_GlwcMXxM",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 7724,
+    "youtubeId": "DIsQ4gsknkg",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "TORNADO WARNING",
+    "player2Characters": [
+      "Sheik",
+      "Marth"
+    ]
+  },
+  {
+    "id": 7725,
+    "youtubeId": "mTZhmhHl18c",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 7726,
+    "youtubeId": "RVgaBJkVMAA",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 7727,
+    "youtubeId": "869M2cZdqLg",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 7728,
+    "youtubeId": "r8NFh4RPFhg",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "the pursuit of joy",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 7729,
+    "youtubeId": "8rLT4K9bcBE",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "the pursuit of joy",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 7730,
+    "youtubeId": "KlmMUszrq2I",
+    "date": "2025-08-07",
+    "tournament": "DMGC Smash Bros Local #183",
+    "tournamentShort": "DMGC 183",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "the pursuit of joy",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
