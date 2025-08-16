@@ -85961,5 +85961,147 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 7730,
+    "youtubeId": "VzySHictnHw",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2Characters": [
+      "Marth",
+      "Fox",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 7731,
+    "youtubeId": "ti-oav_wkjQ",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 7732,
+    "youtubeId": "BforoG4kj4M",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7733,
+    "youtubeId": "JYC8el22f3c",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7734,
+    "youtubeId": "F_ZNw9zbQfE",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth",
+      "Kirby",
+      "Ganondorf"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Ganondorf",
+      "Pichu",
+      "Mewtwo",
+      "Donkey Kong"
+    ]
+  },
+  {
+    "id": 7735,
+    "youtubeId": "XPRG5x4KSSU",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7736,
+    "youtubeId": "TmNSe0qVM00",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 7737,
+    "youtubeId": "uIn7Xm7OaeM",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik",
+      "Ice Climbers"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 7738,
+    "youtubeId": "_p5Qor4MtXE",
+    "date": "2025-08-12",
+    "tournament": "Tienda's Tournament Series #44",
+    "tournamentShort": "TTS 44",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "RookieCookie",
+    "player2Characters": [
+      "Peach"
+    ]
   }
 ]
