@@ -89339,5 +89339,96 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 7991,
+    "youtubeId": "ucRhf82u4wI",
+    "date": "2025-09-19",
+    "tournament": "Tempest 147",
+    "tournamentShort": "Tempest 147",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7992,
+    "youtubeId": "eArQa9e3wG0",
+    "date": "2025-09-19",
+    "tournament": "Tempest 147",
+    "tournamentShort": "Tempest 147",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Cream",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 7993,
+    "youtubeId": "wlFdskDUNqQ",
+    "date": "2025-09-19",
+    "tournament": "Tempest 147",
+    "tournamentShort": "Tempest 147",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7994,
+    "youtubeId": "7LltDOJpQp4",
+    "date": "2025-09-19",
+    "tournament": "Tempest 147",
+    "tournamentShort": "Tempest 147",
+    "player1": "Cream",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7995,
+    "youtubeId": "Agnxr66k79o",
+    "date": "2025-09-19",
+    "tournament": "Tempest 147",
+    "tournamentShort": "Tempest 147",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Cream",
+    "player2Characters": [
+      "Fox",
+      "Zelda"
+    ]
+  },
+  {
+    "id": 7996,
+    "youtubeId": "wZoXu6XVzYo",
+    "date": "2025-09-19",
+    "tournament": "Tempest 147",
+    "tournamentShort": "Tempest 147",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
