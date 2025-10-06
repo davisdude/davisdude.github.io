@@ -89745,5 +89745,134 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 8018,
+    "youtubeId": "G_4t0XiNHZg",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8019,
+    "youtubeId": "cbw3Cgse6-Y",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Yoshi",
+      "Ness",
+      "Mewtwo"
+    ],
+    "player2": "Ayameki",
+    "player2Characters": [
+      "Sheik",
+      "Zelda"
+    ]
+  },
+  {
+    "id": 8020,
+    "youtubeId": "u4Qy8I9-A4E",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth",
+      "Zelda"
+    ]
+  },
+  {
+    "id": 8021,
+    "youtubeId": "DfdZGCRzmSY",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Ayameki",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "Chad Thundercock",
+    "player2Characters": [
+      "Zelda",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8022,
+    "youtubeId": "cDvakxh0e2E",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Tuffy",
+    "player1Characters": [
+      "Luigi",
+      "Pikachu",
+      "Fox"
+    ],
+    "player2": "Ayameki",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8023,
+    "youtubeId": "8RRZ3nlbl6M",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Trejohn6",
+    "player2": "Tuffy",
+    "player1Characters": [
+      "Link"
+    ],
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8024,
+    "youtubeId": "a0wvlvOTFSE",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Trejohn6",
+    "player2": "Chad Thundercock",
+    "player1Characters": [
+      "Link",
+      "Roy",
+      "Young Link"
+    ],
+    "player2Characters": [
+      "Zelda"
+    ]
+  },
+  {
+    "id": 8025,
+    "youtubeId": "YkQy0hfy6BA",
+    "date": "2025-09-26",
+    "tournament": "Tempest 148",
+    "tournamentShort": "Tempest 148",
+    "player1": "Cpt.Blade",
+    "player2": "Trejohn6",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Link"
+    ]
   }
 ]
