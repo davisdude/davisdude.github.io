@@ -90147,5 +90147,50 @@
     "player2Characters": [
       "Jigglypuff"
     ]
+  },
+  {
+    "id": 8044,
+    "youtubeId": "Ow-B-igly_o",
+    "date": "2025-09-23",
+    "tournament": "Tienda's Tournament Series #50",
+    "tournamentShort": "TTS 50",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8045,
+    "youtubeId": "-nhKcEs-MYQ",
+    "date": "2025-09-23",
+    "tournament": "Tienda's Tournament Series #50",
+    "tournamentShort": "TTS 50",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8046,
+    "youtubeId": "T591ypVzctQ",
+    "date": "2025-09-23",
+    "tournament": "Tienda's Tournament Series #50",
+    "tournamentShort": "TTS 50",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
   }
 ]
