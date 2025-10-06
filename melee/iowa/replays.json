@@ -87299,5 +87299,80 @@
       "Fox"
     ],
     "tournamentShort": "DMGC 186"
+  },
+  {
+    "id": 7813,
+    "youtubeId": "hnaPyzhVREQ",
+    "date": "2025-08-26",
+    "tournament": "Tienda's Tournament Series #46",
+    "tournamentShort": "TTS 46",
+    "player1": "Disabled",
+    "player2": "Tienda",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7814,
+    "youtubeId": "uT7gVfa6IM4",
+    "date": "2025-08-26",
+    "tournament": "Tienda's Tournament Series #46",
+    "tournamentShort": "TTS 46",
+    "player1": "honja",
+    "player2": "Disabled",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7815,
+    "youtubeId": "LNEefTWDbIg",
+    "date": "2025-08-26",
+    "tournament": "Tienda's Tournament Series #46",
+    "tournamentShort": "TTS 46",
+    "player1": "JLo",
+    "player2": "Disabled",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7816,
+    "youtubeId": "Gs13dUCFRuQ",
+    "date": "2025-08-26",
+    "tournament": "Tienda's Tournament Series #46",
+    "tournamentShort": "TTS 46",
+    "player1": "JLo",
+    "player2": "diggles137",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 7817,
+    "youtubeId": "l02aWbAmlnE",
+    "date": "2025-08-26",
+    "tournament": "Tienda's Tournament Series #46",
+    "tournamentShort": "TTS 46",
+    "player1": "diggles137",
+    "player2": "Disabled",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   }
 ]
