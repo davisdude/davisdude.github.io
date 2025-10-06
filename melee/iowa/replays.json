@@ -86500,5 +86500,96 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 7763,
+    "youtubeId": "1jmhusw6Kjo",
+    "date": "2025-08-19",
+    "tournament": "Tienda's Tournament Series #45",
+    "tournamentShort": "TTS 45",
+    "player1": "PsyRex",
+    "player2": "Tienda",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7764,
+    "youtubeId": "C-SAxLK5Gsw",
+    "date": "2025-08-19",
+    "tournament": "Tienda's Tournament Series #45",
+    "tournamentShort": "TTS 45",
+    "player1": "Tienda",
+    "player2": "Disabled",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7765,
+    "youtubeId": "cusU5z8LwUg",
+    "date": "2025-08-19",
+    "tournament": "Tienda's Tournament Series #45",
+    "tournamentShort": "TTS 45",
+    "player1": "Disabled",
+    "player2": "PsyRex",
+    "player1Characters": [
+      "Sheik",
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 7766,
+    "youtubeId": "vCHLzUpFJzY",
+    "date": "2025-08-19",
+    "tournament": "Tienda's Tournament Series #45",
+    "tournamentShort": "TTS 45",
+    "player1": "Disabled",
+    "player2": "Ohnowen",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7767,
+    "youtubeId": "_u8BnvszJfI",
+    "date": "2025-08-19",
+    "tournament": "Tienda's Tournament Series #45",
+    "tournamentShort": "TTS 45",
+    "player1": "PsyRex",
+    "player2": "Ohnowen",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7768,
+    "youtubeId": "AabefcmYz4E",
+    "date": "2025-08-19",
+    "tournament": "Tienda's Tournament Series #45",
+    "tournamentShort": "TTS 45",
+    "player1": "Disabled",
+    "player2": "Fred",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
