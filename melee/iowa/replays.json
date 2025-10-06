@@ -90192,5 +90192,96 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 8047,
+    "youtubeId": "-ZyHIX1fZYk",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8048,
+    "youtubeId": "cUdDgLkNL8k",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8049,
+    "youtubeId": "JXM7iaOSxng",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8050,
+    "youtubeId": "b8kmuCswgCY",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik",
+      "Zelda"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8051,
+    "youtubeId": "q-TeRg-ZGdU",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8052,
+    "youtubeId": "t43XJYDlQAo",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Fred",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
   }
 ]
