@@ -87374,5 +87374,111 @@
     "player2Characters": [
       "Ice Climbers"
     ]
+  },
+  {
+    "id": 7817,
+    "youtubeId": "yLMBYgEym3I",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "Tienda",
+    "player2": "JLo",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 7818,
+    "youtubeId": "n57kFNgojho",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "Tienda",
+    "player2": "Fred",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7819,
+    "youtubeId": "sFGwquNl0a0",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "JLo",
+    "player2": "Fred",
+    "player1Characters": [
+      "Dr. Mario"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7820,
+    "youtubeId": "Ejc4ztt4MII",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "Disabled",
+    "player2": "Saber",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 7821,
+    "youtubeId": "n8aoXRm_dco",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "Disabled",
+    "player2": "Fred",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7822,
+    "youtubeId": "4G_PXY9D0pk",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "Disabled",
+    "player2": "JLo",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 7823,
+    "youtubeId": "7-MICiL2fgU",
+    "date": "2025-09-02",
+    "tournament": "Tienda's Tournament Series #47",
+    "tournamentShort": "TTS 47",
+    "player1": "JLo",
+    "player2": "Shukle",
+    "player1Characters": [
+      "Dr. Mario"
+    ],
+    "player2Characters": [
+      "Captain Falcon",
+      "Fox"
+    ]
   }
 ]
