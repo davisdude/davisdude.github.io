@@ -89294,5 +89294,50 @@
     "player2Characters": [
       "Peach"
     ]
+  },
+  {
+    "id": 7988,
+    "youtubeId": "QPdXJ1lqNwU",
+    "date": "2025-09-16",
+    "tournament": "Tienda's Tournament Series #49",
+    "tournamentShort": "TTS 49",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 7989,
+    "youtubeId": "ptN4-5US96k",
+    "date": "2025-09-16",
+    "tournament": "Tienda's Tournament Series #49",
+    "tournamentShort": "TTS 49",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 7990,
+    "youtubeId": "SOWSCCKUjCw",
+    "date": "2025-09-16",
+    "tournament": "Tienda's Tournament Series #49",
+    "tournamentShort": "TTS 49",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
