@@ -91607,5 +91607,65 @@
     "tournamentShort": "DMGC 191",
     "player1": "diggles137",
     "player2": "Maple"
+  },
+  {
+    "id": 8146,
+    "youtubeId": "EE0RWPl1bO0",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8147,
+    "youtubeId": "S6V766rGHZw",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8148,
+    "youtubeId": "mMgyxXfGNzc",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8149,
+    "youtubeId": "R-xLMJwGKJw",
+    "date": "2025-09-30",
+    "tournament": "Tienda's Tournament Series #51",
+    "tournamentShort": "TTS 51",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
   }
 ]
