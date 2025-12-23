@@ -93598,5 +93598,205 @@
     "tournamentShort": "DMGC 194",
     "player1": "GDubs",
     "player2": "Zyko"
+  },
+  {
+    "id": 8301,
+    "youtubeId": "aWUwPK7kzTc",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8302,
+    "youtubeId": "1m5j9oy1Iak",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8303,
+    "youtubeId": "cgGsKv0U5sM",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Saber",
+    "player1Characters": [
+      "Falco",
+      "Marth",
+      "Captain Falcon"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8304,
+    "youtubeId": "wMOwgYd4vug",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Geuser",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8305,
+    "youtubeId": "qea-XevqbS4",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Esej",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8306,
+    "youtubeId": "F15S6PWby_8",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8307,
+    "youtubeId": "unOjwgoQz3s",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Geuser",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8308,
+    "youtubeId": "nlahdijjsko",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Geuser",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8309,
+    "youtubeId": "9peB0rzDPHU",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8310,
+    "youtubeId": "KUYTa7f2KVQ",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Geuser",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8311,
+    "youtubeId": "jnuki4Y3tDg",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Esej",
+    "player1Characters": [
+      "Fox",
+      "Peach"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8312,
+    "youtubeId": "qjtVDkhFjfA",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Esej",
+    "player2Characters": [
+      "Fox",
+      "Peach"
+    ]
+  },
+  {
+    "id": 8313,
+    "youtubeId": "CHX-X2mA7YU",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "Fred",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8314,
+    "youtubeId": "VrdxajJFYqY",
+    "date": "2025-10-28",
+    "tournament": "Tienda's Tournament Series #55",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   }
 ]
