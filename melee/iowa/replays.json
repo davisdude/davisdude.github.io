@@ -91508,5 +91508,104 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 8135,
+    "youtubeId": "hSmJb6gj1mw",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Spicy",
+    "player2": "Tuffy"
+  },
+  {
+    "id": 8136,
+    "youtubeId": "FkXtw7r6gvA",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Landon",
+    "player2": "robbie"
+  },
+  {
+    "id": 8137,
+    "youtubeId": "QusFv2p-ZK0",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "GDubs",
+    "player2": "robbie"
+  },
+  {
+    "id": 8138,
+    "youtubeId": "V8ioLP6QdRU",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Maple",
+    "player2": "Trejohn6"
+  },
+  {
+    "id": 8139,
+    "youtubeId": "_v6GUpuVQgo",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "diggles137",
+    "player2": "Maple"
+  },
+  {
+    "id": 8140,
+    "youtubeId": "SOvMSoDfxHw",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Slowking",
+    "player2": "diggles137"
+  },
+  {
+    "id": 8141,
+    "youtubeId": "DeQ1wmjEWSI",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Slowking",
+    "player2": "diggles137"
+  },
+  {
+    "id": 8142,
+    "youtubeId": "bSzz3Et9o88",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Tuffy",
+    "player2": "Rat Funk"
+  },
+  {
+    "id": 8143,
+    "youtubeId": "mdcrDnE3mkU",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Maple",
+    "player2": "Disabled"
+  },
+  {
+    "id": 8144,
+    "youtubeId": "8qKmePCx3S4",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "Fmcl Extraordinare",
+    "player2": "Maple"
+  },
+  {
+    "id": 8145,
+    "youtubeId": "3Jv3Hm871bg",
+    "date": "2025-10-02",
+    "tournament": "DMGC Smash Bros Local #191",
+    "tournamentShort": "DMGC 191",
+    "player1": "diggles137",
+    "player2": "Maple"
   }
 ]
