@@ -91837,5 +91837,203 @@
     "tournamentShort": "DMGC 192",
     "player1": "Cpt.Blade",
     "player2": "Ohnowen"
+  },
+  {
+    "id": 8164,
+    "youtubeId": "VgBqz_GXhjw",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik",
+      "Ice Climbers"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8165,
+    "youtubeId": "Evn3eKkQOaQ",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8166,
+    "youtubeId": "EM9fq5U837Q",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Ash",
+    "player2Characters": [
+      "Zelda",
+      "Fox"
+    ]
+  },
+  {
+    "id": 8167,
+    "youtubeId": "ecyt-gVNDvQ",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8168,
+    "youtubeId": "pEB89JAe4zI",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8169,
+    "youtubeId": "69OREmdm78U",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Falco",
+      "Fox"
+    ],
+    "player2": "Ash",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8170,
+    "youtubeId": "9VhjUEjxsqI",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "Ash",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8171,
+    "youtubeId": "Hm6-MPcmYgg",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8172,
+    "youtubeId": "OEQfBs0YsT0",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8173,
+    "youtubeId": "R2ZaRYDGfxU",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "Ash",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8174,
+    "youtubeId": "W9sK3Eq-GzU",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8175,
+    "youtubeId": "gEIOXfrZASo",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "Fred",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8176,
+    "youtubeId": "wOVkkDgjfEE",
+    "date": "2025-10-07",
+    "tournament": "Tienda's Tournament Series #52",
+    "tournamentShort": "TTS 52",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ash",
+    "player2Characters": [
+      "Sheik"
+    ]
   }
 ]
