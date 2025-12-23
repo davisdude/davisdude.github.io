@@ -91667,5 +91667,175 @@
     "player2Characters": [
       "Captain Falcon"
     ]
+  },
+  {
+    "id": 8150,
+    "youtubeId": "KJHKrQuRURU",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Soup",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "kZ",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8151,
+    "youtubeId": "b7woLnpxaVk",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8152,
+    "youtubeId": "A75b99trfk8",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8153,
+    "youtubeId": "USu7hQVW2J8",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Ohnowen",
+    "player2": "Trejohn6"
+  },
+  {
+    "id": 8154,
+    "youtubeId": "DFUtsjZjx0I",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Maple",
+    "player2": "Rat Funk"
+  },
+  {
+    "id": 8155,
+    "youtubeId": "uQ773dN6k00",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8156,
+    "youtubeId": "OXxMOAbq8NE",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Maple",
+    "player2": "Cpt.Blade"
+  },
+  {
+    "id": 8157,
+    "youtubeId": "47i8IYnzu3I",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Maple",
+    "player2": "Cpt.Blade"
+  },
+  {
+    "id": 8158,
+    "youtubeId": "2WEgttVu17s",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Trejohn6",
+    "player1Characters": [
+      "Link",
+      "Marth"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8159,
+    "youtubeId": "O4_wRRxVguQ",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Tato",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 8160,
+    "youtubeId": "WFw7F1kULOo",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Rat Funk",
+    "player2": "GrayCode"
+  },
+  {
+    "id": 8161,
+    "youtubeId": "Ak5-LjPnKpY",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Falco",
+      "Marth"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8162,
+    "youtubeId": "a_c0s6d9s7A",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Rat Funk",
+    "player2": "Ohnowen"
+  },
+  {
+    "id": 8163,
+    "youtubeId": "Hf61XHqet2Y",
+    "date": "2025-10-09",
+    "tournament": "DMGC Smash Bros Local #192",
+    "tournamentShort": "DMGC 192",
+    "player1": "Cpt.Blade",
+    "player2": "Ohnowen"
   }
 ]
