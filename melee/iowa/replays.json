@@ -92035,5 +92035,74 @@
     "player2Characters": [
       "Sheik"
     ]
+  },
+  {
+    "id": 8177,
+    "youtubeId": "lTAxQ2mq6Sk",
+    "date": "2025-10-14",
+    "tournament": "Tienda's Tournament Series #53",
+    "tournamentShort": "TTS 51",
+    "player1": "Fred",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8178,
+    "youtubeId": "IgcB4GTrkpY",
+    "date": "2025-10-14",
+    "tournament": "Tienda's Tournament Series #53",
+    "tournamentShort": "TTS 51",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8179,
+    "youtubeId": "lggVMrN0Azc",
+    "date": "2025-10-14",
+    "tournament": "Tienda's Tournament Series #53",
+    "tournamentShort": "TTS 51",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8180,
+    "youtubeId": "_TUb63z29Fo",
+    "date": "2025-10-14",
+    "tournament": "Tienda's Tournament Series #53",
+    "tournamentShort": "TTS 51",
+    "player1": "Disabled",
+    "player2": "Fred"
+  },
+  {
+    "id": 8181,
+    "youtubeId": "dt1JeL6x97M",
+    "date": "2025-10-14",
+    "tournament": "Tienda's Tournament Series #53",
+    "tournamentShort": "TTS 51",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
