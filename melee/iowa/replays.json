@@ -91516,7 +91516,14 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Spicy",
-    "player2": "Tuffy"
+    "player1Characters": [
+      "Marth",
+      "Fox"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 8136,
@@ -91525,7 +91532,14 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Landon",
-    "player2": "robbie"
+    "player1Characters": [
+      "Marth",
+      "Sheik"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8137,
@@ -91534,7 +91548,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "GDubs",
-    "player2": "robbie"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8138,
@@ -91543,7 +91563,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Maple",
-    "player2": "Trejohn6"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Link"
+    ]
   },
   {
     "id": 8139,
@@ -91552,7 +91578,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "diggles137",
-    "player2": "Maple"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8140,
@@ -91561,7 +91593,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8141,
@@ -91570,7 +91608,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8142,
@@ -91579,7 +91623,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Tuffy",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8143,
@@ -91588,7 +91638,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Maple",
-    "player2": "Disabled"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8144,
@@ -91597,7 +91653,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "Fmcl Extraordinare",
-    "player2": "Maple"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8145,
@@ -91606,7 +91668,13 @@
     "tournament": "DMGC Smash Bros Local #191",
     "tournamentShort": "DMGC 191",
     "player1": "diggles137",
-    "player2": "Maple"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8146,
@@ -91720,7 +91788,14 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Ohnowen",
-    "player2": "Trejohn6"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Link",
+      "Marth"
+    ]
   },
   {
     "id": 8154,
@@ -91729,7 +91804,13 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Maple",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8155,
@@ -91753,7 +91834,13 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Maple",
-    "player2": "Cpt.Blade"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8157,
@@ -91762,7 +91849,14 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Maple",
-    "player2": "Cpt.Blade"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth",
+      "Dr. Mario"
+    ]
   },
   {
     "id": 8158,
@@ -91802,7 +91896,13 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Rat Funk",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8161,
@@ -91827,7 +91927,13 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Rat Funk",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8163,
@@ -91836,7 +91942,14 @@
     "tournament": "DMGC Smash Bros Local #192",
     "tournamentShort": "DMGC 192",
     "player1": "Cpt.Blade",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco",
+      "Marth"
+    ]
   },
   {
     "id": 8164,
@@ -92088,7 +92201,13 @@
     "tournament": "Tienda's Tournament Series #53",
     "tournamentShort": "TTS 51",
     "player1": "Disabled",
-    "player2": "Fred"
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8181,
@@ -92143,7 +92262,13 @@
     "tournament": "DMGC Smash Bros Local #193",
     "tournamentShort": "DMGC 193",
     "player1": "Rat Funk",
-    "player2": "Soup"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8185,
@@ -92169,7 +92294,14 @@
     "tournament": "DMGC Smash Bros Local #193",
     "tournamentShort": "DMGC 193",
     "player1": "TORNADO WARNING",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Falco",
+      "Donkey Kong"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8187,
@@ -92208,7 +92340,14 @@
     "tournament": "DMGC Smash Bros Local #193",
     "tournamentShort": "DMGC 193",
     "player1": "Rat Funk",
-    "player2": "Trejohn6"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Marth",
+      "Link"
+    ]
   },
   {
     "id": 8190,
@@ -92217,7 +92356,13 @@
     "tournament": "DMGC Smash Bros Local #193",
     "tournamentShort": "DMGC 193",
     "player1": "GrayCode",
-    "player2": "Soup"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8191,
@@ -92226,7 +92371,13 @@
     "tournament": "DMGC Smash Bros Local #193",
     "tournamentShort": "DMGC 193",
     "player1": "Rat Funk",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8192,
@@ -92235,7 +92386,15 @@
     "tournament": "DMGC Smash Bros Local #193",
     "tournamentShort": "DMGC 193",
     "player1": "TORNADO WARNING",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Pikachu",
+      "Donkey Kong",
+      "Falco"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8193,
@@ -92274,7 +92433,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Cpt.Blade",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8196,
@@ -92348,7 +92513,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "oh",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8201,
@@ -92388,7 +92559,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Cpt.Blade",
-    "player2": "oh"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8204,
@@ -92412,7 +92589,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "GDubs",
-    "player2": "Zyko"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8206,
@@ -92496,7 +92679,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "GDubs",
-    "player2": "oh"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8212,
@@ -92521,7 +92710,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Rat Funk",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8214,
@@ -92545,7 +92740,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Ohnowen",
-    "player2": "oh"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8216,
@@ -92554,7 +92755,17 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Slowking",
-    "player2": "Zyko"
+    "player1Characters": [
+      "Falco",
+      "Mario",
+      "Donkey Kong"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth",
+      "Mario",
+      "Mr. Game & Watch"
+    ]
   },
   {
     "id": 8217,
@@ -92594,7 +92805,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Saber",
-    "player2": "Tato"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 8220,
@@ -92618,7 +92835,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Maple",
-    "player2": "Sothe"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Sothe",
+    "player2Characters": [
+      "Mewtwo"
+    ]
   },
   {
     "id": 8222,
@@ -92703,7 +92926,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Spicy",
-    "player2": "Saber"
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8228,
@@ -92727,7 +92956,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Sothe",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Mewtwo"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8230,
@@ -92783,7 +93018,14 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Spicy",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff",
+      "Fox"
+    ]
   },
   {
     "id": 8234,
@@ -92839,7 +93081,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Saber",
-    "player2": "Disabled"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8238,
@@ -92895,7 +93143,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Maple",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8242,
@@ -92919,7 +93173,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "oh",
-    "player2": "Saber"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8244,
@@ -92928,7 +93188,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Slowking",
-    "player2": "Maple"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8245,
@@ -92937,7 +93203,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "diggles137",
-    "player2": "oh"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8246,
@@ -92946,7 +93218,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8247,
@@ -92955,7 +93233,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8248,
@@ -92979,7 +93263,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Spicy",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8250,
@@ -93003,7 +93293,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Saber",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 8252,
@@ -93012,7 +93308,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Zyko",
-    "player2": "Spicy"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Sheik"
+    ]
   },
   {
     "id": 8253,
@@ -93021,7 +93323,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "GDubs",
-    "player2": "Cpt.Blade"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8254,
@@ -93030,7 +93338,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Sothe",
-    "player2": "Disabled"
+    "player1Characters": [
+      "Mewtwo"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8255,
@@ -93039,7 +93353,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Saber",
-    "player2": "Spicy"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Sheik"
+    ]
   },
   {
     "id": 8256,
@@ -93048,7 +93368,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Cpt.Blade",
-    "player2": "Sothe"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Sothe",
+    "player2Characters": [
+      "Mewtwo"
+    ]
   },
   {
     "id": 8257,
@@ -93057,7 +93383,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Maple",
-    "player2": "Saber"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Saber",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8258,
@@ -93066,7 +93398,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "oh",
-    "player2": "Cpt.Blade"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Cpt.Blade",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8259,
@@ -93075,7 +93413,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Maple",
-    "player2": "oh"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "oh",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8260,
@@ -93084,7 +93428,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "diggles137",
-    "player2": "Maple"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 8261,
@@ -93093,7 +93443,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "PsyRex",
-    "player2": "robbie"
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8262,
@@ -93117,7 +93473,14 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Dysfunktional",
-    "player2": "PsyRex"
+    "player1Characters": [
+      "Sheik",
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
   },
   {
     "id": 8264,
@@ -93126,7 +93489,15 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Tienda",
-    "player2": "Ashes"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Ashes",
+    "player2Characters": [
+      "Ganondorf",
+      "Marth",
+      "Mr. Game & Watch"
+    ]
   },
   {
     "id": 8265,
@@ -93135,7 +93506,14 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "PsyRex",
-    "player2": "Tienda"
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Ganondorf",
+      "Fox"
+    ]
   },
   {
     "id": 8266,
@@ -93144,7 +93522,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "PsyRex",
-    "player2": "robbie"
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8267,
@@ -93170,7 +93554,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Dysfunktional",
-    "player2": "Ash"
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Ash",
+    "player2Characters": [
+      "Sheik"
+    ]
   },
   {
     "id": 8269,
@@ -93179,7 +93569,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "robbie",
-    "player2": "Dysfunktional"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Dysfunktional",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 8270,
@@ -93188,7 +93584,13 @@
     "tournament": "SDI V: The Fall of Rome",
     "tournamentShort": "SDI V",
     "player1": "Tienda",
-    "player2": "robbie"
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8271,
@@ -93318,7 +93720,13 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "GrayCode",
-    "player2": "Yeet"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Yeet",
+    "player2Characters": [
+      "Ganondorf"
+    ]
   },
   {
     "id": 8280,
@@ -93388,7 +93796,17 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "Slowking",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Luigi",
+      "Pikachu",
+      "Ness",
+      "Captain Falcon",
+      "Mewtwo"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8285,
@@ -93443,7 +93861,17 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "Slowking",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Yoshi",
+      "Jigglypuff",
+      "Captain Falcon",
+      "Fox",
+      "Marth"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8289,
@@ -93467,7 +93895,17 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "Slowking",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Fox",
+      "Roy",
+      "Samus",
+      "Dr. Mario",
+      "Mario"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8291,
@@ -93476,7 +93914,20 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "Slowking",
-    "player2": "Zyko"
+    "player1Characters": [
+      "Donkey Kong",
+      "Pikachu",
+      "Mr. Game & Watch",
+      "Pikachu",
+      "Luigi",
+      "Ness",
+      "Mario",
+      "Kirby"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8292,
@@ -93564,7 +94015,15 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "Rat Funk",
-    "player2": "TORNADO WARNING"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "TORNADO WARNING",
+    "player2Characters": [
+      "Marth",
+      "Captain Falcon",
+      "Donkey Kong"
+    ]
   },
   {
     "id": 8298,
@@ -93588,7 +94047,13 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "TORNADO WARNING",
-    "player2": "Zyko"
+    "player1Characters": [
+      "Donkey Kong"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8300,
@@ -93597,7 +94062,13 @@
     "tournament": "DMGC Smash Bros Local #194",
     "tournamentShort": "DMGC 194",
     "player1": "GDubs",
-    "player2": "Zyko"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8301,
@@ -93821,7 +94292,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "Slowking",
-    "player2": "Soup"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8317,
@@ -93830,7 +94307,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "Dronu",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8318,
@@ -93871,7 +94354,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "Slowking",
-    "player2": "Dronu"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Dronu",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 8321,
@@ -93895,7 +94384,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "Slowking",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 8323,
@@ -93904,7 +94399,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "Slowking",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 8324,
@@ -93990,7 +94491,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "Dronu",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8330,
@@ -93999,7 +94506,13 @@
     "tournament": "DMGC Smash Bros Local #195",
     "tournamentShort": "DMGC 195",
     "player1": "W_NDI",
-    "player2": "Dronu"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Dronu",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 8331,
@@ -94008,7 +94521,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "Mari Stars",
-    "player2": "kZ"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "kZ",
+    "player2Characters": [
+      "Sheik"
+    ]
   },
   {
     "id": 8332,
@@ -94063,7 +94582,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "Trejohn6",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Link"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8336,
@@ -94102,7 +94627,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "diggles137",
-    "player2": "Trejohn6"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Link"
+    ]
   },
   {
     "id": 8339,
@@ -94111,7 +94642,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "GDubs",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8340,
@@ -94120,7 +94657,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "diggles137",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8341,
@@ -94129,7 +94672,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "diggles137",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8342,
@@ -94213,7 +94762,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "Rat Funk",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8348,
@@ -94222,7 +94777,13 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "Trejohn6",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Link"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8349,
@@ -94231,7 +94792,14 @@
     "tournament": "DMGC Smash Bros Local #196",
     "tournamentShort": "DMGC 196",
     "player1": "GDubs",
-    "player2": "Trejohn6"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Link",
+      "Marth"
+    ]
   },
   {
     "id": 8350,
@@ -94240,7 +94808,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "robbie",
-    "player2": "Soup"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8351,
@@ -94280,7 +94854,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "diggles137",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8354,
@@ -94289,7 +94869,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8355,
@@ -94298,7 +94884,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "Slowking",
-    "player2": "diggles137"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8356,
@@ -94322,7 +94914,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "robbie",
-    "player2": "Ampharose"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ampharose",
+    "player2Characters": [
+      "Luigi"
+    ]
   },
   {
     "id": 8358,
@@ -94331,7 +94929,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "GrayCode",
-    "player2": "robbie"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8359,
@@ -94340,7 +94944,13 @@
     "tournament": "DMGC Smash Bros Local #197",
     "tournamentShort": "DMGC 197",
     "player1": "diggles137",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8360,
@@ -94349,7 +94959,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "robbie",
-    "player2": "Beastlytrey"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
   },
   {
     "id": 8361,
@@ -94388,7 +95004,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "Slowking",
-    "player2": "robbie"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8364,
@@ -94397,7 +95019,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "2 of 'em",
-    "player2": "Tato"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 8365,
@@ -94436,7 +95064,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "Slowking",
-    "player2": "Tato"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 8368,
@@ -94445,7 +95079,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "GDubs",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8369,
@@ -94454,7 +95094,14 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "Slowking",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco",
+      "Marth"
+    ]
   },
   {
     "id": 8370,
@@ -94463,7 +95110,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "Slowking",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8371,
@@ -94563,7 +95216,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "GDubs",
-    "player2": "robbie"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8378,
@@ -94572,7 +95231,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "Tato",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8379,
@@ -94581,7 +95246,13 @@
     "tournament": "DMGC Smash Bros Local #198",
     "tournamentShort": "DMGC 198",
     "player1": "Ohnowen",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8380,
@@ -94606,7 +95277,13 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "Rat Funk",
-    "player2": "robbie"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8382,
@@ -94645,7 +95322,14 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "diggles137",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Captain Falcon",
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8385,
@@ -94654,7 +95338,13 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "GDubs",
-    "player2": "Tato"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tato",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 8386,
@@ -94663,7 +95353,14 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "diggles137",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Captain Falcon",
+      "Fox"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8387,
@@ -94672,7 +95369,13 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "diggles137",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8388,
@@ -94711,7 +95414,13 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "Rat Funk",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8391,
@@ -94720,7 +95429,13 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "robbie",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8392,
@@ -94729,7 +95444,13 @@
     "tournament": "DMGC Smash Bros Local #199",
     "tournamentShort": "DMGC 199",
     "player1": "GDubs",
-    "player2": "robbie"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8393,
@@ -94843,7 +95564,13 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "Beastlytrey",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8401,
@@ -94852,7 +95579,13 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "diggles137",
-    "player2": "Beastlytrey"
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
   },
   {
     "id": 8402,
@@ -94861,7 +95594,14 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "diggles137",
-    "player2": "Soup"
+    "player1Characters": [
+      "Falco",
+      "Captain Falcon"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8403,
@@ -94870,7 +95610,13 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "GrayCode",
-    "player2": "GDubs"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8404,
@@ -94879,7 +95625,13 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "GDubs",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 8405,
@@ -94888,7 +95640,13 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "Soup",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8406,
@@ -94897,7 +95655,13 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "Rat Funk",
-    "player2": "Soup"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
   },
   {
     "id": 8407,
@@ -94906,6 +95670,12 @@
     "tournament": "DMGC Smash Bros Local #200",
     "tournamentShort": "DMGC 200",
     "player1": "Rat Funk",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
