@@ -94730,5 +94730,182 @@
     "tournamentShort": "DMGC 199",
     "player1": "GDubs",
     "player2": "robbie"
+  },
+  {
+    "id": 8393,
+    "youtubeId": "bwyw7hT-07I",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "Soup",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8394,
+    "youtubeId": "Iac2sr1xero",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "Beastlytrey",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 8395,
+    "youtubeId": "dnx7cBTDqmc",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8396,
+    "youtubeId": "HB3LGzhOrro",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8397,
+    "youtubeId": "gOo7wBUcYEg",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GDubs",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8398,
+    "youtubeId": "lJvNCVN45JE",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "GDubs",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8399,
+    "youtubeId": "f_xW14x3azA",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8400,
+    "youtubeId": "gb1apguAlUM",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "Beastlytrey",
+    "player2": "Rat Funk"
+  },
+  {
+    "id": 8401,
+    "youtubeId": "qIJFirfezQc",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "diggles137",
+    "player2": "Beastlytrey"
+  },
+  {
+    "id": 8402,
+    "youtubeId": "Y3GZ5aCqERE",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "diggles137",
+    "player2": "Soup"
+  },
+  {
+    "id": 8403,
+    "youtubeId": "AWNxOgzAXew",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "GrayCode",
+    "player2": "GDubs"
+  },
+  {
+    "id": 8404,
+    "youtubeId": "I5-hNKXZWSc",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "GDubs",
+    "player2": "Rat Funk"
+  },
+  {
+    "id": 8405,
+    "youtubeId": "9YCB72dLyHA",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "Soup",
+    "player2": "GrayCode"
+  },
+  {
+    "id": 8406,
+    "youtubeId": "T5hX84Y-68o",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "Rat Funk",
+    "player2": "Soup"
+  },
+  {
+    "id": 8407,
+    "youtubeId": "nsqKwRC0DuQ",
+    "date": "2025-12-11",
+    "tournament": "DMGC Smash Bros Local #200",
+    "tournamentShort": "DMGC 200",
+    "player1": "Rat Funk",
+    "player2": "GrayCode"
   }
 ]
