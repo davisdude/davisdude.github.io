@@ -94232,5 +94232,114 @@
     "tournamentShort": "DMGC 196",
     "player1": "GDubs",
     "player2": "Trejohn6"
+  },
+  {
+    "id": 8350,
+    "youtubeId": "eOHH50vjazc",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "robbie",
+    "player2": "Soup"
+  },
+  {
+    "id": 8351,
+    "youtubeId": "nrFNM68qcPI",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Ampharose",
+    "player2Characters": [
+      "Luigi",
+      "Link"
+    ]
+  },
+  {
+    "id": 8352,
+    "youtubeId": "IobBH8DkEZc",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8353,
+    "youtubeId": "KI7ZQQfGLFc",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "diggles137",
+    "player2": "GrayCode"
+  },
+  {
+    "id": 8354,
+    "youtubeId": "L1ajHis1bp4",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "Slowking",
+    "player2": "diggles137"
+  },
+  {
+    "id": 8355,
+    "youtubeId": "8VXeQ-Lx6Yc",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "Slowking",
+    "player2": "diggles137"
+  },
+  {
+    "id": 8356,
+    "youtubeId": "wt8DyCGWk3o",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 8357,
+    "youtubeId": "SN-PwY-1d-U",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "robbie",
+    "player2": "Ampharose"
+  },
+  {
+    "id": 8358,
+    "youtubeId": "GlQOdCs_WPg",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "GrayCode",
+    "player2": "robbie"
+  },
+  {
+    "id": 8359,
+    "youtubeId": "-c_-pwqiESk",
+    "date": "2025-11-13",
+    "tournament": "DMGC Smash Bros Local #197",
+    "tournamentShort": "DMGC 197",
+    "player1": "diggles137",
+    "player2": "GrayCode"
   }
 ]
