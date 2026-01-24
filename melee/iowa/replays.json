@@ -96023,5 +96023,130 @@
     "player2Characters": [
       "Captain Falcon"
     ]
+  },
+  {
+    "id": 8431,
+    "youtubeId": "ge-VKXf9_y4",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "Trejohn6",
+    "player1Characters": [
+      "Roy"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Roy"
+    ]
+  },
+  {
+    "id": 8432,
+    "youtubeId": "UKHSxHZVslg",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "diggles137",
+    "player1Characters": [
+      "Captain Falcon",
+      "Fox"
+    ],
+    "player2": "Ash",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8433,
+    "youtubeId": "WsD8S8iirCI",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8434,
+    "youtubeId": "BLa04vfnFbs",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Soup",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 8435,
+    "youtubeId": "EnRyeNAJVtI",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "diggles137",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8436,
+    "youtubeId": "FlazymROf-8",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "Ash",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8437,
+    "youtubeId": "xs1zHXQ4ZT0",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff",
+      "Fox"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Link"
+    ]
+  },
+  {
+    "id": 8438,
+    "youtubeId": "0u9bL0XkEdo",
+    "date": "2025-12-17",
+    "tournament": "DMGC Smash Bros Local #201",
+    "tournamentShort": "DMGC 201",
+    "player1": "Soup",
+    "player1Characters": [
+      "Roy",
+      "Marth"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Luigi",
+      "Falco",
+      "Yoshi"
+    ]
   }
 ]
