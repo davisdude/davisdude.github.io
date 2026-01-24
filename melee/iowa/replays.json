@@ -95701,7 +95701,13 @@
     "tournament": "Tienda's New Year's Tournament 2026",
     "tournamentShort": "TNYT 2026",
     "player1": "Boigan",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 8410,
