@@ -97646,5 +97646,97 @@
       "Yoshi"
     ],
     "tournamentShort": "TTS 57"
+  },
+  {
+    "id": 8538,
+    "youtubeId": "3EhIXy5UwmU",
+    "date": "2025-11-18",
+    "tournament": "Tienda's Tournament Series #58",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ],
+    "tournamentShort": "TTS 58"
+  },
+  {
+    "id": 8539,
+    "youtubeId": "GuxTexc5JBk",
+    "date": "2025-11-18",
+    "tournament": "Tienda's Tournament Series #58",
+    "player1": "KcBlue",
+    "player2": "Disabled",
+    "tournamentShort": "TTS 58",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8540,
+    "youtubeId": "bWj_epTi6Wk",
+    "date": "2025-11-18",
+    "tournament": "Tienda's Tournament Series #58",
+    "player1": "KcBlue",
+    "player2": "Tienda",
+    "tournamentShort": "TTS 58",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8541,
+    "youtubeId": "p0uobdGjNXQ",
+    "date": "2025-11-18",
+    "tournament": "Tienda's Tournament Series #58",
+    "player1": "Disabled",
+    "player2": "PsyRex",
+    "tournamentShort": "TTS 58",
+    "player1Characters": [
+      "Sheik",
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8542,
+    "youtubeId": "UH8pLdZMpIA",
+    "date": "2025-11-18",
+    "tournament": "Tienda's Tournament Series #58",
+    "player1": "KcBlue",
+    "player2": "Tienda",
+    "tournamentShort": "TTS 58",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8543,
+    "youtubeId": "xsQ3LdHATcY",
+    "date": "2025-11-18",
+    "tournament": "Tienda's Tournament Series #58",
+    "player1": "Disabled",
+    "player2": "PsyRex",
+    "tournamentShort": "TTS 58",
+    "player1Characters": [
+      "Sheik",
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Yoshi"
+    ]
   }
 ]
