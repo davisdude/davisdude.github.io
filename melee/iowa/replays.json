@@ -97556,5 +97556,95 @@
     "player2Characters": [
       "Ice Climbers"
     ]
+  },
+  {
+    "id": 8532,
+    "youtubeId": "pF6919KD-0Y",
+    "date": "2025-11-11",
+    "tournament": "Tienda's Tournament Series #57",
+    "player1": "Disabled",
+    "player2": "PsyRex",
+    "tournamentShort": "TTS 57",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8533,
+    "youtubeId": "FAYVMfmvQtU",
+    "date": "2025-11-11",
+    "tournament": "Tienda's Tournament Series #57",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ],
+    "tournamentShort": "TTS 57"
+  },
+  {
+    "id": 8534,
+    "youtubeId": "STAYVcCCR14",
+    "date": "2025-11-11",
+    "tournament": "Tienda's Tournament Series #57",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tournamentShort": "TTS 57"
+  },
+  {
+    "id": 8535,
+    "youtubeId": "cp7hilNyUm8",
+    "date": "2025-11-11",
+    "tournament": "Tienda's Tournament Series #57",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ],
+    "tournamentShort": "TTS 57"
+  },
+  {
+    "id": 8536,
+    "youtubeId": "fsm7txSANp8",
+    "date": "2025-11-11",
+    "tournament": "Tienda's Tournament Series #57",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ],
+    "tournamentShort": "TTS 57"
+  },
+  {
+    "id": 8537,
+    "youtubeId": "RvJImahEf-Q",
+    "date": "2025-11-11",
+    "tournament": "Tienda's Tournament Series #57",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ],
+    "tournamentShort": "TTS 57"
   }
 ]
