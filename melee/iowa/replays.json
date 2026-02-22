@@ -98476,5 +98476,137 @@
     "player2Characters": [
       "Ice Climbers"
     ]
+  },
+  {
+    "id": 8593,
+    "youtubeId": "MwU-w973CpU",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Spicy",
+    "player1Characters": [
+      "Ganondorf",
+      "Luigi",
+      "Marth",
+      "Falco",
+      "Marth"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 8594,
+    "youtubeId": "en1jHohD5u8",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Ash",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8595,
+    "youtubeId": "olDPnMvej70",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8596,
+    "youtubeId": "G3TqoUOeGK8",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Spicy",
+    "player1Characters": [
+      "Marth",
+      "Ganondorf",
+      "Fox"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8597,
+    "youtubeId": "GgSJh_JA9iY",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Spicy",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Shukle",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8598,
+    "youtubeId": "3Hvr_BEXh4g",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8599,
+    "youtubeId": "JC41EvKvW7o",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Spicy",
+    "player1Characters": [
+      "Pichu",
+      "Samus",
+      "Bowser"
+    ],
+    "player2": "Ash",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8600,
+    "youtubeId": "Vt3v3Q9XpTw",
+    "date": "2026-02-17",
+    "tournament": "Tienda's Tournament Series #63",
+    "tournamentShort": "TTS 63",
+    "player1": "Spicy",
+    "player1Characters": [
+      "Kirby",
+      "Ganondorf",
+      "Ice Climbers",
+      "Jigglypuff",
+      "Marth"
+    ],
+    "player2": "Shukle",
+    "player2Characters": [
+      "Fox"
+    ]
   }
 ]
