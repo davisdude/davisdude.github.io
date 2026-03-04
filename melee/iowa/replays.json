@@ -99137,5 +99137,125 @@
     "player2Characters": [
       "Marth"
     ]
+  },
+  {
+    "id": 8636,
+    "youtubeId": "ZQi7zng9HeY",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "De",
+    "player2": "Fred",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8637,
+    "youtubeId": "4S3RUJkugs8",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "honja",
+    "player2": "De",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8638,
+    "youtubeId": "Oc84AsCGQ34",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8639,
+    "youtubeId": "v8xmbBh6U44",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "Blooky",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8640,
+    "youtubeId": "w0MITybRgwc",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8641,
+    "youtubeId": "0W0KN46I2-I",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 8642,
+    "youtubeId": "PqjsjADDNUg",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "Blooky",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8643,
+    "youtubeId": "gApv47sjm8A",
+    "date": "2026-02-24",
+    "tournament": "Tienda's Tournament Series #64",
+    "tournamentShort": "TTS 64",
+    "player1": "Shukle",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Dr. Mario"
+    ]
   }
 ]
