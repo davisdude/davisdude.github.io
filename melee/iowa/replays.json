@@ -5102,11 +5102,11 @@
     "tournamentShort": "DMGC 164",
     "player1": "Ohnowen",
     "player1Characters": [
-      "Captain Falcon"
-    ],
-    "player2": "shrimps is bugs Falcon",
-    "player2Characters": [
       "Falco"
+    ],
+    "player2": "shrimps is bugs",
+    "player2Characters": [
+      "Captain Falcon"
     ],
     "tags": []
   },
@@ -19991,9 +19991,13 @@
     "tournament": "Dave's Diner",
     "tournamentShort": "Dave's Diner",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "Fauxfire",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -40913,7 +40917,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "AIDz",
+    "player2": "Aidz",
     "player2Characters": [
       "Falco"
     ],
@@ -40995,7 +40999,7 @@
     "originalTitle": "FAMunchies vs Aidz - CttWoaS [LR1]",
     "date": "2023-09-09",
     "tournament": "Come to the Weekly... on Saturday?!??!",
-    "player1": "AIDz",
+    "player1": "Aidz",
     "player1Characters": [
       "Captain Falcon"
     ],
@@ -41183,7 +41187,7 @@
     "originalTitle": "Aidz vs Coin - CttWoaS  [LR2]",
     "date": "2023-09-09",
     "tournament": "Come to the Weekly... on Saturday?!??!",
-    "player1": "AIDz",
+    "player1": "Aidz",
     "player1Characters": [
       "Captain Falcon"
     ],
@@ -41204,7 +41208,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "AIDz",
+    "player2": "Aidz",
     "player2Characters": [
       "Falco"
     ],
@@ -68879,7 +68883,7 @@
     "date": "2020-03-03",
     "tournament": "LHCH 40",
     "tournamentShort": "LHCH 40",
-    "player1": "MM Peanuts",
+    "player1": "Peanuts",
     "player1Characters": [],
     "player2": "John Madden",
     "player2Characters": [],
@@ -68998,7 +69002,7 @@
     "originalTitle": "The Thunderdome pool 4 Foolsauce vs Psyrex",
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
-    "player1": "The Thunderdome pool 4 Foolsauce",
+    "player1": "Foolsauce",
     "player1Characters": [],
     "player2": "Psyrex",
     "player2Characters": [],
@@ -69012,7 +69016,7 @@
     "originalTitle": "The Thunderdome pool 4 M150 Kendrick vs Foolsauce",
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
-    "player1": "The Thunderdome pool 4 M150 Kendrick",
+    "player1": "Kendrick",
     "player1Characters": [],
     "player2": "Foolsauce",
     "player2Characters": [],
@@ -69026,7 +69030,7 @@
     "originalTitle": "The Thunderdome pool 4 M150 Kendrick vs Psyrex",
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
-    "player1": "The Thunderdome pool 4 M150 Kendrick",
+    "player1": "Kendrick",
     "player1Characters": [],
     "player2": "Psyrex",
     "player2Characters": [],
@@ -69040,7 +69044,7 @@
     "originalTitle": "The Thunderdome Slowking vs KeanuReads",
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
-    "player1": "The Thunderdome Slowking",
+    "player1": "Slowking",
     "player1Characters": [],
     "player2": "KeanuReads",
     "player2Characters": [],
@@ -69432,7 +69436,7 @@
     "originalTitle": "Pool 3 GDubs vs Robfox",
     "date": "2020-03-02",
     "tournament": "The Thunderdome",
-    "player1": "Pool 3 GDubs",
+    "player1": "GDubs",
     "player1Characters": [
       "Fox"
     ],
@@ -70653,7 +70657,7 @@
     "originalTitle": "Grand Final Midwestballz(L) v GDubs",
     "date": "2020-02-09",
     "tournament": "Ames Arcadian",
-    "player1": "MidwestBallz(L)",
+    "player1": "MidwestBallz",
     "player1Characters": [],
     "player2": "GDubs",
     "player2Characters": [],
@@ -72169,7 +72173,7 @@
     "originalTitle": "SKO17 Keams vs SpaceJam",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Keams",
+    "player1": "Keams",
     "player1Characters": [],
     "player2": "YungSpaceJam",
     "player2Characters": [],
@@ -72183,7 +72187,7 @@
     "originalTitle": "SKO17 Geuser vs Keams",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Geuser",
+    "player1": "Geuser",
     "player1Characters": [],
     "player2": "Keams_",
     "player2Characters": [],
@@ -72197,9 +72201,9 @@
     "originalTitle": "SKO17 Doof vs Sakura Money Match",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Doof",
+    "player1": "Doof",
     "player1Characters": [],
-    "player2": "Sakura Money Match",
+    "player2": "Sakura",
     "player2Characters": [],
     "tags": [
       "Star KO 17"
@@ -72211,7 +72215,7 @@
     "originalTitle": "SKO17 Doof vs Sakura",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Doof",
+    "player1": "Doof",
     "player1Characters": [],
     "player2": "Sakura",
     "player2Characters": [],
@@ -72225,7 +72229,7 @@
     "originalTitle": "SKO17 Doof vs Keams",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Doof",
+    "player1": "Doof",
     "player1Characters": [],
     "player2": "Keams_",
     "player2Characters": [],
@@ -72239,7 +72243,7 @@
     "originalTitle": "SKO17 CRACKDOG vs Zyko",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 CRACKDOG",
+    "player1": "CRACKDOG",
     "player1Characters": [],
     "player2": "Zyko",
     "player2Characters": [],
@@ -72253,7 +72257,7 @@
     "originalTitle": "SKO17 CornCobKing vs Yeet",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 CornCobKing",
+    "player1": "CornCobKing",
     "player1Characters": [],
     "player2": "Yeet",
     "player2Characters": [],
@@ -72267,7 +72271,7 @@
     "originalTitle": "SKO17 CornCobKing vs Dio",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 CornCobKing",
+    "player1": "CornCobKing",
     "player1Characters": [],
     "player2": "Dio",
     "player2Characters": [],
@@ -72281,9 +72285,9 @@
     "originalTitle": "SKO17 Bobbles vs Doof Bracket",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Bobbles",
+    "player1": "Bobbles",
     "player1Characters": [],
-    "player2": "Doof Bracket",
+    "player2": "Doof",
     "player2Characters": [],
     "tags": [
       "Star KO 17"
@@ -72295,9 +72299,9 @@
     "originalTitle": "SKO17 Bobbles vs Doof Pools",
     "date": "2020-01-08",
     "tournament": "Star KO 17",
-    "player1": "SKO17 Bobbles",
+    "player1": "Bobbles",
     "player1Characters": [],
-    "player2": "Doof Pools",
+    "player2": "Doof",
     "player2Characters": [],
     "tags": [
       "Star KO 17"
@@ -73662,7 +73666,7 @@
     "date": "2019-10-30",
     "tournament": "LHCH 23",
     "tournamentShort": "LHCH 23",
-    "player1": "MoneyMatch Peanuts",
+    "player1": "Peanuts",
     "player1Characters": [],
     "player2": "Oddesyus",
     "player2Characters": [],
@@ -73692,7 +73696,7 @@
     "date": "2019-10-30",
     "tournament": "LHCH 23",
     "tournamentShort": "LHCH 23",
-    "player1": "MoneyMatch PapaEwan",
+    "player1": "PapaEwan",
     "player1Characters": [],
     "player2": "Peanuts",
     "player2Characters": [],
@@ -75119,7 +75123,7 @@
     "originalTitle": "Pool 4 (unknown) v DavidCue",
     "date": "2019-09-29",
     "tournament": "Star KO 16",
-    "player1": "(unknown)",
+    "player1": "???",
     "player1Characters": [],
     "player2": "DavidCue",
     "player2Characters": [],
@@ -75135,7 +75139,7 @@
     "tournament": "Star KO 16",
     "player1": "Wentworth",
     "player1Characters": [],
-    "player2": "(unknown)",
+    "player2": "???",
     "player2Characters": [],
     "tags": [
       "Star KO 16 Stream"
@@ -75161,7 +75165,7 @@
     "originalTitle": "Pool 3 Y G L v Papa Ewan",
     "date": "2019-09-29",
     "tournament": "Star KO 16",
-    "player1": "L",
+    "player1": "Y G L",
     "player1Characters": [],
     "player2": "Papa Ewan",
     "player2Characters": [],
@@ -75343,7 +75347,7 @@
     "originalTitle": "Pool 3 Y G L vs Zonch",
     "date": "2019-09-29",
     "tournament": "Star KO 16",
-    "player1": "Pool 3 Y G L",
+    "player1": "Y G L",
     "player1Characters": [],
     "player2": "Zonch",
     "player2Characters": [],
@@ -76053,7 +76057,7 @@
     "date": "2019-09-29",
     "tournament": "LHCH 18",
     "tournamentShort": "LHCH 18",
-    "player1": "Grand Finals Set 1 Russell",
+    "player1": "Russell",
     "player1Characters": [],
     "player2": "Landon",
     "player2Characters": [],
@@ -76068,7 +76072,7 @@
     "date": "2019-09-29",
     "tournament": "LHCH 18",
     "tournamentShort": "LHCH 18",
-    "player1": "Grands Set 2 Russell",
+    "player1": "Russell",
     "player1Characters": [],
     "player2": "Landon",
     "player2Characters": [],
@@ -77284,7 +77288,7 @@
     "date": "2019-09-12",
     "tournament": "LHCH 16",
     "tournamentShort": "LHCH 16",
-    "player1": "Grand Finals Russell",
+    "player1": "Russell",
     "player1Characters": [],
     "player2": "Sothe",
     "player2Characters": [],
@@ -77760,7 +77764,7 @@
     "tournament": "Star KO 15",
     "player1": "Odesza",
     "player1Characters": [],
-    "player2": "unknown",
+    "player2": "???",
     "player2Characters": [],
     "tags": [
       "Star KO 15"
@@ -86005,6 +86009,7 @@
     "player1Characters": [
       "Fox"
     ],
+    "player2": "Spicy",
     "player2Characters": [
       "Marth",
       "Fox",
@@ -94557,7 +94562,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "Ampherose",
+    "player2": "Ampharose",
     "player2Characters": [
       "Link"
     ]
