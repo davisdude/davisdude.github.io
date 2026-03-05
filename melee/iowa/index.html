@@ -13,7 +13,8 @@
     <h1>Iowa Melee VODs</h1>
 
     <div id="melee-replay-viewer" class="replay-viewer-container">
-        <!-- Search Section -->
+        <!-- Search section -->
+        <div class="title">Basic search</div>
         <div class="replay-search">
             <input
                 type="text"
@@ -21,8 +22,55 @@
                 class="replay-search-input"
                 placeholder="Search players, characters, tournaments..."
             >
-            <button id="searchButton" class="replay-search-button">Search</button>
+            <button id="searchButton1" class="replay-search-button">Search</button>
         </div>
+
+        <!-- Advanced search section -->
+        <details id="advanced-search-summary">
+            <summary class="title">Advanced search</summary>
+            <div class="advanced-search">
+                <div class="advanced-search-component">
+                    <div class="advanced-search-subcomponent">
+                        <label class="tournament-search" for="tournament">Tournament:</label>
+                        <select id="tournament">
+                            <option></option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="advanced-search-component">
+                    <div class="advanced-search-subcomponent">
+                        <label class="player-tag-search" for="player1Tag">Player 1:</label>
+                        <select id="player1Tag">
+                            <option></option>
+                        </select>
+                    </div>
+                    <div class="advanced-search-subcomponent">
+                        <label class="player-character-search" for="player1Character">Character:</label>
+                        <select id="player1Character">
+                            <option></option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="advanced-search-component">
+                    <div class="advanced-search-subcomponent">
+                        <label class="player-tag-search" for="player2Tag">Player 2:</label>
+                        <select id="player2Tag">
+                            <option></option>
+                        </select>
+                    </div>
+                    <div class="advanced-search-subcomponent">
+                        <label class="player-character-search" for="player2Character">Character:</label>
+                        <select id="player2Character">
+                            <option></option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button id="searchButton2" class="replay-search-button">Search</button>
+            <button id="resetButton" class="replay-reset-button">Reset</button>
+        </details>
 
         <!-- Pagination (top) -->
         <div id="paginationTop" class="replay-pagination"></div>
