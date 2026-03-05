@@ -99257,5 +99257,110 @@
     "player2Characters": [
       "Dr. Mario"
     ]
+  },
+  {
+    "id": 8644,
+    "youtubeId": "LR3_nDDacf4",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Disabled",
+    "player2": "PsyRex",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8645,
+    "youtubeId": "dfLT06a8ALU",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Shukle",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 8646,
+    "youtubeId": "AOLC1vFJMI8",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Shukle",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8647,
+    "youtubeId": "XbCikfVMgeA",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Porkyz",
+    "player2": "Tienda",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8648,
+    "youtubeId": "7IO1gTJxEbw",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Disabled",
+    "player2": "De",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8649,
+    "youtubeId": "-Up0tBY2IJ8",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Porkyz",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8650,
+    "youtubeId": "EEE8K5akjlI",
+    "date": "2026-03-03",
+    "tournament": "Tienda's Tournament Series #65",
+    "tournamentShort": "TTS 65",
+    "player1": "Porkyz",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   }
 ]
