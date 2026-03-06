@@ -22600,9 +22600,13 @@
     "tournament": "Tienda's Tournament Series #4",
     "tournamentShort": "TTS 4",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -22613,9 +22617,13 @@
     "tournament": "Tienda's Tournament Series #4",
     "tournamentShort": "TTS 4",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Esej",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -22626,9 +22634,13 @@
     "tournament": "Tienda's Tournament Series #4",
     "tournamentShort": "TTS 4",
     "player1": "Esej",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -22639,9 +22651,13 @@
     "tournament": "Tienda's Tournament Series #4",
     "tournamentShort": "TTS 4",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -22652,9 +22668,13 @@
     "tournament": "Tienda's Tournament Series #4",
     "tournamentShort": "TTS 4",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -22663,10 +22683,15 @@
     "originalTitle": "Zyko vs Beastlytrey - Oh No A Rat Gamer extravaganza #1 - LR1",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Zyko",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi"
+    ],
     "tags": []
   },
   {
@@ -22675,10 +22700,15 @@
     "originalTitle": "Rat Funk vs Zyko - Oh No A Rat Gamer extravaganza #1 - LR2",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Zyko",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Rat Funk",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -22687,10 +22717,15 @@
     "originalTitle": "Ohnowen vs Zyko - Oh No A Rat Gamer extravaganza #1 - LQF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Ohnowen",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Zyko",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -22699,10 +22734,15 @@
     "originalTitle": "GrayCode vs Ohnowen - Oh No A Rat Gamer extravaganza #1 - WQF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Ohnowen",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -22711,10 +22751,15 @@
     "originalTitle": "GrayCode vs Mari Stars - Oh No A Rat Gamer extravaganza #1 - LR2",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Mari Stars",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -22723,10 +22768,15 @@
     "originalTitle": "GrayCode vs K_____ - Oh No A Rat Gamer extravaganza #1 - LQF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "K_____",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -22735,10 +22785,16 @@
     "originalTitle": "Beastlytrey vs Mari Stars - Oh No A Rat Gamer extravaganza #1 - WR1",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "Mari Stars",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ganondorf",
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -22747,10 +22803,15 @@
     "originalTitle": "Zyko vs K_____ - Oh No A Rat Gamer extravaganza #1 - WQF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Zyko",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -22759,10 +22820,15 @@
     "originalTitle": "Ohnowen vs K_____ - Oh No A Rat Gamer extravaganza #1 - LSF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "K_____",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Ohnowen",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ohnowen"
+    ],
     "tags": []
   },
   {
@@ -22771,10 +22837,15 @@
     "originalTitle": "Ohnowen vs Cpt.Blade - Oh No A Rat Gamer extravaganza #1 - WSF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Cpt.Blade",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Ohnowen",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -22783,10 +22854,15 @@
     "originalTitle": "Mari Stars vs Cpt.Blade - Oh No A Rat Gamer extravaganza #1 - WQF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Cpt.Blade",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Mari Stars",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -22795,10 +22871,15 @@
     "originalTitle": "Maple vs K_____ - Oh No A Rat Gamer extravaganza #1 - WSF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
@@ -22807,10 +22888,15 @@
     "originalTitle": "Maple vs Cpt.Blade - Oh No A Rat Gamer extravaganza #1 - WF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -22819,10 +22905,15 @@
     "originalTitle": "Lactose vs GrayCode - Oh No A Rat Gamer extravaganza #1 - LR1",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "GrayCode",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Lactose",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -22831,10 +22922,15 @@
     "originalTitle": "Cpt.Blade vs Maple - Oh No A Rat Gamer extravaganza #1 - GF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
-    "player1": "Maple",
-    "player1Characters": [],
-    "player2": "Cpt.Blade",
-    "player2Characters": [],
+    "tournamentShort": "ONARGE 1",
+    "player1": "Cpt.Blade",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Maple",
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -22843,10 +22939,15 @@
     "originalTitle": "Cpt.Blade vs K_____ - Oh No A Rat Gamer extravaganza #1 - LF",
     "date": "2024-07-04",
     "tournament": "Oh No A Rat Gamer extravaganza #1",
+    "tournamentShort": "ONARGE 1",
     "player1": "Cpt.Blade",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "tags": []
   },
   {
