@@ -22133,9 +22133,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "YungSpaceJam",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -22146,9 +22150,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "Saber",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "YungSpaceJam",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -22159,9 +22167,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -22172,9 +22184,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -22185,9 +22201,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth"
+    ],
     "tags": []
   },
   {
@@ -22198,9 +22218,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "haha",
-    "player1Characters": [],
+    "player1Characters": [
+      "Donkey Kong"
+    ],
     "player2": "Geuser",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -22211,9 +22235,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "haha",
-    "player2Characters": [],
+    "player2Characters": [
+      "Donkey Kong"
+    ],
     "tags": []
   },
   {
@@ -22224,9 +22252,13 @@
     "tournament": "Tienda's Tournament Series #5",
     "tournamentShort": "TTS 5",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "ChadThunderCock",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
