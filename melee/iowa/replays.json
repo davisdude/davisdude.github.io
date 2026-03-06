@@ -82586,7 +82586,13 @@
     "tournament": "Last Hit at Critical Hit #94",
     "tournamentShort": "LHCH 94",
     "player1": "PsyRex",
-    "player2": "Spicy"
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Sheik"
+    ]
   },
   {
     "id": 7943,
@@ -91359,14 +91365,6 @@
     ]
   },
   {
-    "id": 8123,
-    "youtubeId": "RZ16NTW0GrY",
-    "date": "2025-09-19",
-    "tournament": "Honeypot 7: Fireside Tales",
-    "player1": "cbb",
-    "player2": "robbie"
-  },
-  {
     "id": 8124,
     "youtubeId": "XC-baaRwubo",
     "date": "2025-09-19",
@@ -96595,7 +96593,10 @@
       "Marth",
       "Link"
     ],
-    "player2": "GrayCode"
+    "player2": "GrayCode",
+    "player2Characters": [
+        "Falco"
+    ]
   },
   {
     "id": 8467,
