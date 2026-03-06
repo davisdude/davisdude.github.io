@@ -23166,9 +23166,14 @@
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
     "player1": "Disabled",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers",
+      "Sheik"
+    ],
     "player2": "JLo",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -23179,9 +23184,13 @@
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -23192,9 +23201,13 @@
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -23609,9 +23622,13 @@
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "\u641e\u7b11\u6742\u8349\u5927",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -23622,9 +23639,13 @@
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
-    "player2": "Tienda",
-    "player2Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "\u641e\u7b11\u6742\u8349\u5927",
+    "player2Characters": [
+      "Donkey Kong"
+    ],
     "tags": []
   },
   {
@@ -23635,9 +23656,13 @@
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
     "player1": "Saber",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -23647,10 +23672,14 @@
     "date": "2024-06-28",
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
-    "player1": "diggles137",
-    "player1Characters": [],
+    "player1": "\u641e\u7b11\u6742\u8349\u5927",
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Donkey Kong"
+    ],
     "tags": []
   },
   {
@@ -23660,10 +23689,14 @@
     "date": "2024-06-28",
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
-    "player1": "diggles137",
-    "player1Characters": [],
+    "player1": "\u641e\u7b11\u6742\u8349\u5927",
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Saber",
-    "player2Characters": [],
+    "player2Characters": [
+      "Donkey Kong"
+    ],
     "tags": []
   },
   {
@@ -23673,10 +23706,14 @@
     "date": "2024-06-28",
     "tournament": "Tienda's Tournament Series #3",
     "tournamentShort": "TTS 3",
-    "player1": "diggles137",
-    "player1Characters": [],
+    "player1": "\u641e\u7b11\u6742\u8349\u5927",
+    "player1Characters": [
+      "Donkey Kong"
+    ],
     "player2": "Disabled",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
