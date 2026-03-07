@@ -22895,7 +22895,7 @@
     ],
     "player2": "Ohnowen",
     "player2Characters": [
-      "Ohnowen"
+      "Falco"
     ],
     "tags": []
   },
@@ -99734,7 +99734,13 @@
     "date": "2026-03-05",
     "tournament": "DMGC Smash Bros Local #210",
     "player1": "Ohnowen",
-    "player2": "Professor Soup"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Professor Soup",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 8654,
