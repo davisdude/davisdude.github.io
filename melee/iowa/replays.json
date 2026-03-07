@@ -24934,10 +24934,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Wizzrobe",
-    "player1Characters": [],
+    "player1Characters": [
+      "Captain Falcon"
+    ],
     "player2": "Zen",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Sheik"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1764,
@@ -24946,10 +24951,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Zen",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Naw G",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1765,
@@ -24958,10 +24968,16 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Sheu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Trejohn6",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Marth",
+      "Link"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1766,
@@ -24970,10 +24986,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Tato",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Peach"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1767,
@@ -24981,11 +25002,16 @@
     "originalTitle": "Slogs vs Lowercase Hero - Invincible VIII - Pools WR2",
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
-    "player1": "Lowercase Hero",
-    "player1Characters": [],
+    "player1": "Lowercase hero",
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Slogs",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Fox"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1768,
@@ -24994,22 +25020,32 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Sheu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Kaden",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1769,
     "youtubeId": "k1o7aGQOa1M",
     "originalTitle": "Seal vs ORLY - Invincible VIII - Division 1 LR3",
-    "date": "2024-06-02",
+    "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "ORLY",
-    "player1Characters": [],
+    "player1Characters": [
+      "Captain Falcon"
+    ],
     "player2": "Seal",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Sheik"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1771,
@@ -25018,10 +25054,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Preeminent",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "kdak",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1772,
@@ -25030,10 +25071,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "fiveman1",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Ohnowen",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1773,
@@ -25042,10 +25088,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Naw G",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1774,
@@ -25054,10 +25105,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Mundungu",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Ashes",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1775,
@@ -25066,10 +25122,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Tato",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "ms. horrible",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Ness"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1776,
@@ -25078,22 +25139,32 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "fiveman1",
-    "player1Characters": [],
-    "player2": "Mattias",
-    "player2Characters": [],
-    "tags": []
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Matthias",
+    "player2Characters": [
+      "Dr. Mario"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1777,
     "youtubeId": "El1GYiVXmkg",
     "originalTitle": "kite vs Tarik - Invincible VIII - Division 1 LR1",
-    "date": "2024-06-02",
+    "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Tarik",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "kite",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1778,
@@ -25102,10 +25173,16 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Trejohn6",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth",
+      "Link"
+    ],
     "player2": "kdak",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1779,
@@ -25114,10 +25191,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Ohnowen",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1780,
@@ -25126,10 +25208,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Kibby",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "GrayCode",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Falco"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1783,
@@ -25138,10 +25225,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "Kaden",
-    "player1Characters": [],
-    "player2": "DeonShowerHandle",
-    "player2Characters": [],
-    "tags": []
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "DeonShowerhandle",
+    "player2Characters": [
+      "Sheik"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1784,
@@ -25150,10 +25242,15 @@
     "date": "2024-06-01",
     "tournament": "Invincible VIII",
     "player1": "bigoldchub",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Chef Yaoi Jesus",
-    "player2Characters": [],
-    "tags": []
+    "player2Characters": [
+      "Mario"
+    ],
+    "tags": [],
+    "tournamentShort": "Invincible VIII"
   },
   {
     "id": 1786,
