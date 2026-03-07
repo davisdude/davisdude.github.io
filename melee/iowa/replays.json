@@ -23351,9 +23351,13 @@
     "tournament": "Tienda's Tournament Series #2",
     "tournamentShort": "TTS 2",
     "player1": "diggles137",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "YungSpaceJam",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -23364,9 +23368,13 @@
     "tournament": "Tienda's Tournament Series #2",
     "tournamentShort": "TTS 2",
     "player1": "YungSpaceJam",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -23377,9 +23385,13 @@
     "tournament": "Tienda's Tournament Series #2",
     "tournamentShort": "TTS 2",
     "player1": "K_____",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -23390,9 +23402,13 @@
     "tournament": "Tienda's Tournament Series #2",
     "tournamentShort": "TTS 2",
     "player1": "K_____",
-    "player1Characters": [],
+    "player1Characters": [
+      "Jigglypuff"
+    ],
     "player2": "Ashes",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -23403,9 +23419,14 @@
     "tournament": "Tienda's Tournament Series #2",
     "tournamentShort": "TTS 2",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "K_____",
-    "player2Characters": [],
+    "player2Characters": [
+      "Jigglypuff",
+      "Fox"
+    ],
     "tags": []
   },
   {
