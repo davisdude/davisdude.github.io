@@ -23026,9 +23026,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Ashes",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "GDubs",
-    "player2Characters": [],
+    "player2Characters": [
+      "Fox"
+    ],
     "tags": []
   },
   {
@@ -23039,9 +23043,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -23052,9 +23060,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "cbb",
-    "player2Characters": [],
+    "player2Characters": [
+      "Captain Falcon"
+    ],
     "tags": []
   },
   {
@@ -23065,9 +23077,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": [
+      "Yoshi"
+    ],
     "tags": []
   },
   {
@@ -23078,9 +23094,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Beastlytrey",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
@@ -23091,9 +23111,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Landon",
-    "player1Characters": [],
+    "player1Characters": [
+      "Marth"
+    ],
     "player2": "Cream",
-    "player2Characters": [],
+    "player2Characters": [
+      "Sheik"
+    ],
     "tags": []
   },
   {
@@ -23104,9 +23128,14 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Cream",
-    "player1Characters": [],
+    "player1Characters": [
+      "Sheik"
+    ],
     "player2": "Trejohn6",
-    "player2Characters": [],
+    "player2Characters": [
+      "Marth",
+      "Link"
+    ],
     "tags": []
   },
   {
@@ -23117,9 +23146,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -23130,9 +23163,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "submediant",
-    "player1Characters": [],
+    "player1Characters": [
+      "Peach"
+    ],
     "player2": "Judah",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -23143,9 +23180,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Yoshi"
+    ],
     "player2": "Beastlytrey",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -23156,9 +23197,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Tienda",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Maple",
-    "player2Characters": [],
+    "player2Characters": [
+      "Ice Climbers"
+    ],
     "tags": []
   },
   {
@@ -23169,9 +23214,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Judah",
-    "player1Characters": [],
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Tienda",
-    "player2Characters": [],
+    "player2Characters": [
+      "Falco"
+    ],
     "tags": []
   },
   {
@@ -23182,9 +23231,13 @@
     "tournament": "Who's On Ledge? 7",
     "tournamentShort": "WoL 7",
     "player1": "Maple",
-    "player1Characters": [],
+    "player1Characters": [
+      "Ice Climbers"
+    ],
     "player2": "submediant",
-    "player2Characters": [],
+    "player2Characters": [
+      "Peach"
+    ],
     "tags": []
   },
   {
