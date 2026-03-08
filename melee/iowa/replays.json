@@ -61,7 +61,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -129,7 +129,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -659,7 +659,7 @@
       "Link",
       "Falco"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -1052,7 +1052,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -1065,7 +1065,7 @@
     "date": "2025-05-22",
     "tournament": "DMGC Smash Bros Local #172",
     "tournamentShort": "DMGC 172",
-    "player1": "soup",
+    "player1": "Soup",
     "player1Characters": [
       "Marth"
     ],
@@ -1358,7 +1358,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -1443,7 +1443,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -8906,7 +8906,7 @@
     "player1Characters": [
       "Marth"
     ],
-    "player2": "kZ Sheik",
+    "player2": "kZ",
     "player2Characters": [
       "Sheik"
     ],
@@ -12776,7 +12776,7 @@
     "player1Characters": [
       "Marth"
     ],
-    "player2": "MariStars",
+    "player2": "Mari Stars",
     "player2Characters": [
       "Peach"
     ],
@@ -12806,7 +12806,7 @@
     "date": "2024-12-02",
     "tournament": "Battle for the Beehive #99.8 Final Chapter Prologue",
     "tournamentShort": "BftB 99",
-    "player1": "MariStars",
+    "player1": "Mari Stars",
     "player1Characters": [
       "Peach"
     ],
@@ -14774,7 +14774,7 @@
     "player1Characters": [
       "Samus"
     ],
-    "player2": "righteousrighteous",
+    "player2": "righteousrighteous .",
     "player2Characters": [
       "Young Link"
     ],
@@ -17102,7 +17102,7 @@
     "date": "2024-09-28",
     "tournament": "Who's On Ledge? 8",
     "tournamentShort": "WoL 8",
-    "player1": "righteousrighteous",
+    "player1": "righteousrighteous .",
     "player1Characters": [
       "Young Link"
     ],
@@ -17293,7 +17293,7 @@
     "player1Characters": [
       "Marth"
     ],
-    "player2": "righteousrighteous",
+    "player2": "righteousrighteous .",
     "player2Characters": [
       "Young Link"
     ],
@@ -22363,7 +22363,7 @@
     "player1Characters": [
       "Sheik"
     ],
-    "player2": "ChadThunderCock",
+    "player2": "Chad Thundercock",
     "player2Characters": [
       "Sheik"
     ],
@@ -24903,7 +24903,7 @@
     "player1Characters": [
       "Yoshi"
     ],
-    "player2": "Babo",
+    "player2": "Big Babo",
     "player2Characters": [
       "Marth"
     ],
@@ -24921,7 +24921,7 @@
       "Ice Climbers",
       "Fox"
     ],
-    "player2": "Babo",
+    "player2": "Big Babo",
     "player2Characters": [
       "Marth"
     ],
@@ -33815,7 +33815,7 @@
     "tournamentShort": "DMGC 103",
     "player1": "cbb",
     "player1Characters": [],
-    "player2": "frost",
+    "player2": "Frost",
     "player2Characters": [],
     "tags": []
   },
@@ -40330,7 +40330,7 @@
     "tournamentShort": "DMGC 92",
     "player1": "GrayCode",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -40536,7 +40536,7 @@
     "date": "2023-10-05",
     "tournament": "DMGC Smash Bros Local #92",
     "tournamentShort": "DMGC 92",
-    "player1": "Qbae",
+    "player1": "QBae",
     "player1Characters": [],
     "player2": "Sponge",
     "player2Characters": [],
@@ -40577,7 +40577,7 @@
     "tournamentShort": "DMGC 92",
     "player1": "CRACKBEAR",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -40603,7 +40603,7 @@
     "tournamentShort": "DMGC 92",
     "player1": "Card",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -40640,7 +40640,7 @@
     "date": "2023-10-06",
     "tournament": "DMGC Smash Bros Local #92",
     "tournamentShort": "DMGC 92",
-    "player1": "Qbae",
+    "player1": "QBae",
     "player1Characters": [],
     "player2": "Sponge",
     "player2Characters": [],
@@ -40681,7 +40681,7 @@
     "tournamentShort": "HBM 11",
     "player1": "Doof",
     "player1Characters": [],
-    "player2": "Oh",
+    "player2": "oh",
     "player2Characters": [],
     "tags": []
   },
@@ -40705,7 +40705,7 @@
     "date": "2023-10-04",
     "tournament": "Home Brewed Melee 11",
     "tournamentShort": "HBM 11",
-    "player1": "Oh",
+    "player1": "oh",
     "player1Characters": [],
     "player2": "Doof",
     "player2Characters": [],
@@ -40822,7 +40822,7 @@
     "date": "2023-09-28",
     "tournament": "DMGC Smash Bros Local #91",
     "tournamentShort": "DMGC 91",
-    "player1": "Qbae",
+    "player1": "QBae",
     "player1Characters": [],
     "player2": "Trejohn6",
     "player2Characters": [],
@@ -40837,7 +40837,7 @@
     "tournamentShort": "DMGC 91",
     "player1": "Slowking",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -40848,7 +40848,7 @@
     "date": "2023-09-28",
     "tournament": "DMGC Smash Bros Local #91",
     "tournamentShort": "DMGC 91",
-    "player1": "Qbae",
+    "player1": "QBae",
     "player1Characters": [],
     "player2": "Foolsauce",
     "player2Characters": [],
@@ -40889,7 +40889,7 @@
     "tournamentShort": "DMGC 91",
     "player1": "GrayCode",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -40967,7 +40967,7 @@
     "tournamentShort": "DMGC 91",
     "player1": "Card",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -41262,7 +41262,7 @@
     "tournamentShort": "DMGC 89",
     "player1": "Tato",
     "player1Characters": [],
-    "player2": "qbay",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -41327,7 +41327,7 @@
     "tournamentShort": "DMGC 89",
     "player1": "Cream",
     "player1Characters": [],
-    "player2": "qbay",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -41351,7 +41351,7 @@
     "date": "2023-09-14",
     "tournament": "DMGC Smash Bros Local 89",
     "tournamentShort": "DMGC 89",
-    "player1": "Qbay",
+    "player1": "QBae",
     "player1Characters": [],
     "player2": "Foolsauce",
     "player2Characters": [],
@@ -41730,7 +41730,7 @@
     "originalTitle": "FAMunchies vs Aidz - CttWoaS [LR1]",
     "date": "2023-09-09",
     "tournament": "Come to the Weekly... on Saturday?!??!",
-    "player1": "Aidz",
+    "player1": "AIDz",
     "player1Characters": [
       "Captain Falcon"
     ],
@@ -41918,7 +41918,7 @@
     "originalTitle": "Aidz vs Coin - CttWoaS  [LR2]",
     "date": "2023-09-09",
     "tournament": "Come to the Weekly... on Saturday?!??!",
-    "player1": "Aidz",
+    "player1": "AIDz",
     "player1Characters": [
       "Captain Falcon"
     ],
@@ -41939,7 +41939,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "Aidz",
+    "player2": "AIDz",
     "player2Characters": [
       "Falco"
     ],
@@ -44376,7 +44376,7 @@
     "tournament": "Come to the Weekly #78",
     "player1": "Enpherest",
     "player1Characters": [],
-    "player2": "BenjaminX",
+    "player2": "Benjamin X",
     "player2Characters": [],
     "tags": []
   },
@@ -44412,7 +44412,7 @@
     "tournament": "Come to the Weekly #78",
     "player1": "Bobbles",
     "player1Characters": [],
-    "player2": "BenjaminX",
+    "player2": "Benjamin X",
     "player2Characters": [],
     "tags": []
   },
@@ -44584,7 +44584,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "BenjaminX",
+    "player2": "Benjamin X",
     "player2Characters": [
       "Marth"
     ],
@@ -44648,7 +44648,7 @@
     "player1Characters": [
       "Captain Falcon"
     ],
-    "player2": "BenjaminX",
+    "player2": "Benjamin X",
     "player2Characters": [
       "Peach"
     ],
@@ -45955,7 +45955,7 @@
     "tournament": "Come to the Weekly #76",
     "player1": "Enpherest",
     "player1Characters": [],
-    "player2": "BenjaminX",
+    "player2": "Benjamin X",
     "player2Characters": [],
     "tags": []
   },
@@ -49436,7 +49436,7 @@
     "date": "2023-06-27",
     "tournament": "Last Hit at Critical Hit #113",
     "tournamentShort": "LHCH 113",
-    "player1": "Munchies",
+    "player1": "FAMunchies",
     "player1Characters": [],
     "player2": "oh",
     "player2Characters": [],
@@ -51252,11 +51252,11 @@
   {
     "id": 3995,
     "youtubeId": "vaaaTFQ7zJ8",
-    "originalTitle": "Twink vs Tienda - LHCH 110 [WR1]",
+    "originalTitle": "Twink vs Tienda - LHCH 109 [WR1]",
     "date": "2023-06-06",
-    "tournament": "Last Hit at Critical Hit #110",
-    "tournamentShort": "LHCH 110",
-    "player1": "Twink",
+    "tournament": "Last Hit at Critical Hit #109",
+    "tournamentShort": "LHCH 109",
+    "player1": "Twinkie",
     "player1Characters": [],
     "player2": "Tienda",
     "player2Characters": [],
@@ -51265,13 +51265,13 @@
   {
     "id": 3996,
     "youtubeId": "QjA7_kdP_m8",
-    "originalTitle": "YungSpaceJam vs Twink - LHCH 110 [LR2]",
+    "originalTitle": "YungSpaceJam vs Twink - LHCH 109 [LR2]",
     "date": "2023-06-06",
-    "tournament": "Last Hit at Critical Hit #110",
-    "tournamentShort": "LHCH 110",
+    "tournament": "Last Hit at Critical Hit #109",
+    "tournamentShort": "LHCH 109",
     "player1": "YungSpaceJam",
     "player1Characters": [],
-    "player2": "Twink",
+    "player2": "Twinkie",
     "player2Characters": [],
     "tags": []
   },
@@ -51282,7 +51282,7 @@
     "date": "2023-06-06",
     "tournament": "Last Hit at Critical Hit #110",
     "tournamentShort": "LHCH 110",
-    "player1": "Cargo",
+    "player1": "Cargo, I sure hope it do",
     "player1Characters": [],
     "player2": "Rat Funk",
     "player2Characters": [],
@@ -51310,7 +51310,7 @@
     "tournamentShort": "LHCH 110",
     "player1": "Mouse",
     "player1Characters": [],
-    "player2": "Cargo",
+    "player2": "Cargo, I sure hope it do",
     "player2Characters": [],
     "tags": []
   },
@@ -52298,7 +52298,7 @@
     "tournamentShort": "WoL 1",
     "player1": "Gold Hakurei",
     "player1Characters": [],
-    "player2": "Twinkie ",
+    "player2": "Twinkie",
     "player2Characters": [],
     "tags": []
   },
@@ -54740,7 +54740,7 @@
     "date": "2023-04-08",
     "tournament": "House of Paign 23: The Lab",
     "tournamentShort": "HoP 23",
-    "player1": "DannyPhanton",
+    "player1": "DannyPhantom",
     "player1Characters": [],
     "player2": "ORLY",
     "player2Characters": [],
@@ -57587,7 +57587,7 @@
     "date": "2023-02-02",
     "tournament": "DMGC Smash Bros. Local 58",
     "tournamentShort": "DMGC 58",
-    "player1": "Smorc",
+    "player1": "SMOrc",
     "player1Characters": [],
     "player2": "Ashes",
     "player2Characters": [],
@@ -60124,7 +60124,7 @@
     "tournamentShort": "DMGC 52",
     "player1": "Landon",
     "player1Characters": [],
-    "player2": "Oh",
+    "player2": "oh",
     "player2Characters": [],
     "tags": []
   },
@@ -60137,7 +60137,7 @@
     "tournamentShort": "DMGC 52",
     "player1": "Keams",
     "player1Characters": [],
-    "player2": "Oh",
+    "player2": "oh",
     "player2Characters": [],
     "tags": []
   },
@@ -60148,7 +60148,7 @@
     "date": "2022-12-15",
     "tournament": "DMGC Smash Bros. Local 52 (Iowa Melee Summit Qualifier)",
     "tournamentShort": "DMGC 52",
-    "player1": "Oh",
+    "player1": "oh",
     "player1Characters": [],
     "player2": "CRACKDOG",
     "player2Characters": [],
@@ -60161,7 +60161,7 @@
     "date": "2022-12-15",
     "tournament": "DMGC Smash Bros. Local 52 (Iowa Melee Summit Qualifier)",
     "tournamentShort": "DMGC 52",
-    "player1": "Oh",
+    "player1": "oh",
     "player1Characters": [],
     "player2": "Foolsauce",
     "player2Characters": [],
@@ -62508,7 +62508,7 @@
     "tournamentShort": "DMGC 47",
     "player1": "Niffin",
     "player1Characters": [],
-    "player2": "Qbae",
+    "player2": "QBae",
     "player2Characters": [],
     "tags": []
   },
@@ -62725,7 +62725,7 @@
     "tournament": "Honeypot 4: Lost in the Woods",
     "player1": "ORLY",
     "player1Characters": [],
-    "player2": "horizon",
+    "player2": "Horizon",
     "player2Characters": [],
     "tags": []
   },
@@ -62771,7 +62771,7 @@
     "originalTitle": "horizon vs Fish - Honeypot 4 - Top 32 Losers Round 2",
     "date": "2022-10-22",
     "tournament": "Honeypot 4: Lost in the Woods",
-    "player1": "horizon",
+    "player1": "Horizon",
     "player1Characters": [],
     "player2": "Fish",
     "player2Characters": [],
@@ -63133,7 +63133,7 @@
     "tournament": "Honeypot 4: Lost in the Woods",
     "player1": "GDubs",
     "player1Characters": [],
-    "player2": "horizon",
+    "player2": "Horizon",
     "player2Characters": [],
     "tags": []
   },
@@ -63143,7 +63143,7 @@
     "originalTitle": "GrayCode vs horizon - Honeypot 4 - Pool A2",
     "date": "2022-10-22",
     "tournament": "Honeypot 4: Lost in the Woods",
-    "player1": "horizon",
+    "player1": "Horizon",
     "player1Characters": [],
     "player2": "GrayCode",
     "player2Characters": [],
@@ -63205,7 +63205,7 @@
     "tournament": "Honeypot 4: Lost in the Woods",
     "player1": "Braediac",
     "player1Characters": [],
-    "player2": "horizon",
+    "player2": "Horizon",
     "player2Characters": [],
     "tags": []
   },
@@ -64344,7 +64344,7 @@
     "tournamentShort": "DMGC 37",
     "player1": "June",
     "player1Characters": [],
-    "player2": "NIffin",
+    "player2": "Niffin",
     "player2Characters": [],
     "tags": []
   },
@@ -64680,7 +64680,7 @@
     "date": "2022-09-01",
     "tournament": "DMGC Smash Bros. Local 38",
     "tournamentShort": "DMGC 38",
-    "player1": "Trejohn",
+    "player1": "Trejohn6",
     "player1Characters": [],
     "player2": "GQDang",
     "player2Characters": [],
@@ -64968,7 +64968,7 @@
     "tournamentShort": "DMGC 37",
     "player1": "Tato",
     "player1Characters": [],
-    "player2": "NIffin",
+    "player2": "Niffin",
     "player2Characters": [],
     "tags": []
   },
@@ -65020,7 +65020,7 @@
     "tournamentShort": "DMGC 37",
     "player1": "Cuda",
     "player1Characters": [],
-    "player2": "NIffin",
+    "player2": "Niffin",
     "player2Characters": [],
     "tags": []
   },
@@ -65070,7 +65070,7 @@
     "date": "2022-08-25",
     "tournament": "DMGC Smash Bros. Local 37",
     "tournamentShort": "DMGC 37",
-    "player1": "NIffin",
+    "player1": "Niffin",
     "player1Characters": [],
     "player2": "CRACKDOG",
     "player2Characters": [],
@@ -65174,7 +65174,7 @@
     "date": "2022-08-18",
     "tournament": "DMGC Smash Bros. Local 36",
     "tournamentShort": "DMGC 36",
-    "player1": "OhKnowen",
+    "player1": "Ohnowen",
     "player1Characters": [],
     "player2": "Landon",
     "player2Characters": [],
@@ -65683,7 +65683,7 @@
     "tournamentShort": "DMGC 36",
     "player1": "LaFlame",
     "player1Characters": [],
-    "player2": "OhKnowen",
+    "player2": "Ohnowen",
     "player2Characters": [],
     "tags": []
   },
@@ -67789,7 +67789,7 @@
     "tournamentShort": "DD 5",
     "player1": "GDubs",
     "player1Characters": [],
-    "player2": "guywhoplaysbase",
+    "player2": "guywhoplaysbass",
     "player2Characters": [],
     "tags": []
   },
@@ -67919,7 +67919,7 @@
     "tournamentShort": "DMGC 29",
     "player1": "GDubs",
     "player1Characters": [],
-    "player2": "tato",
+    "player2": "Tato",
     "player2Characters": [],
     "tags": []
   },
@@ -69175,7 +69175,7 @@
     "originalTitle": "RR Dumpster Muffin v GDubs",
     "date": "2020-03-05",
     "tournament": "Joystick",
-    "player1": "Muffin",
+    "player1": "DumpsterMuffin17",
     "player1Characters": [],
     "player2": "GDubs",
     "player2Characters": [],
@@ -69303,7 +69303,7 @@
     "tournament": "The Thunderdome",
     "player1": "Slowking",
     "player1Characters": [],
-    "player2": "Rocklobsta",
+    "player2": "RockLobsta",
     "player2Characters": [],
     "tags": [
       "Thunderdome Stream Vods"
@@ -69343,7 +69343,7 @@
     "originalTitle": "Rocklobsta vs CornCobKing - Losers R1 - The Thunderdome",
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
-    "player1": "Rocklobsta",
+    "player1": "RockLobsta",
     "player1Characters": [],
     "player2": "CornCobKing",
     "player2Characters": [],
@@ -69414,9 +69414,7 @@
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
     "player1": "GDubs",
-    "player1Characters": [
-      "Fox"
-    ],
+    "player1Characters": [],
     "player2": "Robfox",
     "player2Characters": [],
     "tags": [
@@ -69528,9 +69526,7 @@
     "date": "2020-03-03",
     "tournament": "The Thunderdome",
     "player1": "Disabled",
-    "player1Characters": [
-      "Fox"
-    ],
+    "player1Characters": [],
     "player2": "Robfox",
     "player2Characters": [],
     "tags": [
@@ -69616,7 +69612,7 @@
     "tournamentShort": "LHCH 40",
     "player1": "Peanuts",
     "player1Characters": [],
-    "player2": "John Madden",
+    "player2": "Jon Madden",
     "player2Characters": [],
     "tags": [
       "LHCH 40"
@@ -69646,7 +69642,7 @@
     "tournamentShort": "LHCH 40",
     "player1": "Peanuts",
     "player1Characters": [],
-    "player2": "JohnMadden",
+    "player2": "Jon Madden",
     "player2Characters": [],
     "tags": [
       "LHCH 40"
@@ -69721,7 +69717,7 @@
     "tournamentShort": "LHCH 40",
     "player1": "YungSpaceJam",
     "player1Characters": [],
-    "player2": "JohnMadden",
+    "player2": "Jon Madden",
     "player2Characters": [],
     "tags": [
       "LHCH 40"
@@ -69735,7 +69731,7 @@
     "tournament": "The Thunderdome",
     "player1": "Foolsauce",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "Thunderdome"
@@ -69763,7 +69759,7 @@
     "tournament": "The Thunderdome",
     "player1": "Kendrick",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "Thunderdome"
@@ -70001,7 +69997,7 @@
     "tournament": "The Thunderdome",
     "player1": "Slowking",
     "player1Characters": [],
-    "player2": "Rocklobsta",
+    "player2": "RockLobsta",
     "player2Characters": [],
     "tags": [
       "Thunderdome"
@@ -70097,7 +70093,7 @@
     "originalTitle": "Pool 2 Rocklobsta v CornCobKing",
     "date": "2020-03-02",
     "tournament": "The Thunderdome",
-    "player1": "Rocklobsta",
+    "player1": "RockLobsta",
     "player1Characters": [],
     "player2": "CornCobKing",
     "player2Characters": [],
@@ -70168,9 +70164,7 @@
     "date": "2020-03-02",
     "tournament": "The Thunderdome",
     "player1": "GDubs",
-    "player1Characters": [
-      "Fox"
-    ],
+    "player1Characters": [],
     "player2": "Robfox",
     "player2Characters": [],
     "tags": [
@@ -73446,7 +73440,7 @@
     "date": "2019-11-27",
     "tournament": "LHCH 27",
     "tournamentShort": "LHCH 27",
-    "player1": "Midwest",
+    "player1": "Kanye Midwest",
     "player1Characters": [],
     "player2": "oh",
     "player2Characters": [],
@@ -73476,7 +73470,7 @@
     "date": "2019-11-27",
     "tournament": "LHCH 27",
     "tournamentShort": "LHCH 27",
-    "player1": "Midwest",
+    "player1": "Kanye Midwest",
     "player1Characters": [],
     "player2": "GDubs",
     "player2Characters": [],
@@ -73537,7 +73531,7 @@
     "tournament": "Turbulence CCC",
     "player1": "Volton",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "Turbulence CCC"
@@ -73607,7 +73601,7 @@
     "tournament": "Turbulence CCC",
     "player1": "Volton",
     "player1Characters": [],
-    "player2": "Gdubs",
+    "player2": "GDubs",
     "player2Characters": [],
     "tags": [
       "Turbulence CCC"
@@ -73759,7 +73753,7 @@
     "originalTitle": "Losers R1 Psyrex v Zip",
     "date": "2019-11-10",
     "tournament": "Turbulence CCC",
-    "player1": "Psyrex",
+    "player1": "PsyRex",
     "player1Characters": [],
     "player2": "Zip",
     "player2Characters": [],
@@ -74298,7 +74292,7 @@
     "tournament": "Paragon 22",
     "player1": "Trejohn6",
     "player1Characters": [],
-    "player2": "Welfare Pickles",
+    "player2": "WelfarePickles",
     "player2Characters": [],
     "tags": [
       "Paragon 22"
@@ -74312,7 +74306,7 @@
     "tournament": "Paragon 22",
     "player1": "Keams_",
     "player1Characters": [],
-    "player2": "Welfare Pickles",
+    "player2": "WelfarePickles",
     "player2Characters": [],
     "tags": [
       "Paragon 22"
@@ -74393,13 +74387,13 @@
   {
     "id": 6412,
     "youtubeId": "OoypaB-WD-M",
-    "originalTitle": "MoneyMatch Peanuts VS Oddesyus",
+    "originalTitle": "MoneyMatch Peanuts VS 0ddyseus",
     "date": "2019-10-30",
     "tournament": "LHCH 23",
     "tournamentShort": "LHCH 23",
     "player1": "Peanuts",
     "player1Characters": [],
-    "player2": "Oddesyus",
+    "player2": "0dyseus",
     "player2Characters": [],
     "tags": [
       "LHCH 23"
@@ -74427,7 +74421,7 @@
     "date": "2019-10-30",
     "tournament": "LHCH 23",
     "tournamentShort": "LHCH 23",
-    "player1": "PapaEwan",
+    "player1": "Papa Ewan",
     "player1Characters": [],
     "player2": "Peanuts",
     "player2Characters": [],
@@ -74594,7 +74588,7 @@
     "tournamentShort": "LHCH 23",
     "player1": "oh",
     "player1Characters": [],
-    "player2": "Welfare Pickles",
+    "player2": "WelfarePickles",
     "player2Characters": [],
     "tags": [
       "LHCH 23"
@@ -74739,7 +74733,7 @@
     "tournament": "Paragon 21",
     "player1": "Luke",
     "player1Characters": [],
-    "player2": "Welfare Pickles",
+    "player2": "WelfarePickles",
     "player2Characters": [],
     "tags": [
       "Paragon 21"
@@ -75266,7 +75260,7 @@
     "tournamentShort": "LHCH 21",
     "player1": "oh",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "LHCH 21"
@@ -75618,7 +75612,7 @@
     "tournament": "Paragon 19",
     "player1": "Slowking",
     "player1Characters": [],
-    "player2": "Landon L",
+    "player2": "Landon",
     "player2Characters": [],
     "tags": [
       "Paragon 19"
@@ -75868,7 +75862,7 @@
     "originalTitle": "Pool 4 JV Wentworth v (unknown)",
     "date": "2019-09-29",
     "tournament": "Star KO 16",
-    "player1": "Wentworth",
+    "player1": "JV Wentworth",
     "player1Characters": [],
     "player2": "???",
     "player2Characters": [],
@@ -75884,7 +75878,7 @@
     "tournament": "Star KO 16",
     "player1": "DavidCue",
     "player1Characters": [],
-    "player2": "Dirtybongwater",
+    "player2": "dirtybongwater",
     "player2Characters": [],
     "tags": [
       "Star KO 16 Stream"
@@ -75954,7 +75948,7 @@
     "tournament": "Star KO 16",
     "player1": "MidwestBallz",
     "player1Characters": [],
-    "player2": "Elclid",
+    "player2": "elclid",
     "player2Characters": [],
     "tags": [
       "Star KO 16 Stream"
@@ -75980,7 +75974,7 @@
     "originalTitle": "Losers R3 Elclid v Koala",
     "date": "2019-09-29",
     "tournament": "Star KO 16",
-    "player1": "Elclid",
+    "player1": "elclid",
     "player1Characters": [],
     "player2": "Koala",
     "player2Characters": [],
@@ -76528,7 +76522,7 @@
     "tournament": "Star KO 16",
     "player1": "MidwestBallz",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "Star KO 16"
@@ -76582,7 +76576,7 @@
     "originalTitle": "Pool 1 Elclid v CardboardBear",
     "date": "2019-09-29",
     "tournament": "Star KO 16",
-    "player1": "Elclid",
+    "player1": "elclid",
     "player1Characters": [],
     "player2": "CardboardBear",
     "player2Characters": [],
@@ -76598,7 +76592,7 @@
     "tournament": "Star KO 16",
     "player1": "YungSpaceJam",
     "player1Characters": [],
-    "player2": "Elclid",
+    "player2": "elclid",
     "player2Characters": [],
     "tags": [
       "Star KO 16"
@@ -76612,7 +76606,7 @@
     "tournament": "Star KO 16",
     "player1": "CardboardBear",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "Star KO 16"
@@ -76640,7 +76634,7 @@
     "tournament": "Star KO 16",
     "player1": "CornCobKing",
     "player1Characters": [],
-    "player2": "Elclid",
+    "player2": "elclid",
     "player2Characters": [],
     "tags": [
       "Star KO 16"
@@ -76760,7 +76754,7 @@
     "tournamentShort": "LHCH 18",
     "player1": "Peanuts",
     "player1Characters": [],
-    "player2": "Psyrex",
+    "player2": "PsyRex",
     "player2Characters": [],
     "tags": [
       "LHCH18"
@@ -77664,7 +77658,7 @@
     "date": "2019-09-17",
     "tournament": "LHCH 17",
     "tournamentShort": "LHCH 17",
-    "player1": "Odysseus",
+    "player1": "0dysseus",
     "player1Characters": [],
     "player2": "diggles137",
     "player2Characters": [],
@@ -77871,7 +77865,7 @@
     "tournamentShort": "LHCH 16",
     "player1": "Porkyz",
     "player1Characters": [],
-    "player2": "JLow",
+    "player2": "JLo",
     "player2Characters": [],
     "tags": [
       "LHCH16"
@@ -77914,7 +77908,7 @@
     "date": "2019-09-12",
     "tournament": "LHCH 16",
     "tournamentShort": "LHCH 16",
-    "player1": "Odysseus",
+    "player1": "0dysseus",
     "player1Characters": [],
     "player2": "Landon",
     "player2Characters": [],
@@ -78006,7 +78000,7 @@
     "tournamentShort": "LHCH 16",
     "player1": "Peanuts",
     "player1Characters": [],
-    "player2": "Jlow",
+    "player2": "JLo",
     "player2Characters": [],
     "tags": [
       "LHCH16"
@@ -78132,7 +78126,7 @@
     "date": "2019-09-03",
     "tournament": "LHCH 15",
     "tournamentShort": "LHCH 15",
-    "player1": "Cookie",
+    "player1": "Rookie Cookie",
     "player1Characters": [],
     "player2": "Slowking",
     "player2Characters": [],
@@ -78147,7 +78141,7 @@
     "date": "2019-09-03",
     "tournament": "LHCH 15",
     "tournamentShort": "LHCH 15",
-    "player1": "Cookie",
+    "player1": "Rookie Cookie",
     "player1Characters": [],
     "player2": "YungSpaceJam",
     "player2Characters": [],
@@ -78177,7 +78171,7 @@
     "date": "2019-09-03",
     "tournament": "LHCH 15",
     "tournamentShort": "LHCH 15",
-    "player1": "Cookie",
+    "player1": "Rookie Cookie",
     "player1Characters": [],
     "player2": "Peanuts",
     "player2Characters": [],
@@ -79174,7 +79168,7 @@
     "tournamentShort": "LHCH 9",
     "player1": "YungSpaceJam",
     "player1Characters": [],
-    "player2": "Cardboard",
+    "player2": "CardboardBear",
     "player2Characters": [],
     "tags": [
       "LHCH9"
@@ -79261,7 +79255,7 @@
     "date": "2019-07-19",
     "tournament": "LHCH 8",
     "tournamentShort": "LHCH 8",
-    "player1": "CardboardbBear",
+    "player1": "CardboardBear",
     "player1Characters": [],
     "player2": "YungSpaceJam",
     "player2Characters": [],
@@ -80959,7 +80953,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -81006,7 +81000,7 @@
     "date": "2025-06-05",
     "tournament": "DMGC Smash Bros Local #174",
     "tournamentShort": "DMGC 174",
-    "player1": "soup",
+    "player1": "Soup",
     "player1Characters": [
       "Marth"
     ],
@@ -81418,7 +81412,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -81482,7 +81476,7 @@
     "date": "2025-06-12",
     "tournament": "DMGC Smash Bros Local #175",
     "tournamentShort": "DMGC 175",
-    "player1": "soup",
+    "player1": "Soup",
     "player1Characters": [
       "Marth"
     ],
@@ -81605,7 +81599,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -81810,7 +81804,7 @@
     "player1Characters": [
       "Falco"
     ],
-    "player2": "soup",
+    "player2": "Soup",
     "player2Characters": [
       "Marth"
     ],
@@ -81908,7 +81902,7 @@
     "date": "2025-06-19",
     "tournament": "DMGC Smash Bros Local #176",
     "tournamentShort": "DMGC 176",
-    "player1": "soup",
+    "player1": "Soup",
     "player1Characters": [
       "Marth"
     ],
@@ -83457,7 +83451,7 @@
     "date": "2022-06-30",
     "tournament": "DMGC Smash Bros. Local 29",
     "tournamentShort": "DMGC 29",
-    "player1": "tato",
+    "player1": "Tato",
     "player2": "SMOrc"
   },
   {
@@ -89040,13 +89034,13 @@
     "tournament": "DMGC Smash Bros Local #188",
     "tournamentShort": "DMGC 188",
     "player1": "robbie",
-    "player2": "Skizm",
     "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Skizm",
+    "player2Characters": [
       "Samus",
       "Peach"
-    ],
-    "player2Characters": [
-      "Fox"
     ]
   },
   {

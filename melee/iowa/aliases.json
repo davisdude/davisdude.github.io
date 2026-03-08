@@ -1,31 +1,280 @@
 {
-    "AbsoluteBott": ["AbsoluteBott", "LaFlame"],
-    "Anii": ["Anii", "Amanss"],
-    "Ash": ["Ash", "Cream"],
-    "Ashes": ["Twink Death", "ACOG njection", "Ashes", "Disenchanted", "GockInMy2021ToyotaCamry"],
-    "Boigan": ["Boigan", "Zonch", "Toigas Boigas", "Boigas", "ToigasBoigas", "hate incarnate", "Professor Soup", "Zklosty"],
-    "Bonson": ["Bonson", "Rectum Reaper", "RectumReaper"],
-    "cbb": ["cbb", "CardboardBear", "CBB is gone :("],
-    "diggles137": ["diggles137", "diggles", "Diggles137", "Diggles", "\u641e\u7b11\u6742\u8349\u5927", "beef jump", "DaigoFan001", "Hax$ Apologist"],
-    "Dronu": ["Dronu", "Card"],
-    "Esej": ["Esej", "Oddkward"],
-    "Gold Hakurei": ["Gold Hakurei", "Rookie Cookie", "RookieCookie"],
-    "Gooberbong": ["RyanLockWoodFan112", "CarlyRaeJepsenisDead", "Goob", "xXGoobSwayer97Xx", "Meleagris Maniac", "GooberBong69420", "9136603151", "Gooblox", "Gooberbong", "Gooblin", "QueerAnon"],
-    "Hannah": ["Hannah", "Miss Diva", "Amelia"],
-    "headcannon": ["headcannon", "stinky spaghetti"],
-    "honja": ["Leonzily", "honja"],
-    "JLo": ["JLo", "Jlo", "J Lo"],
-    "Judah": ["Judah", "Bald Freak", "bald fraud", "judah (real)", "judahhh"],
-    "KcBlue": ["KcBlue", "Blue"],
-    "Maple": ["Maplecrown", "maple", "Maple"],
-    "Mari": ["Mari", "DumpsterMuffin", "Mari Stars", "MariStars", "DumpsterMuffin17"],
-    "Mavvrik": ["Venom", "Mavvrik", "Elric"],
-    "Munchies": ["Quickens", "FAMunchies"],
-    "Ohnowen": ["Ohnowen", "Midwestballz", "MrWeed420", "mr weed", "mr weed 420", "mr. weedman", "MisterWeed420", "Hibb", "FormerlyMidwestballz", "ohnowen"],
-    "Rat Funk": ["Rat Funk", "Berd"],
-    "robbie": ["robbie", "rxbbie"],
-    "Shukle": ["Roychu", "Shukle 123", "Kingshukle", "Kingshuk", "Shukle"],
-    "Snailsnacks": ["Snailsnacks", "Snail"],
-    "Tienda": ["Tienda", "Aishiteru", "Sakura"],
-    "W_NDI": ["W_NDI", "K_____", "Keams_", "Fmcl Extraordinare", "Keams", "Cargo, I sure hope it do", "Keams' Gay Agenda", "I'msellingyourloot", "Slowking (W_NDI)"]
+  "AbsoluteBott": [
+    "AbsoluteBott",
+    "LaFlame"
+  ],
+  "AIDz": [
+    "Aidz",
+    "AIDz"
+  ],
+  "Anii": [
+    "Amanss",
+    "Anii"
+  ],
+  "Ash": [
+    "Ash",
+    "Cream"
+  ],
+  "Ashes": [
+    "ACOG njection",
+    "Ashes",
+    "Disenchanted",
+    "GockInMy2021ToyotaCamry",
+    "Twink Death"
+  ],
+  "Bevan": [
+    "Beban",
+    "Bevan",
+    "i30",
+    "Washed"
+  ],
+  "Bobbles": [
+    "Bobbles",
+    "BobbyTito"
+  ],
+  "Boigan": [
+    "Boigan",
+    "Boigas",
+    "hate incarnate",
+    "Pizza Boy",
+    "Professor Soup",
+    "Toigas Boigas",
+    "ToigasBoigas",
+    "Zklosty",
+    "Zonch"
+  ],
+  "Bonson": [
+    "Bonson",
+    "Rectum Reaper",
+    "RectumReaper"
+  ],
+  "cbb": [
+    "CardboardBear",
+    "cbb",
+    "CBB is gone :(",
+    "DogWicked",
+    "i hate my friends",
+    "mirrror",
+    "orcaninjasgo",
+    "RRRWE",
+    "shrimps is bugs",
+    "the pursuit of joy",
+    "thepursuitofjoy"
+  ],
+  "Cpt.Blade": [
+    "Cpt.Blade",
+    "NoSoulNinja"
+  ],
+  "diggles137": [
+    "beef jump",
+    "DaigoFan001",
+    "diggles",
+    "Diggles",
+    "diggles137",
+    "Diggles137",
+    "Hax$ Apologist",
+    "TORNADO WARNING",
+    "\u641e\u7b11\u6742\u8349\u5927"
+  ],
+  "Dronu": [
+    "Card",
+    "Dronu"
+  ],
+  "Dysfunktional": [
+    "Dysfunkti0nal",
+    "Dysfunktional"
+  ],
+  "Esej": [
+    "Esej",
+    "Oddkward"
+  ],
+  "FAMunchies": [
+    "BuenasNochesBilly",
+    "BuenosDiasMandy",
+    "El Flash",
+    "FAMunchies",
+    "Quickens",
+    "x MoZe",
+    "xans"
+  ],
+  "GDubs": [
+    "GDubs",
+    "The Glalcon"
+  ],
+  "Gold Hakurei": [
+    "Gold Hakurei",
+    "Rookie Cookie",
+    "RookieCookie",
+    "TheGameBoyUltimate",
+    "Witchy Cookie"
+  ],
+  "Gooberbong": [
+    "9136603151",
+    "CarlyRaeJepsenisDead",
+    "Goob",
+    "Gooberbong",
+    "GooberBong69420",
+    "Gooblin",
+    "Gooblox",
+    "Meleagris Maniac",
+    "QueerAnon",
+    "RyanLockWoodFan112",
+    "xXGoobSwayer97Xx"
+  ],
+  "Hannah": [
+    "Amelia",
+    "Ameliiia",
+    "Flyzone",
+    "Hannah",
+    "Miss Diva"
+  ],
+  "headcanon": [
+    "BIRTHDAY           WORLD",
+    "F-A-C-G-C-E",
+    "headcanon",
+    "righteousrighteous .",
+    "stinky spaghetti",
+    "stinky spgaghetti",
+    "Wiggy Daniels"
+  ],
+  "honja": [
+    "honja",
+    "Leonzily"
+  ],
+  "Iifter": [
+    "David",
+    "Iifter"
+  ],
+  "Isai": [
+    "Foolsauce",
+    "Isai",
+    "Wideraindrop"
+  ],
+  "JLo": [
+    "J Lo",
+    "JLo"
+  ],
+  "Judah": [
+    "bald fraud",
+    "Bald Freak",
+    "Judah",
+    "judah (real)",
+    "judahhh"
+  ],
+  "KcBlue": [
+    "Blue",
+    "KcBlue"
+  ],
+  "Kendrick": [
+    "Kendrick",
+    "RUMPROAST"
+  ],
+  "Maple": [
+    "maple",
+    "Maple",
+    "Maplecrown",
+    "NPC Chris"
+  ],
+  "Mari Stars": [
+    "DumpsterMuffin",
+    "DumpsterMuffin17",
+    "Mari",
+    "Mari Stars"
+  ],
+  "Mavvrik": [
+    "Elric",
+    "Mavvrik",
+    "Venom"
+  ],
+  "Ohnowen": [
+    "FormerlyMidwestballz",
+    "Hibb",
+    "Midwestballz",
+    "MisterWeed420",
+    "mr weed",
+    "mr weed 420",
+    "mr. weedman",
+    "MrWeed420",
+    "Ohnowen",
+    "ohnowen"
+  ],
+  "Phoenix": [
+    "Ben Phoenix Ben Lastname",
+    "Phoenix"
+  ],
+  "pkay": [
+    "pkay",
+    "yung pkay"
+  ],
+  "pop": [
+    "Pop",
+    "pop"
+  ],
+  "Rat Funk": [
+    "Berd",
+    "iii",
+    "Rat Funk"
+  ],
+  "robbie": [
+    "robbie",
+    "rxbbie"
+  ],
+  "Shukle": [
+    "Kingshuk",
+    "Kingshukle",
+    "Roychu",
+    "Shukle",
+    "Shukle 123"
+  ],
+  "Skizm": [
+    "Skizm",
+    "Skyzim"
+  ],
+  "Snailsnacks": [
+    "Snail",
+    "Snailsnacks"
+  ],
+  "Stinky": [
+    "Stinky",
+    "stinky"
+  ],
+  "Thx4BeingBorn": [
+    ">:3c",
+    "anathema",
+    "Chum Hotdog",
+    "dalmatian tomato",
+    "dirtybongwater",
+    "domestic light beer",
+    "Norn",
+    "RADICAL MILF ANARCHY",
+    "Scolopendra subspinipes",
+    "Suika",
+    "Thx4BeingBorn"
+  ],
+  "Tienda": [
+    "Aishiteru",
+    "Jon Madden",
+    "Sakura",
+    "Tienda"
+  ],
+  "W_NDI": [
+    "Cargo, I sure hope it do",
+    "Fmcl Extraordinare",
+    "I'msellingyourloot",
+    "K_____",
+    "Keams",
+    "Keams' Gay Agenda",
+    "Keams_",
+    "Overdrive",
+    "Slowking (W_NDI)",
+    "W_NDI"
+  ],
+  "YungSpaceJam": [
+    "SpaceJam",
+    "YungSpaceJam"
+  ],
+  "Zyko": [
+    "Airballa2000",
+    "Zyko"
+  ]
 }
