@@ -101090,5 +101090,182 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 8715,
+    "youtubeId": "K7-TkiDMgIg",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Fred",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8716,
+    "youtubeId": "uwu_xrTHnqo",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Spicy",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8717,
+    "youtubeId": "41_Ghe4hwwQ",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Luigi",
+      "Link"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 8718,
+    "youtubeId": "0nLisyC7rlw",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8719,
+    "youtubeId": "wOsJt8BLR6Q",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Fox",
+      "Marth"
+    ]
+  },
+  {
+    "id": 8720,
+    "youtubeId": "rxGgEAuri8c",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Pocodudeface",
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 8721,
+    "youtubeId": "JDYZEvw7O3o",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Dr. Mario",
+      "Mewtwo",
+      "Kirby"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Pikachu",
+      "Kirby",
+      "Luigi"
+    ]
+  },
+  {
+    "id": 8722,
+    "youtubeId": "NMuY-iK2EHY",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8723,
+    "youtubeId": "l6K7TCHKikM",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Kirby",
+      "Pikachu",
+      "Yoshi"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8724,
+    "youtubeId": "zNGEU0Qu4mg",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Fox",
+      "Mewtwo"
+    ],
+    "player2": "Spicy",
+    "player2Characters": [
+      "Fox",
+      "Ganondorf",
+      "Marth"
+    ]
+  },
+  {
+    "id": 8725,
+    "youtubeId": "ImbPdsIFOKk",
+    "date": "2026-03-17",
+    "tournament": "Tienda's Tournament Series #67",
+    "tournamentShort": "TTS 67",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Sothe",
+    "player2Characters": [
+      "Fox",
+      "Mewtwo"
+    ]
   }
 ]
