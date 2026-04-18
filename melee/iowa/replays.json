@@ -103620,5 +103620,80 @@
     "player2Characters": [
       "Captain Falcon"
     ]
+  },
+  {
+    "id": 8882,
+    "youtubeId": "wdhOnDGM2Us",
+    "date": "2026-04-14",
+    "tournament": "Tienda's Tournament Series #71",
+    "tournamentShort": "TTS 71",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8883,
+    "youtubeId": "GEMeyY4cwKk",
+    "date": "2026-04-14",
+    "tournament": "Tienda's Tournament Series #71",
+    "tournamentShort": "TTS 71",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8884,
+    "youtubeId": "iVMs91GPeV8",
+    "date": "2026-04-14",
+    "tournament": "Tienda's Tournament Series #71",
+    "tournamentShort": "TTS 71",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8885,
+    "youtubeId": "fAaxNq3qrCU",
+    "date": "2026-04-14",
+    "tournament": "Tienda's Tournament Series #71",
+    "tournamentShort": "TTS 71",
+    "player1": "Saber",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Sheik"
+    ]
+  },
+  {
+    "id": 8886,
+    "youtubeId": "EDjl8mGxjMs",
+    "date": "2026-04-14",
+    "tournament": "Tienda's Tournament Series #71",
+    "tournamentShort": "TTS 71",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
   }
 ]
