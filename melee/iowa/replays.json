@@ -104614,5 +104614,219 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 8948,
+    "youtubeId": "MyZaH-j-lsM",
+    "date": "2026-04-24",
+    "tournament": "Tempest 170",
+    "tournamentShort": "Tempest 170",
+    "player1": "Cpt.Blade",
+    "player2": "Tuffy",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8949,
+    "youtubeId": "bo8576zlhlw",
+    "date": "2026-04-24",
+    "tournament": "Tempest 170",
+    "tournamentShort": "Tempest 170",
+    "player1": "Tuffy",
+    "player2": "Maple",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8950,
+    "youtubeId": "y9PHGD1k-Wo",
+    "date": "2026-04-24",
+    "tournament": "Tempest 170",
+    "tournamentShort": "Tempest 170",
+    "player1": "Cpt.Blade",
+    "player2": "Maple",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8951,
+    "youtubeId": "JzarlQSwVsQ",
+    "date": "2026-04-24",
+    "tournament": "Tempest 170",
+    "tournamentShort": "Tempest 170",
+    "player1": "Cpt.Blade",
+    "player2": "pla5ma",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2Characters": [
+      "Captain Falcon",
+      "Fox"
+    ]
+  },
+  {
+    "id": 8952,
+    "youtubeId": "VA5OBuDoDQM",
+    "date": "2026-04-24",
+    "tournament": "Tempest 170",
+    "tournamentShort": "Tempest 170",
+    "player1": "Maple",
+    "player2": "pla5ma",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 8953,
+    "youtubeId": "W4bIGpioaVQ",
+    "date": "2026-04-24",
+    "tournament": "Tempest 170",
+    "tournamentShort": "Tempest 170",
+    "player1": "pla5ma",
+    "player2": "Tuffy",
+    "player1Characters": [
+      "Captain Falcon",
+      "Fox"
+    ],
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8954,
+    "youtubeId": "ieWQwpfvaCI",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Tuffy",
+    "player2": "Professor Soup",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 8955,
+    "youtubeId": "sKjGQVnjStY",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Sponge",
+    "player2": "Professor Soup",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 8956,
+    "youtubeId": "nWGYiVBoqps",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Maple",
+    "player2": "robbie",
+    "player1Characters": [
+      "Ice Climbers",
+      "Tails"
+    ],
+    "player2Characters": [
+      "Fox",
+      "Charizard"
+    ]
+  },
+  {
+    "id": 8957,
+    "youtubeId": "nYtIJcjGlEo",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Professor Soup",
+    "player2": "Maple",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8958,
+    "youtubeId": "gfu3xHOwN3A",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Tuffy",
+    "player2": "cbb",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 8959,
+    "youtubeId": "6DDw0jLHy2A",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "cbb",
+    "player2": "Maple",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 8960,
+    "youtubeId": "PVBMApwEJpc",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Maple",
+    "player2": "Tuffy",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2Characters": [
+      "Peach"
+    ]
+  },
+  {
+    "id": 8961,
+    "youtubeId": "9eDMHL9PN0s",
+    "date": "2026-05-01",
+    "tournament": "Tempest 171(Ult Singles $100 pot bonus)",
+    "tournamentShort": "Tempest 171",
+    "player1": "Tuffy",
+    "player2": "Maple",
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   }
 ]
