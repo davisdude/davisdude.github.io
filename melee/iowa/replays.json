@@ -107034,7 +107034,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Tuffy",
-    "player2": "sam"
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Sheik"
+    ]
   },
   {
     "id": 9107,
@@ -107088,7 +107094,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "W_NDI",
-    "player2": "Tuffy"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Luigi"
+    ]
   },
   {
     "id": 9111,
@@ -107097,7 +107109,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Slowking",
-    "player2": "Mr. Aquarius"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Mr. Aquarius",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 9112,
@@ -107121,7 +107139,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Slowking",
-    "player2": "Dronu"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Dronu",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9114,
@@ -107130,7 +107154,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Slowking",
-    "player2": "Dronu"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Dronu",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9115,
@@ -107139,7 +107169,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "W_NDI",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9116,
@@ -107224,7 +107260,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Mr. Aquarius",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9122,
@@ -107248,7 +107290,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Mr. Aquarius",
-    "player2": "robbie"
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9124,
@@ -107257,7 +107305,13 @@
     "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
     "tournamentShort": "Foreside 2",
     "player1": "Dronu",
-    "player2": "Mr. Aquarius"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Mr. Aquarius",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   },
   {
     "id": 9125,
@@ -107266,7 +107320,13 @@
     "tournament": "Foreside: PftC Weekly #3",
     "tournamentShort": "Foreside 3",
     "player1": "Ohnowen",
-    "player2": "robbie"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9126,
@@ -107292,7 +107352,13 @@
     "tournament": "Foreside: PftC Weekly #3",
     "tournamentShort": "Foreside 3",
     "player1": "robbie",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9128,
@@ -107361,7 +107427,13 @@
     "tournament": "Foreside: PftC Weekly #3",
     "tournamentShort": "Foreside 3",
     "player1": "Slowking",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9133,
@@ -107370,7 +107442,13 @@
     "tournament": "Foreside: PftC Weekly #3",
     "tournamentShort": "Foreside 3",
     "player1": "W_NDI",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9134,
@@ -107379,7 +107457,13 @@
     "tournament": "Foreside: PftC Weekly #3",
     "tournamentShort": "Foreside 3",
     "player1": "Slowking",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9135,
@@ -107404,7 +107488,13 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "sam",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9137,
@@ -107413,7 +107503,13 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "Ohnowen",
-    "player2": "robbie"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9138,
@@ -107422,7 +107518,13 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "robbie",
-    "player2": "W_NDI"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "W_NDI",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9139,
@@ -107431,7 +107533,13 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "robbie",
-    "player2": "GrayCode"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9140,
@@ -107440,7 +107548,13 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "W_NDI",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9141,
@@ -107449,7 +107563,19 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "Trejohn6",
-    "player2": "Mari Stars"
+    "player1Characters": [
+      "Mr. Game & Watch",
+      "Dr. Mario",
+      "Pichu",
+      "Mewtwo"
+    ],
+    "player2": "Mari Stars",
+    "player2Characters": [
+      "Young Link",
+      "Captain Falcon",
+      "Roy",
+      "Kirby"
+    ]
   },
   {
     "id": 9142,
@@ -107458,7 +107584,14 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "robbie",
-    "player2": "Trejohn6"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Trejohn6",
+    "player2Characters": [
+      "Falco",
+      "Marth"
+    ]
   },
   {
     "id": 9143,
@@ -107467,7 +107600,14 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "Trejohn6",
-    "player2": "Beastlytrey"
+    "player1Characters": [
+      "Falco",
+      "Fox"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9144,
@@ -107643,7 +107783,13 @@
     "tournament": "Foreside: PftC Weekly #4",
     "tournamentShort": "Foreside 4",
     "player1": "Slowking",
-    "player2": "robbie"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9156,
@@ -108218,7 +108364,13 @@
     "tournament": "Foreside: PftC Weekly #6",
     "tournamentShort": "Foreside 6",
     "player1": "Ohnowen",
-    "player2": "robbie"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9192,
@@ -108663,7 +108815,13 @@
     "tournament": "Run, Don't Walk 2026 ($1,000 in Pot Bonuses!)",
     "tournamentShort": "RDW 2026",
     "player1": "Preeminent",
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "Ash",
+    "player2Characters": [
+      "Sheik"
+    ],
     "timestamp": 44
   },
   {
@@ -108721,7 +108879,13 @@
     "tournament": "Run, Don't Walk 2026 ($1,000 in Pot Bonuses!)",
     "tournamentShort": "RDW 2026",
     "player1": "ORLY",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
     "player2": "Dronu",
+    "player2Characters": [
+      "Jigglypuff"
+    ],
     "timestamp": 151
   },
   {
@@ -109262,7 +109426,13 @@
     "tournament": "Run, Don't Walk 2026 ($1,000 in Pot Bonuses!)",
     "tournamentShort": "RDW 2026",
     "player1": "Dial M",
+    "player1Characters": [
+      "Donkey Kong"
+    ],
     "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
     "timestamp": 67
   },
   {
@@ -109433,7 +109603,13 @@
     "tournament": "Run, Don't Walk 2026 ($1,000 in Pot Bonuses!)",
     "tournamentShort": "RDW 2026",
     "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "-",
+    "player2Characters": [
+      "Fox"
+    ],
     "timestamp": 93
   },
   {
@@ -109475,7 +109651,14 @@
     "tournament": "Run, Don't Walk 2026 ($1,000 in Pot Bonuses!)",
     "tournamentShort": "RDW 2026",
     "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "Cracc",
+    "player2Characters": [
+      "Falco",
+      "Fox"
+    ],
     "timestamp": 138
   },
   {
@@ -109811,7 +109994,13 @@
     "tournament": "Run, Don't Walk 2026 ($1,000 in Pot Bonuses!)",
     "tournamentShort": "RDW 2026",
     "player1": "lexor",
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "cbb",
+    "player2Characters": [
+      "Fox"
+    ],
     "timestamp": 143
   },
   {
@@ -110822,7 +111011,13 @@
     "tournament": "Tienda's Tournament Series #78",
     "tournamentShort": "TTS 78",
     "player1": "De",
-    "player2": "dreet"
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9360,
@@ -111026,7 +111221,13 @@
     "tournament": "Tienda's Tournament Series #79",
     "tournamentShort": "TTS 79",
     "player1": "Saber",
-    "player2": "dreet"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9374,
@@ -111035,7 +111236,13 @@
     "tournament": "Tienda's Tournament Series #79",
     "tournamentShort": "TTS 79",
     "player1": "Saber",
-    "player2": "Fred"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Fred",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9375,
@@ -111226,7 +111433,13 @@
     "tournament": "Tienda's Tournament Series #80 Part 1",
     "tournamentShort": "TTS 80",
     "player1": "De",
-    "player2": "honja"
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9388,
@@ -111431,7 +111644,13 @@
     "tournament": "Tienda's Tournament Series #81",
     "tournamentShort": "TTS 81",
     "player1": "honja",
-    "player2": "JLo"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
   },
   {
     "id": 9402,
@@ -111576,7 +111795,14 @@
     "tournament": "Ames Legally Distinct Tournament 29",
     "tournamentShort": "ALDT 29",
     "player1": "KGB",
-    "player2": "wavehz"
+    "player1Characters": [
+      "Donkey Kong",
+      "Jigglypuff"
+    ],
+    "player2": "wavehz",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9412,
@@ -111585,7 +111811,13 @@
     "tournament": "Ames Legally Distinct Tournament 29",
     "tournamentShort": "ALDT 29",
     "player1": "Cpt.Blade",
-    "player2": "wavehz"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "wavehz",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9413,
@@ -111594,7 +111826,13 @@
     "tournament": "Ames Legally Distinct Tournament 29",
     "tournamentShort": "ALDT 29",
     "player1": "wavehz",
-    "player2": "Tuffy"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Luigi"
+    ]
   },
   {
     "id": 9414,
@@ -111603,7 +111841,13 @@
     "tournament": "Ames Legally Distinct Tournament 29",
     "tournamentShort": "ALDT 29",
     "player1": "Tuffy",
-    "player2": "KGB"
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "KGB",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9415,
@@ -111612,7 +111856,13 @@
     "tournament": "Ames Legally Distinct Tournament 29",
     "tournamentShort": "ALDT 29",
     "player1": "Cpt.Blade",
-    "player2": "Tuffy"
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Luigi"
+    ]
   },
   {
     "id": 9416,
@@ -111621,7 +111871,13 @@
     "tournament": "Ames Legally Distinct Tournament 30",
     "tournamentShort": "ALDT 30",
     "player1": "Tuffy",
-    "player2": "wavehz"
+    "player1Characters": [
+      "Peach"
+    ],
+    "player2": "wavehz",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9417,
@@ -111630,7 +111886,14 @@
     "tournament": "Ames Legally Distinct Tournament 30",
     "tournamentShort": "ALDT 30",
     "player1": "Cpt.Blade",
-    "player2": "Tuffy"
+    "player1Characters": [
+      "Marth",
+      "Sheik"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 9418,
@@ -111639,7 +111902,13 @@
     "tournament": "Ames Legally Distinct Tournament 30",
     "tournamentShort": "ALDT 30",
     "player1": "wavehz",
-    "player2": "KGB"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "KGB",
+    "player2Characters": [
+      "Donkey Kong"
+    ]
   },
   {
     "id": 9419,
@@ -111648,7 +111917,13 @@
     "tournament": "Ames Legally Distinct Tournament 30",
     "tournamentShort": "ALDT 30",
     "player1": "KGB",
-    "player2": "Tuffy"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Peach"
+    ]
   },
   {
     "id": 9420,
@@ -111657,7 +111932,13 @@
     "tournament": "Ames Legally Distinct Tournament 30",
     "tournamentShort": "ALDT 30",
     "player1": "Cpt.Blade",
-    "player2": "KGB"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "KGB",
+    "player2Characters": [
+      "Donkey Kong"
+    ]
   },
   {
     "id": 9421,
@@ -111666,7 +111947,13 @@
     "tournament": "Ames Legally Distinct Tournament 30",
     "tournamentShort": "ALDT 30",
     "player1": "Cpt.Blade",
-    "player2": "wavehz"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "wavehz",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9422,
@@ -111690,7 +111977,14 @@
     "tournament": "Tienda's Tournament Series #82",
     "tournamentShort": "TTS 82",
     "player1": "Mr Weed",
-    "player2": "Shukle"
+    "player1Characters": [
+      "Ice Climbers",
+      "Marth"
+    ],
+    "player2": "Shukle",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9424,
