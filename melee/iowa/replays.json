@@ -107662,7 +107662,7 @@
   },
   {
     "id": 9157,
-    "youtubeId": "biEKQz9iYnU?t=3953s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107673,11 +107673,12 @@
     "player2": "Soup",
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "timestamp": 3953
   },
   {
     "id": 9158,
-    "youtubeId": "biEKQz9iYnU?t=4001s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107688,11 +107689,12 @@
     "player2": "Trejohn6",
     "player2Characters": [
       "Link"
-    ]
+    ],
+    "timestamp": 4001
   },
   {
     "id": 9159,
-    "youtubeId": "biEKQz9iYnU?t=4028s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107703,11 +107705,12 @@
     "player2": "whatever",
     "player2Characters": [
       "Sheik"
-    ]
+    ],
+    "timestamp": 4028
   },
   {
     "id": 9160,
-    "youtubeId": "biEKQz9iYnU?t=4071s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107718,11 +107721,12 @@
     "player2": "TrafficJam19",
     "player2Characters": [
       "Mr. Game & Watch"
-    ]
+    ],
+    "timestamp": 4071
   },
   {
     "id": 9161,
-    "youtubeId": "biEKQz9iYnU?t=4350s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107739,11 +107743,12 @@
       "Link",
       "Roy",
       "Sheik"
-    ]
+    ],
+    "timestamp": 4350
   },
   {
     "id": 9162,
-    "youtubeId": "biEKQz9iYnU?t=4513s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107754,11 +107759,12 @@
     "player2": "robbie",
     "player2Characters": [
       "Fox"
-    ]
+    ],
+    "timestamp": 4513
   },
   {
     "id": 9163,
-    "youtubeId": "biEKQz9iYnU?t=4626s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107769,11 +107775,12 @@
     "player2": "GrayCode",
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "timestamp": 4626
   },
   {
     "id": 9164,
-    "youtubeId": "biEKQz9iYnU?t=4669s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107785,11 +107792,12 @@
     "player2Characters": [
       "Samus",
       "Peach"
-    ]
+    ],
+    "timestamp": 4669
   },
   {
     "id": 9165,
-    "youtubeId": "biEKQz9iYnU?t=4895s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107800,11 +107808,12 @@
     "player2": "Mari Stars",
     "player2Characters": [
       "Jigglypuff"
-    ]
+    ],
+    "timestamp": 4895
   },
   {
     "id": 9166,
-    "youtubeId": "biEKQz9iYnU?t=5015s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107815,11 +107824,12 @@
     "player2": "TrafficJam19",
     "player2Characters": [
       "Mr. Game & Watch"
-    ]
+    ],
+    "timestamp": 5015
   },
   {
     "id": 9167,
-    "youtubeId": "biEKQz9iYnU?t=5276s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107830,11 +107840,12 @@
     "player2": "Rat Funk",
     "player2Characters": [
       "Fox"
-    ]
+    ],
+    "timestamp": 5276
   },
   {
     "id": 9168,
-    "youtubeId": "biEKQz9iYnU?t=5514s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107846,11 +107857,12 @@
     "player2": "TrafficJam19",
     "player2Characters": [
       "Mr. Game & Watch"
-    ]
+    ],
+    "timestamp": 5514
   },
   {
     "id": 9169,
-    "youtubeId": "biEKQz9iYnU?t=5576s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107861,11 +107873,12 @@
     "player2": "Soup",
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "timestamp": 5576
   },
   {
     "id": 9170,
-    "youtubeId": "biEKQz9iYnU?t=5697s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107877,11 +107890,12 @@
     "player2Characters": [
       "Fox",
       "Pichu"
-    ]
+    ],
+    "timestamp": 5697
   },
   {
     "id": 9171,
-    "youtubeId": "biEKQz9iYnU?t=5814s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107892,11 +107906,12 @@
     "player2": "whatever",
     "player2Characters": [
       "Sheik"
-    ]
+    ],
+    "timestamp": 5814
   },
   {
     "id": 9172,
-    "youtubeId": "biEKQz9iYnU?t=6507s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107907,11 +107922,12 @@
     "player2": "Mari Stars",
     "player2Characters": [
       "Jigglypuff"
-    ]
+    ],
+    "timestamp": 6507
   },
   {
     "id": 9173,
-    "youtubeId": "biEKQz9iYnU?t=6536s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107923,11 +107939,12 @@
     "player2Characters": [
       "Samus",
       "Peach"
-    ]
+    ],
+    "timestamp": 6536
   },
   {
     "id": 9174,
-    "youtubeId": "biEKQz9iYnU?t=6859s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107938,11 +107955,12 @@
     "player2": "robbie",
     "player2Characters": [
       "Fox"
-    ]
+    ],
+    "timestamp": 6859
   },
   {
     "id": 9175,
-    "youtubeId": "biEKQz9iYnU?t=6903s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107953,11 +107971,12 @@
     "player2": "GrayCode",
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "timestamp": 6903
   },
   {
     "id": 9176,
-    "youtubeId": "biEKQz9iYnU?t=7177s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107970,11 +107989,12 @@
       "Falco",
       "Ness",
       "Young Link"
-    ]
+    ],
+    "timestamp": 7177
   },
   {
     "id": 9177,
-    "youtubeId": "biEKQz9iYnU?t=7197s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -107985,11 +108005,12 @@
     "player2": "Cpt.Blade",
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "timestamp": 7197
   },
   {
     "id": 9178,
-    "youtubeId": "biEKQz9iYnU?t=7439s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108000,11 +108021,12 @@
     "player2": "Ohnowen",
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "timestamp": 7439
   },
   {
     "id": 9179,
-    "youtubeId": "biEKQz9iYnU?t=7860s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108015,11 +108037,12 @@
     "player2": "Rat Funk",
     "player2Characters": [
       "Fox"
-    ]
+    ],
+    "timestamp": 7860
   },
   {
     "id": 9180,
-    "youtubeId": "biEKQz9iYnU?t=7982s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108030,11 +108053,12 @@
     "player2": "Saber",
     "player2Characters": [
       "Marth"
-    ]
+    ],
+    "timestamp": 7982
   },
   {
     "id": 9181,
-    "youtubeId": "biEKQz9iYnU?t=9180s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108045,11 +108069,12 @@
     "player2": "cbb",
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "timestamp": 9180
   },
   {
     "id": 9182,
-    "youtubeId": "biEKQz9iYnU?t=5369s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108060,11 +108085,12 @@
     "player2": "cbb",
     "player2Characters": [
       "Falco"
-    ]
+    ],
+    "timestamp": 5369
   },
   {
     "id": 9183,
-    "youtubeId": "biEKQz9iYnU?t=8089s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108075,11 +108101,12 @@
     "player2": "Maple",
     "player2Characters": [
       "Ice Climbers"
-    ]
+    ],
+    "timestamp": 8089
   },
   {
     "id": 9184,
-    "youtubeId": "biEKQz9iYnU?t=11846s",
+    "youtubeId": "biEKQz9iYnU",
     "date": "2026-06-16",
     "tournament": "Foreside: PftC Weekly #5",
     "tournamentShort": "Foreside 5",
@@ -108090,7 +108117,8 @@
     "player2": "Maple",
     "player2Characters": [
       "Ice Climbers"
-    ]
+    ],
+    "timestamp": 11846
   },
   {
     "id": 9185,
