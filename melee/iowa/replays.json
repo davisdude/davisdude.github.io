@@ -106152,7 +106152,7 @@
     "player1Characters": [
       "Fox"
     ],
-    "player2": "fawkes",
+    "player2": "FawkesBC",
     "player2Characters": [
       "Captain Falcon"
     ]
@@ -106228,7 +106228,7 @@
     "player1Characters": [
       "Dr. Mario"
     ],
-    "player2": "fawkes",
+    "player2": "FawkesBC",
     "player2Characters": [
       "Captain Falcon"
     ]
@@ -106991,5 +106991,272 @@
     "player2Characters": [
       "Marth"
     ]
+  },
+  {
+    "id": 9104,
+    "youtubeId": "ypcPBU2_te8",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 9105,
+    "youtubeId": "f5_DjTIuoYI",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Roy",
+      "Mario",
+      "Ness"
+    ],
+    "player2": "Mari Stars",
+    "player2Characters": [
+      "Ice Climbers",
+      "Dr. Mario",
+      "Captain Falcon",
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 9106,
+    "youtubeId": "AFjGHhH7iZg",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Tuffy",
+    "player2": "sam"
+  },
+  {
+    "id": 9107,
+    "youtubeId": "MyVYvGQbu1E",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9108,
+    "youtubeId": "pFbDuibbQWk",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Mr. Aquarius",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 9109,
+    "youtubeId": "B4KEvgivTH4",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Dronu",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 9110,
+    "youtubeId": "aLqbpEY_zho",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "W_NDI",
+    "player2": "Tuffy"
+  },
+  {
+    "id": 9111,
+    "youtubeId": "EZkOz5yIXGM",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Slowking",
+    "player2": "Mr. Aquarius"
+  },
+  {
+    "id": 9112,
+    "youtubeId": "nUsavjUhrQ8",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Dronu",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Tuffy",
+    "player2Characters": [
+      "Luigi"
+    ]
+  },
+  {
+    "id": 9113,
+    "youtubeId": "ujxnpnfBeRA",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Slowking",
+    "player2": "Dronu"
+  },
+  {
+    "id": 9114,
+    "youtubeId": "JXE3D_6yIRM",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Slowking",
+    "player2": "Dronu"
+  },
+  {
+    "id": 9115,
+    "youtubeId": "KAwkyXlfT60",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "W_NDI",
+    "player2": "GrayCode"
+  },
+  {
+    "id": 9116,
+    "youtubeId": "7_yBH_PRErU",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Zyko",
+    "player1Characters": [
+      "Marth"
+    ],
+    "player2": "Mari Stars",
+    "player2Characters": [
+      "Jigglypuff"
+    ]
+  },
+  {
+    "id": 9117,
+    "youtubeId": "LQEu7BzcSBs",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 9118,
+    "youtubeId": "pkv5xGxp38I",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Zelda",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 9119,
+    "youtubeId": "sz61RtR192E",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "W_NDI",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "Zyko",
+    "player2Characters": [
+      "Marth"
+    ]
+  },
+  {
+    "id": 9120,
+    "youtubeId": "NVFPtif5jME",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9121,
+    "youtubeId": "jnpwdY3Klf8",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Mr. Aquarius",
+    "player2": "W_NDI"
+  },
+  {
+    "id": 9122,
+    "youtubeId": "7ix0vpPLuhY",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Tuffy",
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9123,
+    "youtubeId": "6GsEfrGcVE8",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Mr. Aquarius",
+    "player2": "robbie"
+  },
+  {
+    "id": 9124,
+    "youtubeId": "pt4_FWgWg1A",
+    "date": "2026-05-26",
+    "tournament": "Foreside: Par for the Course @ The Fat Putter DSM #2",
+    "tournamentShort": "Foreside 2",
+    "player1": "Dronu",
+    "player2": "Mr. Aquarius"
   }
 ]
