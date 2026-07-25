@@ -113777,7 +113777,13 @@
     "tournament": "Tienda's Tournament Series #83",
     "tournamentShort": "TTS 83",
     "player1": "W_NDI",
-    "player2": "honja"
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9543,
@@ -114004,7 +114010,14 @@
     "tournament": "Tienda's Tournament Series #84",
     "tournamentShort": "TTS 84",
     "player1": "Shukle",
-    "player2": "honja"
+    "player1Characters": [
+      "Fox",
+      "Marth"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9558,
@@ -114028,7 +114041,14 @@
     "tournament": "Tienda's Tournament Series #84",
     "tournamentShort": "TTS 84",
     "player1": "Ohnowen",
-    "player2": "dreet"
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox",
+      "Captain Falcon"
+    ]
   },
   {
     "id": 9560,
@@ -114144,7 +114164,13 @@
     "tournament": "Tienda's Tournament Series #84",
     "tournamentShort": "TTS 84",
     "player1": "Rat Funk",
-    "player2": "Ohnowen"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ]
   },
   {
     "id": 9568,
@@ -114153,7 +114179,14 @@
     "tournament": "Tienda's Tournament Series #84",
     "tournamentShort": "TTS 84",
     "player1": "Ohnowen",
-    "player2": "Rat Funk"
+    "player1Characters": [
+      "Falco",
+      "Marth"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ]
   },
   {
     "id": 9569,
@@ -114177,7 +114210,17 @@
     "tournament": "Tienda's Tournament Series #85",
     "tournamentShort": "TTS 85",
     "player1": "dreet",
-    "player2": "honja"
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Donkey Kong",
+      "Bowser",
+      "Marth",
+      "Captain Falcon",
+      "Jigglypuff"
+    ]
   },
   {
     "id": 9571,
@@ -114201,7 +114244,13 @@
     "tournament": "Tienda's Tournament Series #85",
     "tournamentShort": "TTS 85",
     "player1": "dreet",
-    "player2": "De"
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
   },
   {
     "id": 9573,
@@ -114269,8 +114318,14 @@
     "date": "2026-07-23",
     "tournament": "Tienda's Tournament Series #85",
     "tournamentShort": "TTS 85",
-    "player1": "De",
-    "player2": "Tienda"
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
   },
   {
     "id": 9578,
@@ -114283,6 +114338,21 @@
       "Ice Climbers"
     ],
     "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9579,
+    "youtubeId": "JDIy6JGLDx0",
+    "date": "2026-07-14",
+    "tournament": "Foreside: PftC Weekly #8",
+    "tournamentShort": "Foreside 8",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Rat Funk",
     "player2Characters": [
       "Fox"
     ]
