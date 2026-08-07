@@ -115488,5 +115488,155 @@
     "player2Characters": [
       "Ice Climbers"
     ]
+  },
+  {
+    "id": 9654,
+    "youtubeId": "JT6uLqWZWAw",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9655,
+    "youtubeId": "RsbRPs_ku7w",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9656,
+    "youtubeId": "-3CZK8lMHKE",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9657,
+    "youtubeId": "r_Hi2HVShX8",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "De",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9658,
+    "youtubeId": "m0DWRiV5Kz0",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9659,
+    "youtubeId": "u8zoiEXNHq0",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9660,
+    "youtubeId": "qLs3rqqc_mU",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9661,
+    "youtubeId": "tqgb-p4B1_M",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9662,
+    "youtubeId": "cKy8aYdSlak",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9663,
+    "youtubeId": "lnYLNQINnE0",
+    "date": "2026-08-06",
+    "tournament": "Tienda's Tournament Series #87",
+    "tournamentShort": "TTS 87",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
   }
 ]
