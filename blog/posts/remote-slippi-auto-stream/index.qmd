@@ -77,7 +77,8 @@ another location do the streaming?
 ## Required Software
 
 You only need five pieces of software, half of which you're probably already
-using for streaming and replay reporting, and all of which are free to use:
+using for streaming and replay reporting, and all of which are cross-platform
+and free to use:
 
 1. [__Syncthing__][syncthing] on _both_ the reporting and stream
    computer[^stream-pc]
