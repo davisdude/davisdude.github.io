@@ -101,10 +101,12 @@ using for streaming and replay reporting, and all of which are free to use:
 
 [^crd]:
 
-    Chrome remote desktop isn't strictly required, but some way of remotely
+    Chrome Remote Desktop isn't strictly required, but some way of remotely
     connecting to the stream computer is strongly encouraged, so you can fix
     things if something goes wrong without having to be physically present at
-    the stream computer.
+    the stream computer. The primary advantage is being able to start the
+    stream right as the first set starts instead of having a lot of dead air at
+    the start.
 
 
 ## Configuration
