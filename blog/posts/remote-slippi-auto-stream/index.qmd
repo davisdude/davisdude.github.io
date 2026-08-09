@@ -28,8 +28,8 @@ By this point, most of us are familiar with [slippi replays][slippi] and
 [hotswap reporting][hotswap]. Thanks to the metadata of hotswap reporting, we
 can have [automated streams][auto-slp] complete with scoreboards for
 tournaments. This means that tournaments running hotswap replay reporting can
-stream virtually every match, if desired, with very little extra effort on any
-of the organizer's behalf.[^auto-slp-caveat] Using slippi files reported with
+stream virtually every match, if desired, with very little extra effort from
+any of the organizers.[^auto-slp-caveat] Using slippi files reported with
 replay reporter is particularly attractive for a side-stream, especially a quad
 stream:
 
@@ -54,7 +54,7 @@ may not be in the cards.
 
     I see only two major downsides to the auto-stream:
 
-    1. Lookng at bracket will spoil stream results, since matches necessarily
+    1. Looking at bracket will spoil stream results, since matches necessarily
        must be reported to be streamed.
 
     2. There are no player cams, and very often there is no commentary.
@@ -76,18 +76,20 @@ another location do the streaming?
 
 ## Required Software
 
-You only need four pieces of software, half of which you're probably already
+You only need five pieces of software, half of which you're probably already
 using for streaming and replay reporting, and all of which are free to use:
 
 1. [__Syncthing__][syncthing] on _both_ the reporting and stream
    computer[^stream-pc]
 
-2. [__Chome Remote Desktop__][crd]: on _both_ the reporting and stream
+2. [__auto-slp-player__][auto-slp] on the stream computer
+
+3. [__Chrome Remote Desktop__][crd] on _both_ the reporting and stream
    computer[^crd]
 
-3. [__OBS__][obs] on the stream computer
+4. [__OBS__][obs] on the stream computer
 
-4. [__Replay reporter__][replay-reporter] on the reporting computer
+5. [__Replay reporter__][replay-reporter] on the reporting computer
 
 
 [^stream-pc]:
@@ -100,15 +102,15 @@ using for streaming and replay reporting, and all of which are free to use:
 [^crd]:
 
     Chrome remote desktop isn't strictly required, but some way of remotely
-    connecting to the stream computer is strongly encouraged, that way you can
-    fix things if something goes wrong without having to be physically present
-    at the stream computer.
+    connecting to the stream computer is strongly encouraged, so you can fix
+    things if something goes wrong without having to be physically present at
+    the stream computer.
 
 
 ## Configuration
 
 Frankly, other documentation exists for setting up all these tools that will do
-a far better job at explaining all the intricacies than I can do here. Instead,
+a far better job explaining all the intricacies than I can do here. Instead,
 here I'll provide a basic overview of how the system works:
 
 ```{mermaid}
@@ -121,7 +123,7 @@ flowchart LR
 
   subgraph Stream["Stream Computer"]
     dir2[Replays]
-    as[Auto Stream]
+    as[auto-slp-player]
     obs[OBS]
     dir2 -->|Watch Folder| as
     as --> obs
