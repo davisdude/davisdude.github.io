@@ -1,0 +1,14 @@
+project:
+  type: website
+
+website:
+  description: "A collection of stuff."
+  site-url: https://davisdude.github.io
+  title: "Davis' Place"
+  navbar:
+    right:
+      - about.qmd
+format:
+  html:
+    theme: darkly
+    css: styles.css

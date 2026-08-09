@@ -1,0 +1,153 @@
+---
+title: "Remote Slippi Auto-Stream"
+author: "Davis C."
+date: "2026-08-08"
+categories:
+    - ssbm
+    - slippi
+    - hotswap
+    - streaming
+format:
+    html:
+        toc: true
+        toc-location: left
+        toc-expand: true
+        html-math-method: mathml
+        reference-location: margin
+        citation-location: margin
+---
+
+# Summary
+
+A remote Slippi auto-stream allows you to have a fully automated side stream
+without the hassle of bringing another stream setup to the venue.
+
+# Background
+
+By this point, most of us are familiar with [slippi replays][slippi] and
+[hotswap reporting][hotswap]. Thanks to the metadata of hotswap reporting, we
+can have [automated streams][auto-slp] complete with scoreboards for
+tournaments. This means that tournaments running hotswap replay reporting can
+stream virtually every match, if desired, with very little extra effort on any
+of the organizer's behalf.[^auto-slp-caveat] Using slippi files reported with
+replay reporter is particularly attractive for a side-stream, especially a quad
+stream:
+
+1. Because the reported set already contains all the requisite metadata, you
+   don't need another stream runner to update tags and scoreboards.
+
+1. The software can change views depending on how many sets are active,
+   ensuring that each game is as large as possible.
+
+1. Because these are completed sets, assuming there's enough of a queue,
+   there's no downtime.
+
+For any tournament large enough to consider a side stream, these factors alone
+make auto-streaming quite appealing. However, there's still the extra effort
+and logistical concerns involved with getting another stream setup. Especially
+if you're already doing a lot of setup, don't have space for another computer,
+or are concerned with the venue's Internet bandwidth, a traditional side stream
+may not be in the cards.
+
+
+[^auto-slp-caveat]:
+
+    I see only two major downsides to the auto-stream:
+
+    1. Lookng at bracket will spoil stream results, since matches necessarily
+       must be reported to be streamed.
+
+    2. There are no player cams, and very often there is no commentary.
+
+    However, if the alternatives are to either not stream the sets, or to just
+    upload them to YouTube later, I think most spectators would prefer the
+    option of viewing it live.
+
+
+# Enter the Remote Auto-Stream
+
+The proposition of the remote auto-stream is straightforward: there's really no
+reason the auto-stream computer _needs_ to be physically in the venue. There
+are no player cams, crowd mics, or any other kind of "live" data being
+streamed. So, why not report the sets on a perhaps smaller, more portable
+computer, such as a laptop, in the venue, then have a more capable computer at
+another location do the streaming?
+
+
+## Required Software
+
+You only need four pieces of software, half of which you're probably already
+using for streaming and replay reporting, and all of which are free to use:
+
+1. [__Syncthing__][syncthing] on _both_ the reporting and stream
+   computer[^stream-pc]
+
+2. [__Chome Remote Desktop__][crd]: on _both_ the reporting and stream
+   computer[^crd]
+
+3. [__OBS__][obs] on the stream computer
+
+4. [__Replay reporter__][replay-reporter] on the reporting computer
+
+
+[^stream-pc]:
+
+    In this context, the _reporting computer_ is the computer where replays are
+    being reported. The _stream computer_ is the computer doing the
+    auto-stream.
+
+
+[^crd]:
+
+    Chrome remote desktop isn't strictly required, but some way of remotely
+    connecting to the stream computer is strongly encouraged, that way you can
+    fix things if something goes wrong without having to be physically present
+    at the stream computer.
+
+
+## Configuration
+
+Frankly, other documentation exists for setting up all these tools that will do
+a far better job at explaining all the intricacies than I can do here. Instead,
+here I'll provide a basic overview of how the system works:
+
+```{mermaid}
+flowchart LR
+  subgraph Report["Reporting Computer"]
+    rr[Replay Reporter]
+    dir1[Replays]
+    rr -->|Copy Folder| dir1
+  end
+
+  subgraph Stream["Stream Computer"]
+    dir2[Replays]
+    as[Auto Stream]
+    obs[OBS]
+    dir2 -->|Watch Folder| as
+    as --> obs
+  end
+
+  dir1 -->|Syncthing| dir2
+```
+
+The basic idea is that instead of doing reporting and auto-streaming from the
+same folder on the same computer, you have Replay Reporter report to a folder
+that syncs with the stream computer using Syncthing. On the stream computer,
+auto-slp-player will play sets like normal, perfectly unaware that these files
+originated from elsewhere.
+
+
+# Credits
+
+As far as I'm aware, Aiika is the first person to come up with this idea and
+implement it. Kudos, as always, to Nicolet, for well... everything else
+basically.
+
+
+[auto-slp]: https://github.com/jmlee337/auto-slp-player
+[crd]: https://remotedesktop.google.com/
+[hotswap]: https://github.com/jmlee337/hotswap-info
+[obs]: https://obsproject.com/
+[replay-reporter]: https://github.com/jmlee337/replay-manager-for-slippi
+[slippi]: https://slippi.gg/
+[syncthing]: https://syncthing.net/

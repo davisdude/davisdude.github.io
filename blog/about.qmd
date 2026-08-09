@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/davisdude
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/graycode.bsky.social
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/GrayCodeSSBM
+
+---
+
+I'm interested in things.
