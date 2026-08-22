@@ -116274,5 +116274,203 @@
     "player2Characters": [
       "Peach"
     ]
+  },
+  {
+    "id": 9706,
+    "youtubeId": "SIq5J2fNXQE",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9707,
+    "youtubeId": "kv_hs6GRH8o",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9708,
+    "youtubeId": "KH53Tp2XgVs",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Mewtwo"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9709,
+    "youtubeId": "aUVzy4B8Qcg",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 9710,
+    "youtubeId": "xPjND-d035U",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9711,
+    "youtubeId": "3ZDbBNAsPvw",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9712,
+    "youtubeId": "Hpu6-aZfkuk",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Mewtwo"
+    ],
+    "player2": "fredschultz131",
+    "player2Characters": [
+      "Falco"
+    ]
+  },
+  {
+    "id": 9713,
+    "youtubeId": "-0md9xANRx8",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "fredschultz131",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 9714,
+    "youtubeId": "9pN4n9_IUk8",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 9715,
+    "youtubeId": "gkAi53EtKJQ",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik",
+      "Ice Climbers"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox",
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9716,
+    "youtubeId": "0GAwtkZGJgo",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon",
+      "Fox"
+    ]
+  },
+  {
+    "id": 9717,
+    "youtubeId": "trPBtzBcuz4",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Sothe",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
+  },
+  {
+    "id": 9718,
+    "youtubeId": "_R1_IWm_Oc0",
+    "date": "2026-08-20",
+    "tournament": "Tienda's Tournament Series #89",
+    "tournamentShort": "TTS 89",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Mewtwo"
+    ],
+    "player2": "Disabled",
+    "player2Characters": [
+      "Ice Climbers"
+    ]
   }
 ]
