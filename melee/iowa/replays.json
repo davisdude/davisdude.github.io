@@ -117210,5 +117210,156 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 9768,
+    "youtubeId": "lCQ3jAvMecU",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 9769,
+    "youtubeId": "K9Hrolw4Two",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9770,
+    "youtubeId": "JLnqtJrgBE0",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9771,
+    "youtubeId": "46ZDGWwE9zo",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9772,
+    "youtubeId": "-78vjw0rR4Q",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "JLo",
+    "player1Characters": [
+      "Captain Falcon"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9773,
+    "youtubeId": "1TMdFqmKtl4",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9774,
+    "youtubeId": "RkNIro2w2fI",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9775,
+    "youtubeId": "4Wk2bmXqTG0",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9776,
+    "youtubeId": "r4SE1YcIIcA",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox",
+      "Captain Falcon"
+    ],
+    "player2": "PsyRex",
+    "player2Characters": [
+      "Yoshi"
+    ]
+  },
+  {
+    "id": 9777,
+    "youtubeId": "h8VeXsQrkb0",
+    "date": "2026-08-27",
+    "tournament": "Tienda's Tournament Series #90",
+    "tournamentShort": "TTS 90",
+    "player1": "PsyRex",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
   }
 ]
