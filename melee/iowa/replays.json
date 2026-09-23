@@ -119224,5 +119224,35 @@
     "player2Characters": [
       "Peach"
     ]
+  },
+  {
+    "id": 9902,
+    "youtubeId": "Vt5s--tgRy0",
+    "date": "2026-09-19",
+    "tournament": "Jonthly #3",
+    "tournamentShort": "Foreside 3",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9903,
+    "youtubeId": "LNsGTTFCbAU",
+    "date": "2026-09-19",
+    "tournament": "Jonthly #3",
+    "tournamentShort": "Foreside 3",
+    "player1": "Sothe",
+    "player1Characters": [
+      "Mewtwo"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ]
   }
 ]
