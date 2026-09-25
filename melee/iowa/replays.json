@@ -119254,5 +119254,125 @@
     "player2Characters": [
       "Falco"
     ]
+  },
+  {
+    "id": 9904,
+    "youtubeId": "Qh2cjUoWosM",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "honja",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9905,
+    "youtubeId": "zNyUxcpPF48",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "honja",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9906,
+    "youtubeId": "rXvZHPMgkng",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "De",
+    "player2Characters": [
+      "Captain Falcon"
+    ]
+  },
+  {
+    "id": 9907,
+    "youtubeId": "zD0GHiYk_9M",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "Tienda",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 9908,
+    "youtubeId": "13rzT5tJYZQ",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "honja",
+    "player1Characters": [
+      "Luigi"
+    ],
+    "player2": "JLo",
+    "player2Characters": [
+      "Dr. Mario"
+    ]
+  },
+  {
+    "id": 9909,
+    "youtubeId": "Yf1Kw3pHaRE",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9910,
+    "youtubeId": "1v1j6DYe1XY",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "dreet",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Tienda",
+    "player2Characters": [
+      "Fox"
+    ]
+  },
+  {
+    "id": 9911,
+    "youtubeId": "ONQchC--nUc",
+    "date": "2026-09-24",
+    "tournament": "Tienda's Tournament Series #93",
+    "tournamentShort": "TTS 93",
+    "player1": "Disabled",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "dreet",
+    "player2Characters": [
+      "Fox"
+    ]
   }
 ]
