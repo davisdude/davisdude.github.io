@@ -119374,5 +119374,683 @@
     "player2Characters": [
       "Fox"
     ]
+  },
+  {
+    "id": 9912,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "cabl",
+    "player2Characters": [
+      "Fox",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 9913,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "a dog",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "Enpherest",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 260
+  },
+  {
+    "id": 9914,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "squimp",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 637
+  },
+  {
+    "id": 9915,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "whatever",
+    "player2Characters": [
+      "Fox",
+      "Sheik"
+    ],
+    "timestamp": 829
+  },
+  {
+    "id": 9916,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "whatever",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Lactose",
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "timestamp": 1151
+  },
+  {
+    "id": 9917,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 1361
+  },
+  {
+    "id": 9918,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "a dog",
+    "player2Characters": [
+      "Ice Climbers"
+    ],
+    "timestamp": 1590
+  },
+  {
+    "id": 9919,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cabl",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "Enpherest",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 2172
+  },
+  {
+    "id": 9920,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Mari Stars",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 2518
+  },
+  {
+    "id": 9921,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "squimp",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Sheik"
+    ],
+    "timestamp": 3056
+  },
+  {
+    "id": 9922,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Mari Stars",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Sheik"
+    ],
+    "timestamp": 3270
+  },
+  {
+    "id": 9923,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 3692
+  },
+  {
+    "id": 9924,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "a dog",
+    "player2Characters": [
+      "Ice Climbers"
+    ],
+    "timestamp": 3899
+  },
+  {
+    "id": 9925,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 4310
+  },
+  {
+    "id": 9926,
+    "youtubeId": "fTkjZ7AKSJQ",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "whatever",
+    "player1Characters": [
+      "Ganondorf",
+      "Sheik"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Young Link",
+      "Falco"
+    ],
+    "timestamp": 4869
+  },
+  {
+    "id": 9927,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "whatever",
+    "player1Characters": [
+      "Sheik"
+    ],
+    "player2": "cabl",
+    "player2Characters": [
+      "Fox",
+      "Sheik"
+    ]
+  },
+  {
+    "id": 9928,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Lactose",
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "timestamp": 452
+  },
+  {
+    "id": 9929,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Mari Stars",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "squimp",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 823
+  },
+  {
+    "id": 9930,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "whatever",
+    "player2Characters": [
+      "Sheik"
+    ],
+    "timestamp": 1129
+  },
+  {
+    "id": 9931,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Mari Stars",
+    "player1Characters": [
+      "Jigglypuff"
+    ],
+    "player2": "cabl",
+    "player2Characters": [
+      "Fox",
+      "Zelda"
+    ],
+    "timestamp": 1876
+  },
+  {
+    "id": 9932,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "whatever",
+    "player1Characters": [
+      "Ganondorf"
+    ],
+    "player2": "squimp",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 2225
+  },
+  {
+    "id": 9933,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "whatever",
+    "player1Characters": [
+      "Ganondorf"
+    ],
+    "player2": "Mari Stars",
+    "player2Characters": [
+      "Jigglypuff"
+    ],
+    "timestamp": 2561
+  },
+  {
+    "id": 9934,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Beastlytrey",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 3051
+  },
+  {
+    "id": 9935,
+    "youtubeId": "PNK_KSS-X_E",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "GrayCode",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Mari Stars",
+    "player2Characters": [
+      "Jigglypuff"
+    ],
+    "timestamp": 3501
+  },
+  {
+    "id": 9936,
+    "youtubeId": "u9toadDBP20",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "a dog",
+    "player2Characters": [
+      "Ice Climbers",
+      "Fox"
+    ]
+  },
+  {
+    "id": 9937,
+    "youtubeId": "u9toadDBP20",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "a dog",
+    "player1Characters": [
+      "Ice Climbers"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Sheik",
+      "Samus"
+    ],
+    "timestamp": 317
+  },
+  {
+    "id": 9938,
+    "youtubeId": "u9toadDBP20",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Enpherest",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 944
+  },
+  {
+    "id": 9939,
+    "youtubeId": "u9toadDBP20",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 1656
+  },
+  {
+    "id": 9940,
+    "youtubeId": "u9toadDBP20",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "a dog",
+    "player2Characters": [
+      "Ice Climbers"
+    ],
+    "timestamp": 2002
+  },
+  {
+    "id": 9941,
+    "youtubeId": "u9toadDBP20",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 2800
+  },
+  {
+    "id": 9942,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Sheik"
+    ],
+    "timestamp": 21
+  },
+  {
+    "id": 9943,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Beastlytrey",
+    "player2Characters": [
+      "Yoshi"
+    ],
+    "timestamp": 435
+  },
+  {
+    "id": 9944,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 865
+  },
+  {
+    "id": 9945,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "squimp",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Lactose",
+    "player2Characters": [
+      "Captain Falcon"
+    ],
+    "timestamp": 1594
+  },
+  {
+    "id": 9946,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Beastlytrey",
+    "player1Characters": [
+      "Yoshi"
+    ],
+    "player2": "cabl",
+    "player2Characters": [
+      "Fox",
+      "Sheik"
+    ],
+    "timestamp": 2355
+  },
+  {
+    "id": 9947,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "sam",
+    "player2Characters": [
+      "Sheik"
+    ],
+    "timestamp": 3676
+  },
+  {
+    "id": 9948,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "Ohnowen",
+    "player2Characters": [
+      "Falco"
+    ],
+    "timestamp": 4387
+  },
+  {
+    "id": 9949,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Rat Funk",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 4791
+  },
+  {
+    "id": 9950,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "cbb",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 5789
+  },
+  {
+    "id": 9951,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Ohnowen",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 7284
+  },
+  {
+    "id": 9952,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "cbb",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "robbie",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 8328
+  },
+  {
+    "id": 9953,
+    "youtubeId": "Zj-YTvF0tns",
+    "date": "2026-09-29",
+    "tournament": "Foreside: PftC Weekly #17",
+    "tournamentShort": "Foreside 17",
+    "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
+    "player2": "cbb",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 8928
   }
 ]
