@@ -121743,19 +121743,19 @@
     ]
   },
   {
-    "id": 10060,
+    "id": 10079,
     "youtubeId": "kJmbmTz7_Do",
     "date": "2026-10-16",
     "tournament": "30XX: A Ben and Keith Birthday Invitational",
     "tournamentShort": "30XX",
     "player1": "Tato",
     "player1Characters": [
+      "Fox",
       "Peach"
     ],
-    "player2": "Tienda",
+    "player2": "De",
     "player2Characters": [
-      "Fox",
-      "Sheik"
+      "Captain Falcon"
     ]
   },
   {
@@ -122070,22 +122070,6 @@
       "Fox",
       "Sheik",
       "Zelda"
-    ]
-  },
-  {
-    "id": 10079,
-    "youtubeId": "kJmbmTz7_Do",
-    "date": "2026-10-16",
-    "tournament": "30XX: A Ben and Keith Birthday Invitational",
-    "tournamentShort": "30XX",
-    "player1": "Tato",
-    "player1Characters": [
-      "Fox",
-      "Peach"
-    ],
-    "player2": "De",
-    "player2Characters": [
-      "Captain Falcon"
     ]
   },
   {
