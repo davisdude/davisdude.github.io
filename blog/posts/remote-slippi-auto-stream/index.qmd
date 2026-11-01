@@ -34,7 +34,9 @@ replay reporter is particularly attractive for a side-stream, especially a quad
 stream:
 
 1. Because the reported set already contains all the requisite metadata, you
-   don't need another stream runner to update tags and scoreboards.
+   don't need another stream runner to update tags and scoreboards. This means
+   the scores and tags will never be wrong, an issue that plagues most quad
+   streams.
 
 1. The software can change views depending on how many sets are active,
    ensuring that each game is as large as possible.
