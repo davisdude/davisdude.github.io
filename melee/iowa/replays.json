@@ -123692,5 +123692,21 @@
       "Marth"
     ],
     "timestamp": 9369
+  },
+  {
+    "id": 10183,
+    "youtubeId": "4J8JF6ARHq0",
+    "date": "2026-11-03",
+    "tournament": "Foreside: PftC Weekly #21",
+    "tournamentShort": "Foreside 21",
+    "player1": "robbie",
+    "player1Characters": [
+      "Fox"
+    ],
+    "player2": "Pupcel",
+    "player2Characters": [
+      "Fox"
+    ],
+    "timestamp": 4235
   }
 ]
