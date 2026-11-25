@@ -125628,7 +125628,13 @@
     "tournament": "Foreside: PftC Weekly #24",
     "tournamentShort": "Foreside 24",
     "player1": "Rat Funk",
+    "player1Characters": [
+      "Fox"
+    ],
     "player2": "GrayCode",
+    "player2Characters": [
+      "Falco"
+    ],
     "timestamp": 4665
   },
   {
@@ -125734,7 +125740,13 @@
     "tournament": "Foreside: PftC Weekly #24",
     "tournamentShort": "Foreside 24",
     "player1": "Slowking",
+    "player1Characters": [
+      "Falco"
+    ],
     "player2": "bitz",
+    "player2Characters": [
+      "Sheik"
+    ],
     "timestamp": 7865
   },
   {
